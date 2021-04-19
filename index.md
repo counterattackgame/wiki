@@ -1,2 +1,10 @@
-[Goalkeepers](https://counterattackgame.github.io/wiki)
-
+[Home Page](https://counterattackgame.github.io/wiki.md)
+[Goalkeepers](https://counterattackgame.github.io/goalkeeper.md)
+[Heading](https://counterattackgame.github.io/heading.md)
+[Getting Started](https://counterattackgame.github.io/getting_started.md)
+[Loose Ball](https://counterattackgame.github.io/loose_ball.md)
+[Movement Phase](https://counterattackgame.github.io/movement_phase.md)
+[Passing](https://counterattackgame.github.io/passing.md)
+[Quick Guide](https://counterattackgame.github.io/quick_guide.md)
+[Set Pieces](https://counterattackgame.github.io/set_pieces.md)
+[Shooting](https://counterattackgame.github.io/shooting.md)
