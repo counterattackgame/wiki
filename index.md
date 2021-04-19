@@ -1,4 +1,4 @@
-[Home Page](https://counterattackgame.github.io/wiki/wiki)
+[Home Page](https://counterattackgame.github.io/wiki)
 
 [Getting Started](https://counterattackgame.github.io/wiki/wiki/getting_started)
 
