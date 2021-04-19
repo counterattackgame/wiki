@@ -1,6 +1,6 @@
 [Home Page](https://counterattackgame.github.io/wiki.md)
 
-[Getting Started](https://counterattackgame.github.io/getting_started.md)
+[Getting Started](https://counterattackgame.github.io/wiki/getting_started.md)
 
 [Movement Phase](https://counterattackgame.github.io/movement_phase.md)
 
