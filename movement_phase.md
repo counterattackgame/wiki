@@ -128,6 +128,7 @@ If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to 
 If R4 rolls a 1, then a fouls is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
 Let's assume that R4 rolled a 3, so nothing happens.
 
+![Movement 1](movement_1.png)
 ## Defensive Movement Phase starts.
 R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
 If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywher around R4.
@@ -139,6 +140,8 @@ Blue is in Possession with 10, who has a Pace of 5 and Dribbling of 6. He is als
 He has enough pace to attempt a nutmeg to R2, calls the nutmeg, wins the duel despite R2 got a tackling bonus of +1.
 B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5, as he was just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
 
+![Movement 2](movement_2.png)
+
 ### Two points to consider here:
 - Winning a Nutmeg practically allows a reposition, but it consumes 2 Paces whatsoever.
 - If B10 had a Pace of 4, he could not have attempted the nutmeg on R5.
@@ -146,3 +149,5 @@ B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5
 ### Dribbling in and out of the Penalty Box
 
 B10 wants to play it safe and avoid all possible steal attempts, so he follows the below path. He essentially enters the box twice, (in the two dark Hexes) so he should have stopped his movement twice to ask the keeper if they wanted to move their free Hex of 1.
+
+![Movement 3](movement_3.png)
