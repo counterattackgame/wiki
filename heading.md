@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # Heading
 
 A header must follow a high pass. There are no limits to the number of players from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.

@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # QUICK GUIDE
 
 ## Shooting

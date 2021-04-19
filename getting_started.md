@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # Getting Started
 
 A team squad is made up of 16 players; 1 goalkeeper, 10 outfielders and 5 substitutes. Here’s how to draft squads at the start of the game.

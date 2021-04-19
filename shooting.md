@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # Shooting
 
 Shooting is a duel between the player taking the shot and the goalkeeper.

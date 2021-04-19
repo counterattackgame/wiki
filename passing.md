@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # Passing
 
 There are 3 types of passes in the Core Rules and a 4th one in the Advanced Rules. 

@@ -1,3 +1,4 @@
+[Back to Home Page](https://counterattackgame.github.io/wiki)
 # Loose Ball
 
 The Loose Ball instructions determines where the ball ends up whenever:
