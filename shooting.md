@@ -1,0 +1,56 @@
+Shooting is a duel between the player taking the shot and the goalkeeper.
+
+Shots from outside the penalty area receive a -1 dice penalty.
+Snapshots receive a -1 dice penalty.
+If the shot is taken from outside the penalty box, the goalkeeper gets to move 1 hex before attempting a save.
+
+If the attacker’s score is higher, a goal has been scored!
+If the keeper’s score is higher, roll a dice:
+
+If you roll equal to or higher than the goalkeeper’s Handling, run a Loose Ball test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the Loose ball process.
+If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
+
+In the event of a tie, follow the Loose Ball instructions.
+
+Read The Goalkeeper to discover what you can do once you have held a shot.
+
+Snapshot
+
+A snapshot sacrifices accuracy for the element of surprise. Take one:
+
+During the attacking team's player movements in a Movement Phase if a player has or takes the ball in the opposition's penalty area OR immediately when a loose ball hits an attacking player in the opposition's penalty area or outside the box within shooting distance.
+Immediately following a pass, whether inside or outside the penalty area.
+
+All the same rules of shooting apply, but the player’s Shooting attribute receives a -1 dice penalty.
+Just before the snapshot is taken, 1 opponent is allowed to move any player 2 hexes in an attempt to deflect the shot (see Loose Ball). This can include the goalkeeper.
+
+In the Advanced Rules, if you choose the goalkeeper to move 2 Hexes (for the snapshot), the keeper gets a -1 saving penalty on the 2nd Hex away and a -2 penalty on the 3rd Hex away.
+
+The sequence that must be followed is:
+
+Attack calls Snapshot
+Defence moves 1 player (up to) 2 Hexes
+Attack calls the direction of the shot. Agree on which defenders can attempt to block. Resolve any block attempts. If the ball is blocked , play the loose ball. If not proceed below.
+Agree on the Hex that the keeper will attempt to save, and calculate any potential penalties for the saving.
+Roll dice for shooting and saving. If attack rolls a 1 the shot is off-target.
+
+In case of a SHOT, the direction is called at the same time as the action itself, and shot process starts from the third bullet above.
+
+Please note:
+
+Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He CANNOT snapshot.
+Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He CAN snapshot.
+Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He CAN snapshot.
+
+Difficult Shooting Angles
+
+Certain positions on the pitch within shooting range are difficult to score from due to the angle. Shooting from hexes marked with a small circle is possible but your shooting suffers a -1 dice penalty.
+
+Deciding the hex of potential save for the GK
+
+Always remember that:
+
+Shot attempts (Snapshots, Shots and Headed attempts at Goal) travel in a STRAIGHT line.
+Goalkeepers can only save in hexes parallel to the goal line. There is a theoretical 7-Hex-wide saving wall consisting of the GK position and 3 hexes in each side, always parallel to the goal line.
+Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many Hexes.
+The Goalkeeper always saves in the closest hex that the ball trajectory dictates.

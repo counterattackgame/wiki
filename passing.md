@@ -1,0 +1,143 @@
+There are 3 types of passes in the Core Rules and a 4th one in the Advanced Rules. The markers on the distance stick show you how far each pass can travel. This is a maximum allowable distance; the pass can be shorter than the marker shows. Hold the stick over the player in possession of the ball and point it in the direction you’d like to pass.
+
+Standard Pass
+
+A standard pass travels along the ground. The ball cannot travel through an opponent (see Zone of Influence) but you can pass through your teammate.
+If the path of the ball comes within 1 hex of a defender, that player can roll a 6 OR achieve a combined score of 10+ with their tackling ability to intercept.
+
+If the interception is successful, possession changes. Continue play with "Any other scenario" (Movement, First Time Pass, Long pass, Snapshot). The defender attracts the ball to their Hex, the defender does not go to the ball or reposition in anyway.
+
+The passer of a Standard Pass can pick up the ball if he/she wants.
+
+High Pass
+
+Use the distance stick to work out where you want to pass to. If your opponent is within 1 hex of the player making the pass and directly in the path of the high pass, the pass cannot be made. Place the ball where you want it to go. The ball must always be aimed to land on the head of one of your players.
+
+Next, each team may move 1 player up to 3 hexes as the ball travels. This means that the offside position of each player is assessed before these two movements.
+If the High Pass is played into the penalty box, the goalkeeper also gets to move 1 hex.
+
+Now test for accuracy: High Pass + dice must be 8+. If the pass is inaccurate, refer to Inaccurate high passes below.
+
+A High Pass has to be targeted at least 3 clear hexes away from the passer, but even in the scenario of the inaccuracy, you cannot head your own High Pass. If the inaccurate High Pass lands on the passer, continue play with Any Other Scenario
+
+Inaccurate high passes
+
+If a high pass is inaccurate, follow the Loose Ball instructions to find out the actual destination of the high pass. This can result to a ball moving out of the pitch for a Goal Kick or a Throw in. In case of inaccuracy the trajectory is considered to be a straight line between the passer's position and the final destination.
+
+An inaccurate High Pass cannot be intercepted.
+
+Once the ball's final destination is determined, if there are players within 2 hexes, a header or control must be attempted by at least one player. If no player is close enough, resume play with a Movement Phase.
+
+Attempt to Control the ball
+
+If no opponent is close enough to challenge for a Header, you can choose to either (a) head the ball unopposed (see Headers) or (b) control the ball. For the latter option, run a dice test: dribbling + dice must equal 9+:
+
+if you are successful, continue play as if you've just won a tackle
+if you are unsuccessul, follow the Loose Ball instructions
+If no-one can challenge for the inaccurate high ball
+
+Continue play with a Movement Phase. Attacking team moves first.
+
+Long Pass
+
+A Long Pass can travel to any position on the pitch which means there is no need for the distance stick. There are some limitations, however!
+
+You cannot play a Long Pass from one final third to the other (In Advanced Rules you can), or make the pass if there is an opponent in any hex adjacent to yours that will block the route of the ball.
+The ball must not be aimed to land within 5 hexes of any of your teammates and it must not be aimed to land in any hex right next to an opponent.
+
+There is no rule against the passer of a Long Pass being the same person to pick up the ball eventually.
+
+Accuracy Check
+
+You must check for accuracy when you play a Long Pass. A combined score (dice + High Pass attribute) of 9+ is needed for the Long Pass to be accurate.
+In Advanced Rules, a Long Pass from one Final Third to another is possible but it requires a combined score of 10+ to be accurate.
+
+If the pass is inaccurate, follow the Loose Ball instructions as in High Pass.
+
+Accurate or not, the Long Pass travels high in the air and cannot be intercepted en route to its destination. However, an inaccurate Long Pass could land directly on an opponent. The ball lands in its destination though. No header is involved.
+
+What is after a Long Pass?
+
+After a Long Pass has been made, the defending manager gets to move their goalkeeper according to the goalkeeper’s pace.
+
+In case the ball gets into the box, the defending keeper also gets 1 Hex move.
+
+Play then resumes with a Movement Phase, with the attacking team moving first.
+
+First Time Pass
+
+First-time passes are short. They can be used to catch out a tight defence, but be aware that a defender can make a move to intercept the pass.
+
+Decide where the ball will go to and then each team moves 1 player 1 hex as the ball travels. Attacking player moves first.
+
+If the defender moves into the path of the ball, roll a 5 or 6  OR a 10+ combined score (with the Tackling Attribute) to intercept.
+If the defender comes within 1 hex of the ball, roll a 6 OR a 10+ combined score (with the Tackling Attribute) to intercept.
+If the defender comes within 1 Hex of the player in possession, roll a 6 OR a 10+ combined score (with the Tackling Attribute) to intercept. (Roll a 1 and it's a Foul, though)
+
+Please note that the recipient of the pass has to be different from the taker.
+
+Please also note that if the 6th hex away of your first time pass is on your teammate, and you chose to move that player one Hex, he/she cannot carry the ball with him. The first time pass distance ABIDES.
+
+Graphical Examples
+Standard Pass
+
+The Player in control of the ball is Red 4 (R4).
+
+A pass cannot be made to R5 because the ball would travel directly through the hex of W7
+A pass can be made to R10 but W7 could roll for an intercept because the ball travels through that player's Zone of Influence
+A pass can be made to R7 and no opponent can intercept. The ball does enter the Zone of Influence of W5 but that space is occupied by R7 so no intercept is possible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Also:
+
+If this was a Standard Pass attempt between the Reds, both Blue players can attempt to intercept.
+If this was a Standard Pass attempt between the Blues, NO Red players can attempt to intercept.
+
+
+High Pass
+
+Red 4 (R4) has the ball.
+
+A High Pass cannot be made in the direction of R7 because W7 is in an adjacent hex and directly in the path of the ball.
+A High Pass can be made in the direction of R10 because no opponent is in an adjacent hex
+
+
+
+
+Long Pass
+
+The rules for blocking a Long Pass are the same for blocking a High Pass.
+
+First Time Pass
+
+In this example, Red 4 (R4) has the ball.
+
+A first-time pass is being attempted into the direction of the long arrow.
+
+As the ball travels, R10 moves up to receive the pass and W7 moves left to try to intercept.
+
+Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or 6.
+
+If W7 is unsuccessful, R10 collects the ball in the hex that player has moved into. W5 does not get an intercept because R10 is occupying the space the ball is travelling into.
+
+
