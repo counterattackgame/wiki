@@ -20,7 +20,7 @@ Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the
 **Actions during the Movement Phase**
 
 - You cannot make a [pass](https://counterattackgame.github.io/wiki/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/shooting) during a Movement Phase if your player has the ball in the box.
-- If a defender moves a player within 1 hex of the attacker in possession, a [yadawiki link="Tackling" show="tackle"] can be attempted. Pause the sand timer while making the tackle.
+- If a defender moves a player within 1 hex of the attacker in possession, a tackle can be attempted. Pause the sand timer while making the tackle.
 - If a player is successfully tackled during the Movement Phase, possession of the ball changes hands and the current Movement Phase immediately comes to an end.
 
 

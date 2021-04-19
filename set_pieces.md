@@ -1,6 +1,8 @@
+# SET PIECES 
+
 Whenever a set piece is awarded, both teams are immediately allowed to pick up and reposition their goalkeeper.
 
-Corner Kick
+## Corner Kick
 
 If a corner kick has been awarded, select a player to take the kick. Position that player in the corner arc with the ball. Each manager is now allowed to pick up and reposition 6 players. Take turns moving 2 players each, attacking manager goes first.
 
@@ -18,39 +20,36 @@ If you prefer to play a low pass, the ball can only travel the distance of a fir
 
 The first Advanced adjustment means that the free move of 3 hexes for either team is independent of the type of pass the attack choses to declare, but there are no extra 3 hexes each if a High Pass is declared.
 
-
-
-
-Throw-in
+## Throw-in
 
 After a throw in has been awarded, the attacking team selects one player on the pitch to take the throw-in and then a Movement Phase is completed before play resumes with the throw. If the attacking manager wishes, you can choose to run through a second Movement Phase before taking the throw. The ball can be thrown the same distance as a header can travel.
 
 The ball can be played to the feet or space, with interception possibilities. This type of pass is a Standard pass with limited distance (6)
 It can also be played to head, with no interceptions, but a header MUST follow.
 
-Free Kick or Penalty?
+## Free Kick or Penalty?
 
 If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area.
 
-Penalty
+## Penalty
 
 If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area.
 
 A penalty is a duel between the attacker and the goalkeeper:
 the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the Loose Ball rules.
 
-Free Kick
+## Free Kick
 
 Select the player you want to take the kick and position them and the ball where the foul was committed. Any opponents within 2 hexes of the ball must be moved 2 CLEAR hexes away from the ball. Both these two must be done during the below repositioning procedure.
 
 You and your opponent may now reposition players like so:
 
-Attacking team picks up and places 2 players.
-Defending team picks up and places 2 players.
-Attacking team picks up and places 2 players.
-Defending team picks up and places 2 players.
-Attacking team picks up and places 3 players.
-Defending team picks up and places 2 players.
+1. Attacking team picks up and places 2 players.
+2. Defending team picks up and places 2 players.
+3. Attacking team picks up and places 2 players.
+4. Defending team picks up and places 2 players.
+5. Attacking team picks up and places **3** players.
+6. Defending team picks up and places 2 players.
 
 Attack cannot place a player on a hex that is in the 6-yard-box AND touching the GK position.
 
@@ -60,10 +59,8 @@ In total, the defending manager moves 6 players and the attacking manager moves 
 
 You can now choose to pass (High Long or Standard) or shoot. If you choose to shoot (use the distance stick to judge if a shot is possible), then combine your player’s Shooting attribute with a dice roll to determine the success of the shot:
 
-If your combined score is 9 or higher, the shot is on target. No defender can block this shot. The goalkeeper attempts to make a save (see Shooting).
-If your combined score is lower than 9, any defenders in the way can attempt a block (see Loose Ball).
+- If your combined score is 9 or higher, the shot is on target. No defender can block this shot. The goalkeeper attempts to make a save (see Shooting).
+- If your combined score is lower than 9, any defenders in the way can attempt a block (see Loose Ball).
 An unlucky roll of 1 means that the shot is off target, but as any normal shot, it is subject to blocks.
 
 Remember that if your combined score is lower than 9, you can still score. And don’t forget that a shot from outside the box still has a -1 dice penalty.
-
-
