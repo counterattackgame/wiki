@@ -34,7 +34,7 @@ If a foul is committed in a hex that is both inside and outside the penalty area
 
 ## Penalty
 
-If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No defenders allowed in the penalty **arc**.
+If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No players allowed in the penalty **arc**.
 
 A penalty is a duel between the attacker and the goalkeeper:
 the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) rules.
