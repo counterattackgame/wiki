@@ -1,7 +1,7 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
 # Goalkeeper 
 
-Just like any other player, your goalkeeper can be moved in a Movement Phase. Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
+Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
 
 # Positioning to make a save
 
@@ -13,15 +13,15 @@ The goalkeeper has three choices:
 
 1. Kick the ball. Before this kick is taken, any players who are in either final third get to move up to 6 hexes each. The goalkeeper’s team moves first.
 2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent.
-3. Make a movement phase. BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
+3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
 
-If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the Loose Ball instructions to find the final destination. (it must initially be targeted on a teammate's head)
+If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions to find the final destination. (it must initially be targeted on a teammate's head)
 
-Both teams get to move one player up to 3 hexes while the ball is travelling in the air. If a defender is within distance to challenge for a header (i.e. within 2 hexes), then play resumes with a header. If no defender is close enough to challenge for a header, the attacking player can continue play with a header or Control Attempt. If no one is in range for a header, play continues with a Movemet Phase.
+Both teams get to move one player up to 3 hexes while the ball is travelling in the air. If a defender is within distance to challenge for a [Header](https://counterattackgame.github.io/wiki/heading) (i.e. within 2 hexes), then play resumes with a header. If no defender is close enough to challenge for a header, the attacking player can continue play with a header or Control Attempt. If no one is in range for a header, play continues with a Movemet Phase.
 
 ## Competing for a high cross
 
-If your opponent crosses the ball into the box, you can challenge to catch the ball. If the ball is aimed within one hex of you, then have a duel with your opponent (see Heading).
+If your opponent crosses the ball into the box, you can challenge to catch the ball. If the ball is aimed within one hex of you, then have a duel with your opponent (see [Heading](https://counterattackgame.github.io/wiki/heading)).
 
 After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can only do this if they intend to challenge for the high ball (not just for better positioning), and that they have **not already** moved 3 hexes per the high cross rules.
 
@@ -37,8 +37,8 @@ Goalkeepers do not have a Tackling attribute, but they can instead dive with the
 
 You can dive at the attacker’s feet during a:
 
-- Defensive Movement Phase if you move to an adjacent hex. Regular GK Tackling duel.
-- Attacking Movement Phase, if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty.
+- Defensive [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
+- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty.
 - GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away
 
 However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded!
@@ -67,7 +67,7 @@ When an attacker calls a snapshot and you choose your goalkeeper as the one to m
 
 ## Goalkeepers can pick up the ball
 
-Goalkeepers can run to get the ball. If the ball is in their penalty box and it did not come from a teammate's kick, they can pick it up using their gloves. Continue Play as if there was a save and Hold. You can only pick the ball up when a movement phase ends (with a change of possession or regularly).
+Goalkeepers can run to get the ball. If the ball is in their penalty box and it did not come from a teammate's kick, they can pick it up using their gloves. Continue Play as if there was a save and Hold. You can only pick the ball up when a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) ends (with a change of possession or regularly).
 
 ## Goalkeepers cannot be marked at set-pieces
 

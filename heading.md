@@ -12,10 +12,10 @@ Goalkeepers can also challenge to catch a high pass if they are close enough, us
 
 If the goalkeeper loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty in the second Hex away. 
 
-If the goalkeeper wins the duel they save and hold.
+If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/goalkeeper).
 
 
-In all instances, follow the Loose Ball instructions if there is a tie. A loose ball from a Header cannot hit players that were involved in the Headed Challenge.
+In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions if there is a tie. A [loose Bball](https://counterattackgame.github.io/wiki/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
 
 ## Headed Attempts at Goal
 
@@ -31,15 +31,15 @@ Use the distance stick to judge how far it can travel. No interceptions are poss
 
 ## Following a Header
 
-The players who challenged for the header cannot participate in the subsequent Movement Phase.
+The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 ## Heading back to the goalkeeper (Advanced Rules)
 
 You cannot head the ball back to your goalkeeper at a corner kick. (Core Rules)
 
-Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a Loose ball process from the Goalkeeper.
+Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) process from the Goalkeeper.
 
-If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a movement phase.
+If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 
 ## Heading Sequence
@@ -55,8 +55,8 @@ If you choose to head the ball close to your goalkeeper's feet, in order to avoi
 10. Defence Rolls with all the declared players, and GK if he had been declared. Decide which player creates the best combined score (the first player you rolled the tying score with).
 11. Compare the attack's best combined score with the defence's.
 - **Attack Wins**: If GK was not involved in challenge, GK tries to save on the hex that Attack heads to. If GK was involved in challenge, it's a GOAL.
-- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [yadawiki link="Goalkeeper" show="Save and Hold"]
-- **There is a TIE**. Follow Loose ball instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a movement phase.
+- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [Save and Hold](https://counterattackgame.github.io/wiki/goalkeeper)
+- **There is a TIE**. Follow [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 
 ## Controlling a High Pass
@@ -71,7 +71,7 @@ If the ball's final target is not on your player, but still in range for an unma
 
 # Extra Notes
 
-The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a Movement Phase. If the ball is in range for a Header, Movement Phase in not an option for the attack.
+The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). If the ball is in range for a Header, [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) in not an option for the attack.
 
 All heading distances start from the Ball, not the winner of the challenge.
 

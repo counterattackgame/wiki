@@ -19,7 +19,7 @@ The passer of a Standard Pass can pick up the ball if he/she wants.
 
 ## High Pass
 
-Use the distance stick to work out where you want to pass to. If your opponent is within 1 hex of the player making the pass and directly in the path of the high pass, the pass cannot be made. Place the ball where you want it to go. The ball must always be aimed to land on the head of one of your players.
+Use the distance stick to work out where you want to pass to. If your opponent is within 1 hex of the player making the pass and directly in the path of the high pass, the pass cannot be made. Place the ball where you want it to go. The ball must always be aimed to land on the [Head](https://counterattackgame.github.io/wiki/heading) of one of your players.
 
 Next, each team may move 1 player up to 3 hexes as the ball travels. This means that the offside position of each player is assessed before these two movements.
 
@@ -27,25 +27,25 @@ If the High Pass is played into the penalty box, the goalkeeper also gets to mov
 
 Now test for accuracy: High Pass + dice must be 8+. If the pass is inaccurate, refer to Inaccurate high passes below.
 
-A High Pass has to be targeted at least 3 clear hexes away from the passer, but even in the scenario of the inaccuracy, you cannot head your own High Pass. If the inaccurate High Pass lands on the passer, continue play with Any Other Scenario
+A High Pass has to be targeted at least 3 clear hexes away from the passer, but even in the scenario of the inaccuracy, you cannot [Head](https://counterattackgame.github.io/wiki/heading) your own High Pass. If the inaccurate High Pass lands on the passer, continue play with Any Other Scenario
 
 ### Inaccurate high passes
 
-If a high pass is inaccurate, follow the Loose Ball instructions to find out the actual destination of the high pass. This can result to a ball moving out of the pitch for a Goal Kick or a Throw in. 
+If a high pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions to find out the actual destination of the high pass. This can result to a ball moving out of the pitch for a Goal Kick or a Throw in. 
 
 In case of inaccuracy the trajectory is considered to be a straight line between the passer's position and the final destination.
 
 An inaccurate High Pass cannot be intercepted.
 
-Once the ball's final destination is determined, if there are players within 2 hexes, a header or control must be attempted by at least one player. If no player is close enough, resume play with a Movement Phase.
+Once the ball's final destination is determined, if there are players within 2 hexes, a [Header](https://counterattackgame.github.io/wiki/heading) or control must be attempted by at least one player. If no player is close enough, resume play with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 ### Attempt to Control the ball
 
-If no opponent is close enough to challenge for a Header, you can choose to either (a) head the ball unopposed (see Headers) or (b) control the ball. For the latter option, run a dice test: dribbling + dice must equal 9+:
+If no opponent is close enough to challenge for a [Header](https://counterattackgame.github.io/wiki/heading), you can choose to either (a) head the ball unopposed (see [Heading](https://counterattackgame.github.io/wiki/heading)) or (b) control the ball. For the latter option, run a dice test: dribbling + dice must equal 9+:
 
 - If you are successful, continue play as if you've just won a tackle
-- If you are unsuccessul, follow the Loose Ball instructions
-- If no-one can challenge for the inaccurate high ball, continue play with a Movement Phase. Attacking team moves first.
+- If you are unsuccessul, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions
+- If no-one can challenge for the inaccurate high ball, continue play with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). Attacking team moves first.
 
 ## Long Pass
 
@@ -63,7 +63,7 @@ You must check for accuracy when you play a Long Pass. A combined score (dice + 
 
 In Advanced Rules, a Long Pass from one Final Third to another is possible but it requires a combined score of 10+ to be accurate.
 
-If the pass is inaccurate, follow the Loose Ball instructions as in High Pass.
+If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions as in High Pass.
 
 Accurate or not, the Long Pass travels high in the air and cannot be intercepted en route to its destination. However, an inaccurate Long Pass could land directly on an opponent. The ball lands in its destination though. No header is involved.
 
@@ -73,7 +73,7 @@ After a Long Pass has been made, the defending manager gets to move their goalke
 
 In case the ball gets into the box, the defending keeper also gets 1 Hex move.
 
-Play then resumes with a Movement Phase, with the attacking team moving first.
+Play then resumes with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), with the attacking team moving first.
 
 ## First Time Pass
 

@@ -102,7 +102,7 @@ This is a difficult move to execute but it’s worth it if you manage it! Here�
 
 The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
 
-If it’s a tie, refer to the Loose Ball instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
 
 # Extra Notes
 - Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
@@ -111,7 +111,7 @@ If it’s a tie, refer to the Loose Ball instructions, but the attacker who init
 - The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
 - When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
 - A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was loose, the movement ends immediately and resume with any other scenario. If you pick it up with the Goalkeeper within the penalty box using your hands, and continue play as if you Saved and Held a shot.
+- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the Goalkeeper within the penalty box using your hands, and continue play as if you Saved and Held a shot.
 - As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
 - If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
 - When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
