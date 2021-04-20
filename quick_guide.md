@@ -53,7 +53,7 @@ Attacking team moves first
 Both teams move one player up to 3 Hexes (Attack goes first)
 Play continues with
 (a) High Pass: Can be placed anywhere in penalty box Both teams move 1 player up to 3 hexes first ACCURACY: =>8
-(b) Short pass: Can travel the distance of a first-time pass
+(b) Short pass: Can travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
 
 ## Throw-in
 

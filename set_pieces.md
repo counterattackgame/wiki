@@ -17,7 +17,7 @@ Play continues with a high pass or a low pass. A high pass can be made to any po
 
 **Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
 
-If you prefer to play a low pass, the ball can only travel the distance of a first-time pass.
+If you prefer to play a low pass, the ball can only travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
 
 The first Advanced adjustment means that the free move of 3 hexes for either team is independent of the type of pass the attack choses to declare, but there are no extra 3 hexes each if a High Pass is declared.
 
