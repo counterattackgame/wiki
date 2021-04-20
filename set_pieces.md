@@ -17,7 +17,7 @@ Play continues with a high pass or a low pass. A high pass can be made to any po
 
 **Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
 
-If you prefer to play a low pass, the ball can only travel the distance of a first-time pass.
+If you prefer to play a low pass, the ball can only travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
 
 The first Advanced adjustment means that the free move of 3 hexes for either team is independent of the type of pass the attack choses to declare, but there are no extra 3 hexes each if a High Pass is declared.
 
@@ -30,11 +30,11 @@ It can also be played to head, with no interceptions, but a header MUST follow.
 
 ## Free Kick or Penalty?
 
-If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area.
+If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area. 
 
 ## Penalty
 
-If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area.
+If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No defenders allowed in the penalty **arc**.
 
 A penalty is a duel between the attacker and the goalkeeper:
 the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) rules.

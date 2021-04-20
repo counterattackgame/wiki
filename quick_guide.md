@@ -33,8 +33,8 @@ Can also dive at attacker’s feet (3 hexes max): Saving vs Dribbling
 
 **THROW**: No player moves first. Throw distance of standard pass. No interceptions.
 **MOVEMENT PHASE**: Keeper Drops ball to feet and play on.
-**KICK**: Final Third movements first. Can kick to anywhere except opposite Final Third
-**ACCURACY**: =>8
+**DROP THE BALL/KICK**: Outfield players rule apply with ability to play High Pass (Can kick to anywhere except opposite Final Third with accuracy =>8
+) / Long pass / Standard pass
 
 ## Loose Ball
 
@@ -53,7 +53,7 @@ Attacking team moves first
 Both teams move one player up to 3 Hexes (Attack goes first)
 Play continues with
 (a) High Pass: Can be placed anywhere in penalty box Both teams move 1 player up to 3 hexes first ACCURACY: =>8
-(b) Short pass: Can travel the distance of a first-time pass
+(b) Short pass: Can travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
 
 ## Throw-in
 

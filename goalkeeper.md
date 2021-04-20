@@ -13,7 +13,7 @@ The goalkeeper has three choices:
 
 1. Kick the ball. Before this kick is taken, any players who are in either final third get to move up to 6 hexes each. The goalkeeper’s team moves first.
 2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent.
-3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
+3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) or Pass/Long Pass/High Pass (With GK rules for a high pass).. BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
 
 If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions to find the final destination. (it must initially be targeted on a teammate's head)
 
@@ -38,7 +38,8 @@ Goalkeepers do not have a Tackling attribute, but they can instead dive with the
 You can dive at the attacker’s feet during a:
 
 - Defensive [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
-- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty.
+- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty. The GK has the ability to “dive at feet” anytime a player is within a saving hex, even if a snapshot is about to be called on said saving hex
+
 - GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away
 
 However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded!
