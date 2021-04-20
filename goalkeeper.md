@@ -38,7 +38,8 @@ Goalkeepers do not have a Tackling attribute, but they can instead dive with the
 You can dive at the attacker’s feet during a:
 
 - Defensive [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
-- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty.
+- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty. The GK has the ability to “dive at feet” anytime a player is within a saving hex, even if a snapshot is about to be called on said saving hex
+
 - GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away
 
 However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded!
