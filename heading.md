@@ -1,25 +1,25 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
 # Heading
 
-A header must follow a high pass. There are no limits to the number of players from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There are no limits to the number of players from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
 
 - Players within 1 hex can challenge for the header.
 - Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
 
 Use the distance stick to judge how far the header can travel.
 
-Goalkeepers can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
+[Goalkeepers](https://counterattackgame.github.io/wiki/goalkeeper) can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
 
-If the goalkeeper loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty in the second Hex away. 
+If the [goalkeeper](https://counterattackgame.github.io/wiki/goalkeeper) loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty of -1 in the second Hex away. 
 
 If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/goalkeeper).
 
 
-In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions if there is a tie. A [loose Bball](https://counterattackgame.github.io/wiki/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
+In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions if there is a tie. A [loose ball](https://counterattackgame.github.io/wiki/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
 
 ## Headed Attempts at Goal
 
-Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a save. The attacker does not re-roll. Start counting Hexes from THE BALL, not the winner of the headed challenge.
+Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
 
 ## Headed Passes
 
@@ -27,7 +27,7 @@ Headed passes cannot be intercepted and there cannot be 2 consecutive headed pas
 
 If the defender wins the headed duel, the ball has to be headed away.
 
-Use the distance stick to judge how far it can travel. No interceptions are possible. The team that headed the ball is now the attacking team. Start counting from THE BALL, not the winner of the headed challenge.
+Use the distance stick to judge how far it can travel. No interceptions are possible. The team that headed the ball is now the attacking team. Start counting from **THE BALL**, not the winner of the headed challenge.
 
 ## Following a Header
 
