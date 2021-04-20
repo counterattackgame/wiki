@@ -9,22 +9,21 @@ Snapshots receive a -1 dice penalty.
 
 If the shot is taken from outside the penalty box, the goalkeeper gets to move 1 hex before attempting a save.
 
-- If the attacker’s score is higher, a goal has been scored!
-- If the keeper’s score is higher, roll a dice:
+1. If the attacker’s score is higher, a goal has been scored!
+2. If the keeper’s score is higher, roll a dice:
 
-If you roll equal to or higher than the goalkeeper’s Handling, run a Loose Ball test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the Loose ball process.
-If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
+- If you roll equal to or higher than the goalkeeper’s Handling, run a Loose Ball test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the Loose ball process.
+- If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
 
-- In the event of a tie, follow the Loose Ball instructions.
+3. In the event of a tie, follow the Loose Ball instructions.
 
 
 ## Snapshot
 
 A snapshot sacrifices accuracy for the element of surprise. Take one:
 
-During the attacking team's player movements in a Movement Phase if a player has or takes the ball in the opposition's penalty area OR immediately when a loose ball hits an attacking player in the opposition's penalty area or outside the box within shooting distance.
-
-Immediately following a pass, whether inside or outside the penalty area.
+- During the attacking team's player movements in a Movement Phase if a player has or takes the ball in the opposition's penalty area OR immediately when a loose ball hits an attacking player in the opposition's penalty area or outside the box within shooting distance.
+- Immediately following a pass, whether inside or outside the penalty area.
 
 All the same rules of shooting apply, but the player’s Shooting attribute receives a -1 dice penalty.
 
@@ -44,9 +43,9 @@ In case of a SHOT, the direction is called at the same time as the action itself
 
 Please note:
 
-- Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He CANNOT snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He CAN snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He CAN snapshot.
+- Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He **CANNOT** snapshot.
+- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He **CAN** snapshot.
+- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He **CAN** snapshot.
 
 ## Difficult Shooting Angles
 
@@ -58,7 +57,7 @@ Always remember that:
 
 - Shot attempts (Snapshots, Shots and Headed attempts at Goal) travel in a STRAIGHT line.
 - Goalkeepers can only save in hexes parallel to the goal line. There is a theoretical 7-Hex-wide saving wall consisting of the GK position and 3 hexes in each side, always parallel to the goal line.
-- Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many Hexes.
-- The Goalkeeper always saves in the closest hex that the ball trajectory dictates.
+- Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many more Hexes than a player would use to travel the same route.
+- The Goalkeeper always saves in the **closest** hex that the ball trajectory dictates.
 
 [Back to Home Page](https://counterattackgame.github.io/wiki)
