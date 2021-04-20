@@ -45,17 +45,15 @@ If no opponent is close enough to challenge for a Header, you can choose to eith
 
 - If you are successful, continue play as if you've just won a tackle
 - If you are unsuccessul, follow the Loose Ball instructions
-- If no-one can challenge for the inaccurate high ball
-
-Continue play with a Movement Phase. Attacking team moves first.
+- If no-one can challenge for the inaccurate high ball, continue play with a Movement Phase. Attacking team moves first.
 
 ## Long Pass
 
 A Long Pass can travel to any position on the pitch which means there is no need for the distance stick. There are some limitations, however!
 
-You cannot play a Long Pass from one final third to the other (In Advanced Rules you can), or make the pass if there is an opponent in any hex adjacent to yours that will block the route of the ball.
+- You cannot play a Long Pass from one final third to the other (In Advanced Rules you can), or make the pass if there is an opponent in any hex adjacent to yours that will block the route of the ball.
 
-The ball must not be aimed to land within 5 hexes of any of your teammates and it must not be aimed to land in any hex right next to an opponent.
+- The ball must not be aimed to land within 5 hexes of any of your teammates and it must not be aimed to land in any hex right next to an opponent.
 
 There is no rule against the passer of a Long Pass being the same person to pick up the ball eventually.
 
