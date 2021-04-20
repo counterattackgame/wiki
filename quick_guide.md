@@ -75,6 +75,7 @@ Any player standing within 1 hex from the ball can take the kick
 ## Penalty Kick
 
 Pick up and resposition all players
+No players allowed in the penalty area and arc, except taker and keeper.
 GK has -2 dice penalty
 
 ## Standard Pass

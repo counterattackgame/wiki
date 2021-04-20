@@ -12,8 +12,8 @@ You can dive 3 hexes in either direction parallel to the goal line when attempti
 The goalkeeper has three choices:
 
 1. Kick the ball. Before this kick is taken, any players who are in either final third get to move up to 6 hexes each. The goalkeeper’s team moves first.
-2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent. The throw can travel the distance of a standard pass and is subject to standard pass rules except interceptions. 
-3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) or Pass/Long Pass/High Pass (With GK rules for a high pass).. BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
+2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent. The throw subject to standard pass rules except interceptions. 
+3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) or Pass/Long Pass/High Pass (With GK rules for a high pass), **but**, the GK drops the ball to feet and cannot pick up any more. This is now open play.
 
 If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions to find the final destination. (it must initially be targeted on a teammate's head)
 
