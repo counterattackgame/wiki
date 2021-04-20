@@ -1,3 +1,5 @@
+Select your language: [English](https://counterattackgame.github.io/wiki), [Italian](https://counterattackgame.github.io/wiki/it/index)
+
 [Home Page](https://counterattackgame.github.io/wiki)
 
 [Getting Started](https://counterattackgame.github.io/wiki/getting_started)

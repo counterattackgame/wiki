@@ -20,10 +20,10 @@ To determine the distance the ball will break, roll a dice again. The dice roll 
 - If the loose ball is picked up by a defender, the [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) ends immediately and play continues with "Any other Scenario"
 - If the loose ball comes from an inaccurate high pass, the ball travels **directly from the passer to the new destination**. Play resumes from this point, following the rules of [Headers](https://counterattackgame.github.io/wiki/heading) or with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) if a header is not possible.
 - If the loose ball comes from an inaccurate long pass, the ball travels **directly from the passer to the new destination**. Play resumes from this point with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
-- Goals can be scored from loose balls! If the ball passes within 1 hex of the goalkeeper, the goalkeeper needs to roll a 5 or a 6  or 10+ combined with Saving to save it! If the ball passes more than 1 hex from the goalkeeper, it cannot be saved.
+- Goals can be scored from loose balls! If the ball passes within 1 hex of the [goalkeeper](https://counterattackgame.github.io/wiki/goalkeeper), the goalkeeper needs to roll a 5 or a 6  or 10+ combined with Saving to save it! If the ball passes more than 1 hex from the goalkeeper, it cannot be saved.
 
 ## How to deflect shots:
-- If the shot travels though a defender, roll a 5 or 6  or 10+ combined with Tacklling to deflect.
+- If the [shot](https://counterattackgame.github.io/wiki/shooting) travels though a defender, roll a 5 or 6, or 10+ combined with Tacklling to deflect.
 - If it passes within 1 hex, roll a 6 or 10+ combined with Tackling to deflect.
 
 [Back to Home Page](https://counterattackgame.github.io/wiki)
