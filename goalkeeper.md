@@ -15,7 +15,7 @@ The goalkeeper has three choices:
 2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent.
 3. Make a movement phase. BUT, the GK drops the ball to feet and cannot pick up any more. This is now open play.
 
-- If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the Loose Ball instructions to find the final destination. (it must initially be targeted on a teammate's head)
+If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s High Pass attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the Loose Ball instructions to find the final destination. (it must initially be targeted on a teammate's head)
 
 Both teams get to move one player up to 3 hexes while the ball is travelling in the air. If a defender is within distance to challenge for a header (i.e. within 2 hexes), then play resumes with a header. If no defender is close enough to challenge for a header, the attacking player can continue play with a header or Control Attempt. If no one is in range for a header, play continues with a Movemet Phase.
 
@@ -23,7 +23,7 @@ Both teams get to move one player up to 3 hexes while the ball is travelling in 
 
 If your opponent crosses the ball into the box, you can challenge to catch the ball. If the ball is aimed within one hex of you, then have a duel with your opponent (see Heading).
 
-After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can only do this if they intend to challenge for the high ball (not just for better positioning), and that they have not already moved 3 hexes per the high cross rules.
+After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can only do this if they intend to challenge for the high ball (not just for better positioning), and that they have **not already** moved 3 hexes per the high cross rules.
 
 If the cross ball is aimed 2 hexes away from you, your combined score suffers a -1 dice penalty. If the attacker wins the duel, a goal is scored! If you win the duel, play resumes as if you caught a shot (see After making a save).
 
@@ -72,3 +72,5 @@ Goalkeepers can run to get the ball. If the ball is in their penalty box and it 
 ## Goalkeepers cannot be marked at set-pieces
 
 Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the GK position.
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

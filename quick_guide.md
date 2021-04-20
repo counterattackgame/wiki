@@ -155,3 +155,5 @@ Defender gets +1 for Tackling
 Dice roll of 1 from the Defender is a Foul
 If successful, defender is stunned and cannot move.
 If tied: loose ball, attacker who initiated nutmeg cannot move - regardless of how much pace he has already used
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

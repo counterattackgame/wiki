@@ -151,3 +151,5 @@ B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5
 B10 wants to play it safe and avoid all possible steal attempts, so he follows the below path. He essentially enters the box twice, (in the two dark Hexes) so he should have stopped his movement twice to ask the keeper if they wanted to move their free Hex of 1.
 
 ![Movement 3](docs/movement_3.png)
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

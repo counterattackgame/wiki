@@ -1,5 +1,5 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
-# SET PIECES 
+# Set Pieces
 
 Whenever a set piece is awarded, both teams are immediately allowed to pick up and reposition their goalkeeper.
 
@@ -11,11 +11,11 @@ Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the
 
 Defense must keep 2 clear Hexes away from the corner flag.
 
-Advanced: Just before the kick is taken and before the attacker declares what type of pass will be played and where the ball will go, both teams get to move 1 player up to 3 hexes. Attacking manager moves first.
+**Advanced**: Just before the kick is taken and before the attacker declares what type of pass will be played and where the ball will go, both teams get to move 1 player up to 3 hexes. Attacking manager moves first.
 
 Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate. Following a high pass, a header must be attempted.
 
-Advanced: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
+**Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
 
 If you prefer to play a low pass, the ball can only travel the distance of a first-time pass.
 
@@ -45,11 +45,11 @@ Select the player you want to take the kick and position them and the ball where
 
 You and your opponent may now reposition players like so:
 
-1. Attacking team picks up and places 2 players.
+1. _Attacking_ team picks up and places 2 players.
 2. Defending team picks up and places 2 players.
-3. Attacking team picks up and places 2 players.
+3. _Attacking_ team picks up and places 2 players.
 4. Defending team picks up and places 2 players.
-5. Attacking team picks up and places **3** players.
+5. _Attacking_ team picks up and places **3** players.
 6. Defending team picks up and places 2 players.
 
 Attack cannot place a player on a hex that is in the 6-yard-box AND touching the GK position.
@@ -65,3 +65,5 @@ You can now choose to pass (High Long or Standard) or shoot. If you choose to sh
 An unlucky roll of 1 means that the shot is off target, but as any normal shot, it is subject to blocks.
 
 Remember that if your combined score is lower than 9, you can still score. And don’t forget that a shot from outside the box still has a -1 dice penalty.
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

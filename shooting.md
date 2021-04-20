@@ -60,3 +60,5 @@ Always remember that:
 - Goalkeepers can only save in hexes parallel to the goal line. There is a theoretical 7-Hex-wide saving wall consisting of the GK position and 3 hexes in each side, always parallel to the goal line.
 - Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many Hexes.
 - The Goalkeeper always saves in the closest hex that the ball trajectory dictates.
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

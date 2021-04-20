@@ -137,3 +137,5 @@ Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or
 If W7 is unsuccessful, R10 collects the ball in the hex that player has moved into. W5 does not get an intercept because R10 is occupying the space the ball is travelling into.
 
 ![First time pass](docs/pass_4.png)
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)

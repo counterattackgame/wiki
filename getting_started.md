@@ -26,3 +26,5 @@ Place the referee cards face down and pick 1 at random. Place the referee card f
 ## Added time
 
 At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. An Action is what an attacker can call as the next thing to happen. (Movement Phase, Standard Pass, First Time Pass, High Pass, Long Pass, Header, (Snap)Shot)
+
+[Back to Home Page](https://counterattackgame.github.io/wiki)
