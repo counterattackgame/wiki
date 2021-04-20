@@ -31,7 +31,7 @@ Can also dive at attacker’s feet (3 hexes max): Saving vs Dribbling
 
 ## GK Distribution
 
-**THROW**: No player moves first. Throw distance of standard pass. No interceptions.
+**THROW**: No player moves first. Throw distance of standard pass. No interceptions. The throw can travel the distance of a standard pass and is subject to standard pass rules except interceptions. 
 **MOVEMENT PHASE**: Keeper Drops ball to feet and play on.
 **DROP THE BALL/KICK**: Outfield players rule apply with ability to play High Pass (Can kick to anywhere except opposite Final Third with accuracy =>8
 ) / Long pass / Standard pass
