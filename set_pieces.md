@@ -30,11 +30,11 @@ It can also be played to head, with no interceptions, but a header MUST follow.
 
 ## Free Kick or Penalty?
 
-If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area.
+If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area. 
 
 ## Penalty
 
-If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area.
+If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No defenders allowed in the penalty **arc**.
 
 A penalty is a duel between the attacker and the goalkeeper:
 the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) rules.
