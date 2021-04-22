@@ -27,14 +27,14 @@ A snapshot sacrifices accuracy for the element of surprise. Take one:
 
 All the same rules of shooting apply, but the player’s Shooting attribute receives a -1 dice penalty.
 
-Just before the snapshot is taken, 1 opponent is allowed to move any player 2 hexes in an attempt to deflect the shot (see [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball)). This can include the goalkeeper.
+Just before the snapshot is taken, 1 opponent is allowed to move any player 2 hexes in an attempt to deflect the shot (see [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball)). This can include the [goalkeeper](https://counterattackgame.github.io/wiki/goalkeeper).
 
 In the Advanced Rules, if you choose the goalkeeper to move 2 Hexes (for the snapshot), the keeper gets a -1 saving penalty on the 2nd Hex away and a -2 penalty on the 3rd Hex away.
 
 The sequence that must be followed is:
 
 1. Attack calls Snapshot
-2. Defence moves 1 player (up to) 2 Hexes
+2. Defence moves 1 player (up to) 2 Hexes.
 3. Attack calls the direction of the shot. Agree on which defenders can attempt to block. Resolve any block attempts. If the ball is blocked , play the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball). If not proceed below.
 4. Agree on the Hex that the keeper will attempt to save, and calculate any potential penalties for the saving.
 5. Roll dice for shooting and saving. If attack rolls a 1 the shot is off-target.
@@ -46,6 +46,8 @@ Please note:
 - Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He **CANNOT** snapshot.
 - Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He **CAN** snapshot.
 - Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He **CAN** snapshot.
+
+Following an aerial challenge, a [keeper](https://counterattackgame.github.io/wiki/goalkeeper) is still eligible to move 1 when the ball enters the box and also take advantage of the 2 moves following a snapshot declaration.
 
 ## Difficult Shooting Angles
 
