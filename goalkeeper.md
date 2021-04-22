@@ -9,15 +9,20 @@ You can dive 3 hexes in either direction parallel to the goal line when attempti
 
 # After making a save and holding the ball
 
-The goalkeeper has three choices:
+After a GK saves and holds a ball, wins an aerial duel or picks the ball up when in the box after collecting a loose ball or stray pass from the attacking team, they have two initial options:
 
-1. Kick the ball. Before this kick is taken, any players who are in either final third get to move up to 6 hexes each. The goalkeeper’s team moves first.
-2. Take a quick throw. No players get to move first. The throw can travel the distance of a standard pass and cannot be intercepted by an opponent. The throw subject to standard pass rules except interceptions. 
-3. Make a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) or Pass/Long Pass/High Pass (With GK rules for a high pass), **but**, the GK drops the ball to feet and cannot pick up any more. This is now open play.
 
-If you choose to kick the ball, judge the accuracy of the kick using the goalkeeper’s [High Pass](https://counterattackgame.github.io/wiki/passing) attribute (a combined score of 8+ is required. This kick is a High pass with the exception that the ball can travel as far as the opposite final third. If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions to find the final destination. (it must initially be targeted on a teammate's head)
+1. **Activate final third**s: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first.
+2. **Quick Throw**: Neither team is able to move their final thirds, the throw can be the length of a standard pass but cannot be intercepted. The receiving player continues as if they have just received a regular standard pass.
 
-Both teams get to move one player up to 3 hexes while the ball is travelling in the air. If a defender is within distance to challenge for a [Header](https://counterattackgame.github.io/wiki/heading) (i.e. within 2 hexes), then play resumes with a header. If no defender is close enough to challenge for a header, the attacking player can continue play with a header or Control Attempt. If no one is in range for a header, play continues with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
+**Remember**: _If the GK collects a loose ball outside the penalty area, they follow any other scenario. If they wish to pick the ball up, the GK only picks the ball up once the phase in which he is brought back into the box completely finishes. If the GK collects a loose ball within the penalty area, they pick it up immediately.
+If the player chooses to activate final thirds, they continue by doing the following two options:_
+
+- **GK Kick**: The ball can land on any hex except those in the opposite final third, however the ball must land on an attackers head. There is no penalty if an inaccurate high pass results in the loose ball ending up in the opposite final third. After determining where the goalkeeper plans to kick the ball both teams can move 1 player up to 3 hexes. The GK then needs an accuracy check of 8>= to be accurate. The receiving player must either head the ball or choose to bring the ball down if no defending player is able to challenge for the header.
+- **Drop the Ball**: The GK drops the ball and is now treated as an outfield player. From here the attacking team can declare a movement phase, standard pass, high pass or long ball however normal outfield player distances, accuracy checks and rules apply. The GK cannot pick the ball up again after dropping it.
+
+**If the attacker rolls a 1 when shooting**: The activate final thirds action must follow. The GK must be positioned inside the 6 yard box when taking the kick. From here, a standard pass or a GK kick can follow. The standard pass can be intercepted, the GK Kick follows the rules stated above.
+
 
 ## Competing for a high cross
 
