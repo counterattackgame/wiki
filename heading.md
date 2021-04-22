@@ -1,7 +1,7 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
 # Heading
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 players** from either team who can challenge for a header (defending GK is not included in this limit). Whether a player can challenge for the header or not depends on how close they are to the target.
+A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 outfield players** from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
 
 - Players within 1 hex can challenge for the header.
 - Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
