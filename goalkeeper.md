@@ -12,13 +12,14 @@ You can dive 3 hexes in either direction parallel to the goal line when attempti
 After a GK saves and holds a ball, wins an aerial duel or picks the ball up when in the box after collecting a loose ball or stray pass from the attacking team, they have two initial options:
 
 
-1. **Activate final third**s: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first.
+1. **Activate final thirds**: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first.
 2. **Quick Throw**: Neither team is able to move their final thirds, the throw can be the length of a standard pass but cannot be intercepted. The receiving player continues as if they have just received a regular standard pass.
 
-**Remember**: _If the GK collects a loose ball outside the penalty area, they follow any other scenario. If they wish to pick the ball up, the GK only picks the ball up once the phase in which he is brought back into the box completely finishes. If the GK collects a loose ball within the penalty area, they pick it up immediately.
-If the player chooses to activate final thirds, they continue by doing the following two options:_
+**Remember**: _If the GK collects a loose ball outside the penalty area, they follow any other scenario. If they wish to pick the ball up, the GK only picks the ball up once the phase in which he is brought back into the box completely finishes. If the GK collects a loose ball within the penalty area, they pick it up immediately._
 
-- **GK Kick**: The ball can land on any hex except those in the opposite final third, however the ball must land on an attackers head. There is no penalty if an inaccurate high pass results in the loose ball ending up in the opposite final third. After determining where the goalkeeper plans to kick the ball both teams can move 1 player up to 3 hexes. The GK then needs an accuracy check of 8>= to be accurate. The receiving player must either head the ball or choose to bring the ball down if no defending player is able to challenge for the header.
+If the player chooses to activate final thirds, they continue by doing the following two options:
+
+- **GK Kick**: The ball can land on any hex except those in the opposite final third, however the ball must land on an attackers head. There is no penalty if an inaccurate high pass results in the loose ball ending up in the opposite final third. After determining where the goalkeeper plans to kick the ball both teams can move 1 player up to 3 hexes. The GK then needs a combined score of 8+ to be accurate. After determine the final position of the ball, if a defender is close enough to header and the defending team wishes to do so, the receiving player must head the ball. If no defender is in range to challenge, or the defending team choose for nobody to challenge, the attacking team can choose to either have a free header or bring the ball down. If the kick is inaccurate and the loose ball results in the ball being in a position where nobody is able to attempt a header or control, continue with a movement phase.
 - **Drop the Ball**: The GK drops the ball and is now treated as an outfield player. From here the attacking team can declare a movement phase, standard pass, high pass or long ball however normal outfield player distances, accuracy checks and rules apply. The GK cannot pick the ball up again after dropping it.
 
 **If the attacker rolls a 1 when shooting**: The activate final thirds action must follow. The GK must be positioned inside the 6 yard box when taking the kick. From here, a standard pass or a GK kick can follow. The standard pass can be intercepted, the GK Kick follows the rules stated above.
