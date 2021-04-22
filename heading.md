@@ -1,7 +1,7 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
 # Heading
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There are no limits to the number of players from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 players** from either team who can challenge for a header (defending GK is not included in this limit). Whether a player can challenge for the header or not depends on how close they are to the target.
 
 - Players within 1 hex can challenge for the header.
 - Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
@@ -49,8 +49,8 @@ If you choose to head the ball close to your goalkeeper's feet, in order to avoi
 4. Attacker checks accuracy of High Pass, revealing the actual Target.
 5. Find out if a Header **can** be played, if there is a possibility for a Control, and which players are capable of challenging (For the sake of example let's say that 2 attackers and 2 defenders and the GK can challenge.
 6. Attack declares if they are trying a Headed Pass or a Headed Shot.
-7. Attack declares which players will attempt to head, and in which order.
-8. Defence declares which players will attempt to head, and in which order, and if the GK will be involved to the challenge. (Defence can chose to not challenge) If Defense does not or can't challenge, attack chooses between Header or Control (see below)
+7. Attack declares which (maximum 2) players will attempt to head, and in which order.
+8. Defence declares which (maximum 2) players will attempt to head, and in which order, and if the GK will be involved to the challenge. (Defence can chose to not challenge) If Defense does not or can't challenge, attack chooses between Header or Control (see below)
 9. Attack rolls with all the declared players. If the best score has been achieved with a dice roll of 1 (H6 + Roll1 and H3 + Roll3) and a Headed shot had been declared in Step 6, the Headed shot is OFF TARGET.
 10. Defence Rolls with all the declared players, and GK if he had been declared. Decide which player creates the best combined score (the first player you rolled the tying score with).
 11. Compare the attack's best combined score with the defence's.
