@@ -106,7 +106,7 @@ ACCURACY: High Pass + dice =>8
 
 ### Header
 
-All players within 2 hexes can challenge
+A maximum of 2 outfield players from each team within 2 hexes from the ball can challenge
 Announce which player is rolling
 2 hexes away = -1 dice penalty
 
