@@ -25,6 +25,13 @@ Place the referee cards face down and pick 1 at random. Place the referee card f
 
 ## Added time
 
-At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. An Action is what an attacker can call as the next thing to happen. (Movement Phase, Standard Pass, First Time Pass, High Pass, Long Pass, Header, (Snap)Shot)
+At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. 
+
+An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
+
+**Remember:**
+- A movement phase before a throw in is not considered an action.
+- A nutmeg is part of the movement phase and not a separate action.
+- The final thirds movement is not a separate action.
 
 [Back to Home Page](https://counterattackgame.github.io/wiki)
