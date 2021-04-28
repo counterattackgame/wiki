@@ -33,7 +33,7 @@ After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can o
 
 If the cross ball is aimed **2** hexes away from you, your combined score suffers a -1 dice penalty. If the attacker wins the duel, a goal is scored! If you win the duel, play resumes as if you caught a shot (see After making a save and holding the ball).
 
-Following an aerial challenge, a keeper is still eligible to move 1 when the ball enters the box and also take advantage of the 2 moves following a snapshot declaration.
+Following an aerial challenge, like any outfield player the GK is also unable to move as part of the subsequent movement phase. However, they are still able to move 1 hex if the ball leaves then re-enters the box, as well as be used as the player moving 2 hexes if a snapshot is declared.
 
 ## Intercepting a pass
 

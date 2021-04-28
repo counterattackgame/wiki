@@ -1,7 +1,7 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki)
 # Heading
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 outfield players** from either team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 outfield players** per team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
 
 - Players within 1 hex can challenge for the header.
 - Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
@@ -47,7 +47,7 @@ If you choose to head the ball close to your goalkeeper's feet, in order to avoi
 2. Attack moves 1 Player 3 Hexes and declares intended target.
 3. Defence moves 1 Player 3 Hexes
 4. Attacker checks accuracy of High Pass, revealing the actual Target.
-5. Find out if a Header **can** be played, if there is a possibility for a Control, and which players are capable of challenging (For the sake of example let's say that 2 attackers and 2 defenders and the GK can challenge.
+5. Find out if a Header **can** be played, if there is a possibility for a Control, and which players are within range to challenge.
 6. Attack declares if they are trying a Headed Pass or a Headed Shot.
 7. Attack declares which (maximum 2) players will attempt to head, and in which order.
 8. Defence declares which (maximum 2) players will attempt to head, and in which order, and if the GK will be involved to the challenge. (Defence can chose to not challenge) If Defense does not or can't challenge, attack chooses between Header or Control (see below)
