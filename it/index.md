@@ -1,4 +1,4 @@
-Select your language: [English](https://counterattackgame.github.io/wiki), [Italian](https://counterattackgame.github.io/wiki/it/index)
+Select your language: [English](https://counterattackgame.github.io/wiki), [Italian](https://counterattackgame.github.io/wiki/it/index), [Spanish](https://counterattackgame.github.io/wiki/es/index), [Portuguese](https://counterattackgame.github.io/wiki/pt/index)
 
 [Home Page](https://counterattackgame.github.io/wiki/it/index)
 
@@ -10,9 +10,9 @@ Select your language: [English](https://counterattackgame.github.io/wiki), [Ital
 
 [Shooting](https://counterattackgame.github.io/wiki/it/shooting)
 
-[Colpo di testa](https://counterattackgame.github.io/wiki/it/heading)
+[Heading](https://counterattackgame.github.io/wiki/it/heading)
 
-[Portiere](https://counterattackgame.github.io/wiki/it/goalkeeper)
+[Goalkeepers](https://counterattackgame.github.io/wiki/it/goalkeeper)
 
 [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball)
 
