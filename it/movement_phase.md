@@ -6,158 +6,161 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Movement Phase
 
-A Movement Phase represents a split second on the football pitch. The attacking manager can start a Movement Phase after every action except a high pass. One Movement Phase can follow another if the attacking manager wishes.
+Una Movement Phase rappresenta una frazione di secondo sul campo. La squadra in attacco può iniziare una Movement Phase dopo qualsiasi tipo di azione ad eccezione di un High Pass. Una Movement Phase può seguire un'altra se l'allenatore vuole.
 
-Each player’s Pace attribute determines how far they can travel in a Movement Phase e.g. a player with pace of 6 can move up to a total of 6 hexes during a Movement Phase. Players cannot move through teammates or opposition players.
+L'attributo Pace di ogni giocatore determina quanto lontano può spostarsi in una Movement Phase. Ad esempio, un giocatore con Pace 6 può muoversi massimo di 6 esagoni durante una Movement Phase. I giocatori non possono passare negli esagoni dove ci sono altri giocatori, sia compagni di squadra che avversari.
 
-During a Movement Phase, follow the 4-5-2 sequence:
+Durante una Movement Phase, si segue la sequenza 4-5-2:
 
-1. Attacking manager moves 4 players (Can include the GK)
-2. Defending manager moves 5 players (Can include the GK)
-3. Attacking manager moves 2 new players, up to a maximum of 2 hexes each (Can include the GK)
+1. La squadra che attacca muove 4 giocatori (può essere incluso il portiere)
+2. La squadra che difende muove 5 giocatori (può essere incluso il portiere)
+3. La squadra che attacca muove 2 nuovi giocatori, massimo di 2 esagoni l'uno (può essere incluso il portiere)
 
-During the Movement Phase, if the player in possession of the ball moves the ball within 1 hex of an opponent, the defender MUST try to steal the ball.
-All they have to do is roll a 6 OR achieve a combined score of 10+ (Tackling + dice roll)
-If the defender succeeds, the Attacker does not exceed his pace and play continues with Any other Scenario
-If the defender fails, the attacker can continue moving through the defender’s Zone of Influence, but no more ‘steal’ attempts are made by that defender.
+Durante la Movement Phase, se il giocatore in possesso di palla si muove in un esagono adiacente a un avversario, il difensore DEVE provare a rubare il pallone.
+Tutto quello che deve fare è lanciare un 6 con il dado oppure avere un risultato di 10+ nella somma di lancio del dado e Tackling.
+Se il difensore vince il duello, l'attaccante si ferma su quel esagono e il gioco riprende con Any Other Scenario.
+Se il difensore fallisce, l'attaccante può continuare a muoversi nella ZOI del difensore senza che quel difensore possa tentare nuovamente di rubargli palla.
 
-Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the Fouls section for more info.
+Ricorda che **lanciando un 1 quando si tenta di rubare palla** vuol dire commettere un fallo (guardare la sezione Fallo per maggiori informazioni).
 
-**Actions during the Movement Phase**
+**Azioni duramente la Movement Phase**
 
-- You cannot make a [pass](https://counterattackgame.github.io/wiki/it/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/it/shooting) during a Movement Phase if your player has the ball in the box.
-- If a defender moves a player within 1 hex of the attacker in possession, a tackle can be attempted. Pause the sand timer while making the tackle.
-- If a player is successfully tackled during the Movement Phase, possession of the ball changes hands and the current Movement Phase immediately comes to an end.
-
+- La squadra in attacco non può effettuare un [pass](https://counterattackgame.github.io/wiki/it/passing) finché la Movement Phase non è finita. Tuttavia, può fare uno [snapshot](https://counterattackgame.github.io/wiki/shooting) durante la Movement Phase se il giocatore entra in area con il pallone.
+- Se un difensore si muove in un esagono adiacente all'attaccante in possesso di palla, può tentare un tackle. Metti in pausa la clessidra durante il tackle.
+- Se un giocatore subisce un tackle con successo durante la Movement Phase, il possesso di palla cambia e l'attuale Movement Phase termina immediatamente.
 
 ## Tackling vs Dribbling
 
-Tackling is a duel between the defender and the attacker. A tackle can be attempted if a defender moves within 1 hex of the player with the ball during a Movement Phase
+Un Tackle è un duello tra il difensore e l'attaccante. Può essere effettuato se il difensore si muove in un esagono adiacente a quello dove è posizionato il giocatore con il pallone durante la Movement Phase.
 
-In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) instructions. (if ball hits defender or no-one: Any other scenario. 
-- If the ball hits an attacker, continue the current movement)
-- If the defender rolls a 1, the attacker can play on or claim a foul.
-- If the attacker’s score is higher, the tackle was unsuccessful. The attacking player may now be repositioned in any hex surrounding the defender.
-- If the defender’s score is higher, the tackle was successful and ball possession changes. The defender’s manager may reposition their player into any hex surrounding the player they just tackled. The Movement Phase comes to an end and play resumes.
+In caso di parità, seguire le istruzioni di [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) (Se la palla colpisce un difensore o nessun giocatore: Any other scenario)
 
-## Foul
+- Se la palla colpisce un attaccante si continua con la movement phase in corso.
+- Se il difensore lancia un 1, l'attaccante può continuare o fermarsi per un fallo.
+- Se il risultato dell'attaccante è il più alto, il tackle è fallito. L'attaccante può ora essere riposizionato in qualsiasi esagono attorno al difensore.
+- Se il risultato del difensore è il più alto, il tackle è riuscito e il possesso cambia. Il difensore può essere riposizionato in qualsiasi esagono attorno all'attaccante. La Movement Phase termina e il gioco riprende con nuova Movement Phase, standard pass, high pass, long pass o snapshot.
 
-If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick/penalty or continue play.
+## Fallo
 
-Even if you choose to continue play, you still have to roll the dice to determine whether your player has been injured, and your opponent still has to roll the dice to check if the defender is booked. If you decide to stop play for a free kick/penalty, refer to Set Pieces.
+Un difensore commette un fallo se lancia un 1 al dado durante un tackle o tentativo di rubare palla. L'attaccante lancia il dado per controllare un eventuale infortunio (vedi sotto). Ora l'attaccante ha due opzioni: fermarsi per il calcio di punizione/rigore oppure continuare a giocare.
 
-## To check for an injury
+Anche se decide di continuare a giocare, il giocatore deve lanciare il dado per controllare se si è infortunato e l'avversario deve lanciare il dado per controllare se viene ammonito. Se attaccante si ferma per il calcio di punizione/rigore, guardare la sezione Set Pieces.
 
-Roll a dice. If the dice roll is equal to or higher than your player’s Resilience attribute then they are injured. Place an injury token on that player’s card.
+## Infortuni
 
-An injured player’s attributes are ALL reduced by 1 for the remainder of the match. You can always substitute the player if you wish when play stops (an excellent opportunity for that is to take the foul instead of playing on.)
+Lanciare il dado. Se il risultato è uguale o maggiore della Resilience del giocatore allora questo è infortunato. Posizionare un segnalino infortunio sulla carta del giocatore.
 
-Injuries have **immediate** effect. This means that if you spend 1 Pace, and get in a Defender's ZOI, he rolls for a steal and fouls, if you pick up an injury, and decide to play on, you now have one pace less to run as you are already injured.
+Un giocatore infortunato subisce una riduzione di 1 a TUTTI i suoi attributi per il resto della partita. Un allenatore può sempre sostituire il giocatore, se vuole, quando il gioco si ferma (una buona opportunità per sostituirlo è prendere il fallo invece che continuare l'azione).
 
-A player that is injured for the second time in the same match, must be substituted, so the attackers must stop play to take the free kick and take the injured player out.
+Gli infortuni hanno effetto **immediato**. Questo vuol dire che se, per esempio, si muove un giocatore di 1 esagono e si entra nella ZOI di un difensore, e quest'ultimo, lanciando il dado per provare a rubare il pallone, commette un fallo e infortuna l'attaccante che decide di continuare il movimento, a questo punto l'attaccante avrà subito il Pace ridotto di 1 per concludere il movimento in atto.
 
-## To check for a booking
+Un giocatore che si infortuna una seconda volta nello stesso match deve essere sostituito. Il gioco si interrompe per la sostituzione e riprenderà con un calcio di punizione.
 
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, the player who made the foul receives a yellow card. Any player who receives a second yellow card is then shown a red card and has to leave the pitch immediately. Play must stop for a free kick or penalty if a player receives a red card.
+## Ammonizioni
 
-## Tackles from Behind
+Lanciare il dado. Se il dado è uguale o maggiore della Leniency dell'arbitro, il giocatore che ha effettuato il fallo riceve un cartellino giallo. Il giocatore che riceve un secondo cartellino giallo è espulso. Il gioco si ferma per un calcio di punizione o un rigore se il giocatore riceve un cartellino rosso.
 
-If a defender attempts a tackle from behind, a dice roll of 1 or 2 is considered to be a foul. A tackle is considered from behind if it is attempted on either of the two hexes that a reposition of the attacker does not bring him closer to the Goal.
+## Tackles da Dietro
 
-A tackle from behind is considered dangerous so the player who makes it runs the risk of receiving a straight red card! If the foul has been committed, run a leniency check with the referee.
+Se un difensore cerca di fare un tackle da dietro, un lancio di dado di 1 o 2 è considerato fallo. Assumiamo che un attaccante è direzionato verso il centro della porta avversaria. Ci sono 2 esagoni che sono considerati "dietro", e sono quelli in cui l'attaccante non si avvicinasse alla porta avversaria in caso l'attaccante vi si riposizionasse vincendo il tackle.
 
-- If you pass you will be shown a yellow card.
-- If you fail you will be given a red card.
+Un tackle da dietro è considerato dannoso, dunque il giocatore che lo effettua rischia di ricevere direttamente un cartellino rosso! Se viene commesso il fallo (1 o 2 al dado), bisogna lanciare il dado per controllare con la Leniency dell'arbitro
 
-## Professional (Last Man) Fouls
+- Se il risultato del dado è minore della Leniency, il cartellino è giallo.
+- Se il risultato del dado è maggiore o uguale alla Leniency, il cartellino è rosso.
 
-If your opponent has fouled you and stopped a clear goalscoring opportunity, then they could be shown a straight red card!
 
-If no other defender can get in line with/past the tackle hex in the same movement phase then the defender attempting the tackle is considered a last man.
+## Professional Fouls (Falli da ultimo uomo)
 
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, then your player receives a straight red card. Otherwise your player receives a yellow card.
+Se il tuo avversario ti ha fatto fallo e fermato una situazione di chiara occasione da goal, allora potrebbe ricevere un cartellino rosso!
+
+Se nessun altro difensore può raggiungere un esagono adiacente a quello in cui è avvenuto il fallo, o può riuscire a frapporsi tra tale esagono e la porta, nella stessa Movement Phase in cui è avvenuto il fallo, questo verrà considerato da ultimo uomo.
+
+Lanciare il dado. Se il dado è uguale o maggiore della Leniency dell'arbitro, allora il giocatore riceve direttamente un cartellino rosso. Altrimenti il giocatore riceve un cartellino giallo.
 
 ## Reckless Tackle
 
-Sometimes you just want to foul your opponent! If you want to try this, you must say ‘RECKLESS TACKLE’ before rolling the dice. In this scenario, only the defender rolls the dice.
+Alcune volte si vuole solamente fare fallo! Se si vuole provare a farlo, si deve dire ‘RECKLESS TACKLE’ prima di lanciare il dado. In questo caso solamente il difensore lancia il dado.
 
-- If you roll a 1 or 2, the reckless foul fails and the attacker avoids your challenge. Play continues, but your defender is given a yellow card for attempting a reckless tackle.
-- If you roll a 3 or higher, the attacker is cynically fouled. Run a leniency check with the referee. If you pass you will be shown a yellow card. If you fail you will be given a red card.
+- Se il dado è 1 o 2, il reckless foul fallisce e l'attaccante evita il fallo. Il gioco continua, ma il difensore riceve un cartellino giallo per aver tentato un reckless tackle.
+- Se il dado è 3 o maggiore, l'attaccante subisce il fallo. Il difensore fa il test con la Leniency dell'arbitro. Se il test passa il difensore riceve un cartellino giallo. Se fallisce riceve un cartellino rosso.
 
-You can only make a reckless tackle on a player maximum 3 hexes of the ball.
+Si può effettuare un reckless tackle su un giocatore che si trova ad una distanza massima di 3 esagoni dal pallone.
 
-## Nutmeg a defender
+## Nutmeg
 
-When you have the ball and want to take on a defender you can attempt to nutmeg them.
+Quando un attaccante ha il pallone e vuole superare un difensore può provare a fargli un nutmeg.
+Questa è una mossa difficile ma ne vale la pena se si riesce a fare!
+Ecco come si fa:
 
-This is a difficult move to execute but it’s worth it if you manage it! Here’s how it’s done:
+1. Avvicinati a un difensore durante una Movement Phase.
+2. Assicurati di avere abbastanza Pace per passare oltre al difensore.
+3. Attaccante e difensore fanno il test come se fosse un tackle.
+4. L'attributo Tackling del difensore aumenta di 1.
+5. Il difensore DEVE per forza tentare il tackle.
 
-1. Approach a defender during a movement phase.
-2. Make sure you have enough pace to travel through the defender.
-3. You and the defender run through the usual test for a tackle.
-4. The defender’s tackling attribute is increased by 1 in this challenge.
-5. The defender MUST challenge
+### Cosa succede se il tunnel riesce:
 
-### What happens if the nutmeg is successful:
+- L'attaccante si muove in qualsiasi esagono oltre al difensore. Il difensore è **stordito** e non si potrà muovere durante la Movement Phase.
+- L'attaccante può muoversi in uno dei tre esagoni al di là del difensore e continuare il movimento se dovesse avere ancora Pace.
 
-- The attacker moves to any hex on the other side of the defender. The defender is **stunned** and cannot move during the Movement Phase. 
-- The attacker can move to one of the three hexes on the other side of the defender, and continue his move if he has any Pace remaining.
+### Cosa succede se il tunnel fallisce:
 
-### What happens if the nutmeg is unsuccessful:
+Il difensore vince il tackle e il gioco continua normalmente con il riposizionamento del difensore attorno all'attaccante, il quale non è riuscito a passare oltre al difensore.
 
-The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
+Se dovesse esserci una parità, guardare le istruzioni di [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball), ma l'attaccante che ha iniziato il nutmeg non può muoversi - a prescindere di quanto Pace abbia già usato.
 
-If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+# Note Aggiuntive
 
-# Extra Notes
-- Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
-- Same goes with the Nutmeg, the defender cannot just accept that it was successful, and its consequences, instead of taking part in a duel.
-- Defending a steal or a nutmeg is NOT a choice. You have to defend.
-- The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
-- When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
-- A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/it/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/it/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
-- As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
-- If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
-- When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
-- This can only be done by the defence, and if successful, player attracts the ball, Movement Phase ends immediately and play continues as a successful steal: “Any other Scenario”
+- Un difensore non può scegliere se rubare o meno il pallone durante un dribbling dell'attaccante, deve per forza tirare il dado con il rischio di commettere un fallo.
+- La stessa cosa accade per il Nutmeg, dove il difensore non può accettare a priori la riuscita dello stesso e ciò che ne consegue senza prendere parte allo scontro.
+- Difendersi da un tackle o da un nutmeg NON è una scelta. Devi difenderti.
+- L'attaccante deve dichiarare il tentativo di tunnel quando affronta un difensore, così che il difensore non possa fare un tentativo di rubare palla. Altri difensori vicini hanno la possibilità di rubare palla, incluso i difensori per i quali l'attaccante, dopo un tunnel, finisce nella loro ZOI.
+- Quando si prova a fare un tunnel, si utilizzano 2 esagoni di Pace (uno per l'esagono occupato dal difensore e uno per quello adiacente).
+- Un giocatore o il pallone possono essere posizionati in qualsiasi esagono visibile (interamente o parzialmente) sul terreno di gioco. Tutti questi esagoni sono considerati come dentro al campo, dunque perché venga assegnata una rimessa laterale, una rimessa dal fondo/un corner o un goal, il pallone deve essere finire in un teorico (non visibile) esagono adiacente esterno al terreno di gioco.
+- Quando ci si impossessa di una [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball), il movimento termina immediatamente e si riprende con qualsiasi azione contenuta nell'elenco Any Other Scenario. Se si raccoglie con il [Portiere](https://counterattackgame.github.io/wiki/it/goalkeeper) all'interno dell'area di rigore utilizzando le mani, il gioco continua come se il portiere avesse parato e bloccato un tiro.
+- Appena l'attaccante entra in area di rigore con il pallone, il portiere può muoversi liberamente di 1 esagono. Successivamente l’'attaccante può continuare la sua Movement Phase se ha a disposizione ancora Pace.
+- Se un attaccante con il pallone entra, esce e rientra nell'area di rigore durante la sua Movement Phase, il portiere avrà una mossa libera di 1 esagono ogni volta che l'attaccante entra in area di rigore.
+- Quando si prova a recuperare una loose ball, il difensore (anche il portiere) che si trova a una distanza di 1 esagono dal pallone può provare a recuperarla come se stesse cercando di rubare palla.
+- Questo può essere fatto solo dalla difesa e, se dovesse riuscire, il pallone verrebbe posizionato sopra al giocatore, la Movement Phase finirebbe immediatamente e il gioco continuerebbe come se fosse una palla rubata: “Any Other Scenario”.
 
+# Esempi grafici
 
-# Graphical Examples
+## Movement Phase offensiva
 
-## Movement Phase
-
-Blue is in Possession and thus the "attacking team".
-They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a a steal, which let's say he fails), and then R4.
-If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") change. R4 does not reposition ,And Play continues with "Any Other Scenario"
-If R4 rolls a 1, then a fouls is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
-Let's assume that R4 rolled a 3, so nothing happens.
+Blue in possesso di palla e quindi è la squadra che attacca.
+Prova a fare queste 4 mosse: B10 rischia un dribbling andando nella ZOI di R8 (due volte, ma R8 ha una sola chance di rubare palla e fallisce), and poi entra nella ZOI di R4.
+Se R4 lanciasse un 6 (o un 10+ nella somma con Tackling) la palla sarebbe rubata, la Movement Phase finirebbe perché il possesso cambierebbe. R4 non si potrebbe riposizionare e il gioco continuerebbe con “Any Other Scenario”.
+Se R4 lanciasse un 1, invece, commetterebbe un fallo. Bisognerebbe fare un lancio di dado dell'attaccante per controllare l'eventuale infortunio di B10 (dado >= B10 Resilience) e un lancio di dado del difensore per controllare un eventuale ammonizione di R4 (dado >= Leniency dell'arbitro). B10 potrebbe scegliere se continuare o prendersi il fallo. Assumiamo che R4 lancia un 4, così non accade nulla.
 
 ![Movement 1](docs/movement_1.png)
-## Defensive Movement Phase starts.
-R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
-If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywher around R4.
-In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is thechnically in the Defensive Part of the Movement (blue is not dribbling into the box).
 
-## Nutmeg during a Movement Phase
+## Movement Phase difensiva
 
-Blue is in Possession with 10, who has a Pace of 5 and Dribbling of 6. He is also Brazilian and decides to go for glory.
-He has enough pace to attempt a nutmeg to R2, calls the nutmeg, wins the duel despite R2 got a tackling bonus of +1.
-B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5, as he was just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
+R4 effettua un tackle dalla sua posizione, visto che è a contatto con B10, ma questo conta come un movimento per la squadra Red.
+Se Blue dovesse mantenere il possesso dopo un tackle non riuscito, B10 potrebbe essere riposizionato ovunque attorno a R4.
+Nel caso in cui B10 finisse nell'Area di Rigore dopo un riposizionamento, il portiere avversario avrebbe un free move di 1 esagono, ma B10 non avrebbe la possibilità di fare uno Snapshot perché tecnicamente si è nella Movement Phase difensiva (Blue non sta dribblando nell'Area di Rigore).
+
+## Nutmeg durante una Movement Phase
+
+Blue è in possesso di palla con il numero 10 che ha Pace 5 e Dribbling 6. è anche Brasiliano e decide di proseguire per la gloria.
+Ha abbastanza spazio per provare un tunnel a R2, dichiara il tunnel e vince il duello nonostante R2 ha un bonus +1 sul Tackling.
+B10 è molto determinato, gasato dalla tifoseria. Dichiara un altro tunnel a R5, visto che ha Pace sufficiente per passare oltre al giocatore avversario. Per il fine dell'esempio vince il duello e dichiara uno Snapshot, ma B10 tira un 1 con il dado e il tiro fino sopra la traversa….ma che azione!
 
 ![Movement 2](docs/movement_2.png)
 
-### Two points to consider here:
-- Winning a Nutmeg practically allows a reposition, but it consumes 2 Paces whatsoever.
-- If B10 had a Pace of 4, he could not have attempted the nutmeg on R5.
+### Due punti da considerare qui
 
-### Dribbling in and out of the Penalty Box
+- Vincere un tunnel permette praticamente un riposizionamento del giocatore, ma utilizza 2 Pace (uno per l'esagono occupato dal difensore e uno per quello adiacente).
+- Se B10 avesse avuto un Pace di 4, non avrebbe potuto provare il secondo tunnel a R5.
 
-B10 wants to play it safe and avoid all possible steal attempts, so he follows the below path. He essentially enters the box twice, (in the two dark Hexes) so he should have stopped his movement twice to ask the keeper if they wanted to move their free Hex of 1.
+### Dribblare dentro e fuori l'Area di Rigore
+
+B10 vuole giocare prudentemente ed evitare qualsiasi tentativo di farsi rubare palla, quindi segue il percorso sotto disegnato. Entra due volte nell'Area di Rigore (nei due esagoni verde scuro), dunque dovrebbe fermare due volte il suo movimento per chiedere se il portiere vuole effettuare la mossa libera di 1 esagono.
 
 ![Movement 3](docs/movement_3.png)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)

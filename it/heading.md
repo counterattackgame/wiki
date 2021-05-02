@@ -6,83 +6,81 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/heading)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Heading
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/it/passing). There is a limit of **2 outfield players** per team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+Un colpo di testa deve seguire un [Passaggio alto](https://counterattackgame.github.io/wiki/it/passing). Al massimo **2 giocatori di movimento** per squadra possono competere per un colpo di testa. Se un giocatore possa o meno partecipare ad un colpo di testa dipende dalla sua distanza dal pallone.
 
-- Players within 1 hex can challenge for the header.
-- Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
+- I giocatori entro 1 esagono possono partecipare al colpo di testa
+- I giocatori entro 2 esagoni possono partecipare al colpo di testa, ma subiranno una penalità di -1 al dado
 
-Use the distance stick to judge how far the header can travel.
+Usa lo stick per valutare quanto lontano possa andare il colpo di testa.
 
-[Goalkeepers](https://counterattackgame.github.io/wiki/it/goalkeeper) can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
+I [Portieri](https://counterattackgame.github.io/wiki/it/goalkeeper) possono provare a prendere un passaggio alto se sono sufficientemente vicini, usando la loro Aerial Ability.
 
-If the [goalkeeper](https://counterattackgame.github.io/wiki/it/goalkeeper) loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty of -1 in the second Hex away. 
+Se il [portiere](https://counterattackgame.github.io/wiki/it/goalkeeper) perde un duello contro un attaccante e nessun altro difensore può vincere il colpo di testa, l’attaccante segnerà un gol! Anche l’Aerial Ability subirà una penalità di -1 se il portiere sarà distante due esagoni dal pallone.
 
-If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/it/goalkeeper).
+Se il portiere vince invece lo scontro, [parerà e tratterrà](https://counterattackgame.github.io/wiki/it/goalkeeper) il pallone.
 
+In ogni caso, segui le istruzioni per la [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) in caso di pareggio. Una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) scaturita da un colpo di testa non può mai colpire un giocatore che è stato coinvolto nel colpo di testa stesso.
 
-In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) instructions if there is a tie. A [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
+## Tiri di testa
 
-## Headed Attempts at Goal
+I tiri di testa non possono essere bloccati o intercettati dai difensori. Se un attaccante ha vinto un colpo di testa contro un difensore, il portiere tirerà per la [parata](https://counterattackgame.github.io/wiki/it/shooting) senza che l'attaccante tiri nuovamente. Inizia a contare gli esagoni dalla posizione **della palla**, non da chi ha vinto il colpo di testa.
 
-Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/it/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
+## Passaggi di testa
 
-## Headed Passes
+I passaggi di testa non possono essere intercettati e non possono essercene due consecutivi.
 
-Headed passes cannot be intercepted and there cannot be 2 consecutive headed passes.
+Se il difensore vince il duello, la palla dev'essere passata obbligatoriamente.
 
-If the defender wins the headed duel, the ball has to be headed away.
+Usa lo stick per valutare quanto lontano possa andare il colpo di testa. Non è possibile intercettare il passaggio di testa. Inizia a contare dalla posizione **del pallone**, non da chi ha vinto il colpo di testa.
 
-Use the distance stick to judge how far it can travel. No interceptions are possible. The team that headed the ball is now the attacking team. Start counting from **THE BALL**, not the winner of the headed challenge.
+## Dopo un colpo di testa
 
-## Following a Header
+I giocatori che hanno partecipato al colpo di testa non possono partecipare nella [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) successiva.
 
-The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
+## Retropassaggio di testa al portiere (Regola avanzata)
 
-## Heading back to the goalkeeper (Advanced Rules)
+Non puoi passare di testa al portiere durante un calcio d'angolo (Regola base)
 
-You cannot head the ball back to your goalkeeper at a corner kick. (Core Rules)
+Un retropassaggio di testa al portiere può essere rischioso... Se scegli di farlo, tira un dado. Se il risultato è 1, si verifica una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) dalla posizione portiere.
 
-Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) process from the Goalkeeper.
+Se scegli di effettuare il passaggio nei pressi del portiere, per evitare il rischio sopra citato, ricorda che il portiere può prendere la palla solo ALLA FINE della [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
 
-If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
+## Sequenza colpo di testa
 
+1. L'attaccante dichiara un Passaggio Alto
+2. L'attaccante muove 1 giocatore fino a 3 esagoni e dichiara l’obiettivo del passaggio
+3. Il difensore muove 1 giocatore fino a 3 esagoni
+4. L'attaccante effettua il turo per verificare la precisione del passaggio, modificando la destinazione se necessario
+5. Viene valutato se il colpo di testa **può** essere giocato, se c’è possibilità di un Controllo, e quali giocatori possono competere
+6. L'attaccante dichiara se effettuerà un tiro o un passaggio
+7. L'attaccante dichiarerà quali giocatori (massimo 2) effettueranno il colpo di testa, e in quale ordine
+8. Il difensore dichiara quali giocatori (massimo 2) effettueranno il colpo di testa, in quale ordine, e se anche il portiere proverà a prendere il pallone. Il difensore può scegliere di non partecipare al colpo di testa: in tal caso, o se non ci sono difensori sufficientemente vicini, l'attaccante sceglie tra Header e Control (vedi sotto)
+9. L'attaccante tira con tutti i giocatori che ha dichiarato precedentemente. Se il risultato migliore è stato ottenuto con un 1 di dado (es. Heading 6 + Dado 1 e Heading 3 + Dado 3), ed è stato dichiarato un tiro al punto 6, il tiro è FUORI
+10. Il difensore tira con tutti i giocatori che ha dichiarato precedentemente, e il portiere se è stato dichiarato. Calcola con quale giocatore ottieni il risultato migliore (il primo giocatore in sequenza con cui raggiungerai il risultato necessario a vincere lo scontro)
+11. Confronta il miglior risultato dell'attacco con il miglior risultato della difesa
 
-## Heading Sequence
-1. Attack calls a High Pass.
-2. Attack moves 1 Player 3 Hexes and declares intended target.
-3. Defence moves 1 Player 3 Hexes
-4. Attacker checks accuracy of High Pass, revealing the actual Target.
-5. Find out if a Header **can** be played, if there is a possibility for a Control, and which players are within range to challenge.
-6. Attack declares if they are trying a Headed Pass or a Headed Shot.
-7. Attack declares which (maximum 2) players will attempt to head, and in which order.
-8. Defence declares which (maximum 2) players will attempt to head, and in which order, and if the GK will be involved to the challenge. (Defence can chose to not challenge) If Defense does not or can't challenge, attack chooses between Header or Control (see below)
-9. Attack rolls with all the declared players. If the best score has been achieved with a dice roll of 1 (H6 + Roll1 and H3 + Roll3) and a Headed shot had been declared in Step 6, the Headed shot is OFF TARGET.
-10. Defence Rolls with all the declared players, and GK if he had been declared. Decide which player creates the best combined score (the first player you rolled the tying score with).
-11. Compare the attack's best combined score with the defence's.
-- **Attack Wins**: If GK was not involved in challenge, GK tries to save on the hex that Attack heads to. If GK was involved in challenge, it's a GOAL.
-- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [Save and Hold](https://counterattackgame.github.io/wiki/it/goalkeeper)
-- **There is a TIE**. Follow [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
+- **L'Attaccante vince**. Se il portiere non è stato coinvolto nello scontro, può provare a parare verso l'esagono dichiarato dall'attaccante come destinazione del colpo di testa. Se invece era coinvolto nello scontro, è GOL.
+- **La Difesa vince**. Gioca un passaggio di testa dalla posizione della palla, fino alla lunghezza massima di un colpo di testa, senza intercetti. Tieni conto del retropassaggio al portiere. Se il miglior risultato è quello del portiere, questi prende la palla e il gioco continua da [Save and Hold](https://counterattackgame.github.io/wiki/it/goalkeeper).
+- **Pareggio**. Segui le istruzioni per una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball), con i giocatori che hanno partecipato allo scontro che non possono intercettare la palla. Se questa finisce su un esagono occupato da un giocatore che ha partecipato al colpo di testa, muovila di un ulteriore esagono nella stessa direzione. Se la palla colpisce un giocatore che non ha partecipato al colpo di testa, continua con “Any other scenario”. Se non viene intercettata da nessuno, controlla se finisce all'interno di una ZOI di un difensore, ed eventualmente prova a recuperarla. In caso contrario, l'attaccante riprende con una nuova [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
 
+## Controllare un High Pass
 
-## Controlling a High Pass
+Con le Regole Avanzate non devi per forza colpire di testa dopo un passaggio alto – puoi invece controllare la palla, ma solo se non ci sono difensori sufficientemente vicini da colpire di testa. Per farlo hai comunque bisogno di una certa abilità: dovrai infatti effettuare un Tiro Combinato (Dribbling) di 9+.
 
-In the Advanced Rules you do not always have to head the ball after a high pass - you can control the ball instead, but only if no defender is close enough to challenge you. To do this takes some skill: you will need a combined score (Dribbling + dice roll) of 9+.
+Se la destinazione finale del pallone non è su un tuo giocatore, ma comunque a distanza sufficiente per effettuare un colpo di testa senza marcature avversarie, puoi comunque provare il controllo. Se il pallone è lontano 2 esagoni subisci una penalità al dado di -1
 
-If the ball's final target is not on your player, but still in range for an unmarked header, you can still try it. Attempting a Control 2 hexes away from your player incurs a -1 dice penalty.
+- Se hai successo, continua a giocare come se avessi appena vinto un contrasto, **posizionando il pallone sul tuo esagono** (se necessario)
+- Se non hai successo, segui le istruzioni per la Loose Ball, a partire dal tuo Giocatore
 
-- If you are successful, continue play as if you had just won a tackle, and by **attracting** the ball to your Hex (if needed)
-- If you are unsuccessful, follow the Loose Ball instructions, starting from the Player.
+# Note aggiuntive
 
+La squadra in attacco, se non ci sono difensori a contendere la palla e questa atterra entro due esagoni da un attaccante, deve comunque dichiarare un Colpo di testa oppure un Controllo e poi procedere con una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). Se il pallone rientra nella distanza per effettuare un colpo di testa, iniziare subito una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) non è possibile.
 
-# Extra Notes
+Tutte le distanze per i colpi di testa iniziano dal pallone, non da chi vince lo scontro.
 
-The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). If the ball is in range for a Header, [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) in not an option for the attack.
+I tentativi di controllo che hanno successo "attirano" il pallone verso il giocatore che lo controlla, non il contrario.
 
-All heading distances start from the Ball, not the winner of the challenge.
-
-Successful control attempts attract the ball to the controller, not the opposite.
-
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
