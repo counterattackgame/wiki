@@ -3,7 +3,7 @@
 [Read this page in Italian](https://counterattackgame.github.io/wiki/it/set_pieces)
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Set Pieces
 
 Whenever a set piece is awarded, both teams are immediately allowed to pick up and reposition their goalkeeper.
@@ -18,7 +18,7 @@ Defense must keep 2 clear Hexes away from the corner flag.
 
 **Advanced**: Just before the kick is taken and before the attacker declares what type of pass will be played and where the ball will go, both teams get to move 1 player up to 3 hexes. Attacking manager moves first.
 
-Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate. Following a high pass, a [Header](https://counterattackgame.github.io/wiki/es/heading) must be attempted.
+Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate. Following a high pass, a [Header](https://counterattackgame.github.io/wiki/heading) must be attempted.
 
 **Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
 
@@ -28,7 +28,7 @@ The first Advanced adjustment means that the free move of 3 hexes for either tea
 
 ## Throw-in
 
-After a throw in has been awarded, the attacking team selects one player on the pitch to take the throw-in and then a [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase) is completed before play resumes with the throw. If the attacking manager wishes, you can choose to run through a second [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase) before taking the throw. The ball can be thrown the same distance as a [Header](https://counterattackgame.github.io/wiki/es/heading) can travel.
+After a throw in has been awarded, the attacking team selects one player on the pitch to take the throw-in and then a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) is completed before play resumes with the throw. If the attacking manager wishes, you can choose to run through a second [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) before taking the throw. The ball can be thrown the same distance as a [Header](https://counterattackgame.github.io/wiki/heading) can travel.
 
 The ball can be played to the feet or space, with interception possibilities. This type of pass is a Standard pass with limited distance (6)
 It can also be played to head, with no interceptions, but a header MUST follow.
@@ -42,7 +42,7 @@ If a foul is committed in a hex that is both inside and outside the penalty area
 If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No players allowed in the penalty **arc**.
 
 A penalty is a duel between the attacker and the goalkeeper:
-the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) rules.
+the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) rules.
 
 ## Free Kick
 
@@ -66,9 +66,9 @@ In total, the defending manager moves 6 players and the attacking manager moves 
 You can now choose to pass (High Long or Standard) or shoot. If you choose to shoot (use the distance stick to judge if a shot is possible), then combine your player’s Shooting attribute with a dice roll to determine the success of the shot:
 
 - If your combined score is 9 or higher, the shot is on target. No defender can block this shot. The goalkeeper attempts to make a save (see Shooting).
-- If your combined score is lower than 9, any defenders in the way can attempt a block (see [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball)).
+- If your combined score is lower than 9, any defenders in the way can attempt a block (see [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball)).
 An unlucky roll of 1 means that the shot is off target, but as any normal shot, it is subject to blocks.
 
 Remember that if your combined score is lower than 9, you can still score. And don’t forget that a shot from outside the box still has a -1 dice penalty.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)

@@ -3,7 +3,7 @@
 [Read this page in Italian](https://counterattackgame.github.io/wiki/it/movement_phase)
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Movement Phase
 
 A Movement Phase represents a split second on the football pitch. The attacking manager can start a Movement Phase after every action except a high pass. One Movement Phase can follow another if the attacking manager wishes.
@@ -25,7 +25,7 @@ Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the
 
 **Actions during the Movement Phase**
 
-- You cannot make a [pass](https://counterattackgame.github.io/wiki/es/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/es/shooting) during a Movement Phase if your player has the ball in the box.
+- You cannot make a [pass](https://counterattackgame.github.io/wiki/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/shooting) during a Movement Phase if your player has the ball in the box.
 - If a defender moves a player within 1 hex of the attacker in possession, a tackle can be attempted. Pause the sand timer while making the tackle.
 - If a player is successfully tackled during the Movement Phase, possession of the ball changes hands and the current Movement Phase immediately comes to an end.
 
@@ -34,7 +34,7 @@ Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the
 
 Tackling is a duel between the defender and the attacker. A tackle can be attempted if a defender moves within 1 hex of the player with the ball during a Movement Phase
 
-In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) instructions. (if ball hits defender or no-one: Any other scenario. 
+In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions. (if ball hits defender or no-one: Any other scenario. 
 - If the ball hits an attacker, continue the current movement)
 - If the defender rolls a 1, the attacker can play on or claim a foul.
 - If the attacker’s score is higher, the tackle was unsuccessful. The attacking player may now be repositioned in any hex surrounding the defender.
@@ -107,7 +107,7 @@ This is a difficult move to execute but it’s worth it if you manage it! Here�
 
 The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
 
-If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
 
 # Extra Notes
 - Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
@@ -116,7 +116,7 @@ If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/w
 - The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
 - When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
 - A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/es/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/es/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
+- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
 - As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
 - If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
 - When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
@@ -157,4 +157,4 @@ B10 wants to play it safe and avoid all possible steal attempts, so he follows t
 
 ![Movement 3](docs/movement_3.png)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)
