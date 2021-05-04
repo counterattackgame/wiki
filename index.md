@@ -1,21 +1,21 @@
 Select your language: [English](https://counterattackgame.github.io/wiki), [Italian](https://counterattackgame.github.io/wiki/it/index), [Spanish](https://counterattackgame.github.io/wiki/es/index), [Portuguese](https://counterattackgame.github.io/wiki/pt/index)
 
-[Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Home Page](https://counterattackgame.github.io/wiki/index)
 
-[Getting Started](https://counterattackgame.github.io/wiki/es/getting_started)
+[Getting Started](https://counterattackgame.github.io/wiki/getting_started)
 
-[Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase)
+[Movement Phase](https://counterattackgame.github.io/wiki/movement_phase)
 
-[Passing](https://counterattackgame.github.io/wiki/es/passing)
+[Passing](https://counterattackgame.github.io/wiki/passing)
 
-[Shooting](https://counterattackgame.github.io/wiki/es/shooting)
+[Shooting](https://counterattackgame.github.io/wiki/shooting)
 
-[Heading](https://counterattackgame.github.io/wiki/es/heading)
+[Heading](https://counterattackgame.github.io/wiki/heading)
 
-[Goalkeepers](https://counterattackgame.github.io/wiki/es/goalkeeper)
+[Goalkeepers](https://counterattackgame.github.io/wiki/goalkeeper)
 
-[Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball)
+[Loose Ball](https://counterattackgame.github.io/wiki/loose_ball)
 
-[Set Pieces](https://counterattackgame.github.io/wiki/es/set_pieces)
+[Set Pieces](https://counterattackgame.github.io/wiki/set_pieces)
 
-[Quick Guide](https://counterattackgame.github.io/wiki/es/quick_guide)
+[Quick Guide](https://counterattackgame.github.io/wiki/quick_guide)

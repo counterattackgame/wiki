@@ -3,28 +3,28 @@
 [Read this page in Italian](https://counterattackgame.github.io/wiki/it/heading)
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/heading)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Heading
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/es/passing). There is a limit of **2 outfield players** per team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+A header must follow a [High pass](https://counterattackgame.github.io/wiki/passing). There is a limit of **2 outfield players** per team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
 
 - Players within 1 hex can challenge for the header.
 - Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
 
 Use the distance stick to judge how far the header can travel.
 
-[Goalkeepers](https://counterattackgame.github.io/wiki/es/goalkeeper) can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
+[Goalkeepers](https://counterattackgame.github.io/wiki/goalkeeper) can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
 
-If the [goalkeeper](https://counterattackgame.github.io/wiki/es/goalkeeper) loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty of -1 in the second Hex away. 
+If the [goalkeeper](https://counterattackgame.github.io/wiki/goalkeeper) loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty of -1 in the second Hex away. 
 
-If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/es/goalkeeper).
+If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/goalkeeper).
 
 
-In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) instructions if there is a tie. A [loose ball](https://counterattackgame.github.io/wiki/es/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
+In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions if there is a tie. A [loose ball](https://counterattackgame.github.io/wiki/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
 
 ## Headed Attempts at Goal
 
-Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/es/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
+Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
 
 ## Headed Passes
 
@@ -36,15 +36,15 @@ Use the distance stick to judge how far it can travel. No interceptions are poss
 
 ## Following a Header
 
-The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase).
+The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 ## Heading back to the goalkeeper (Advanced Rules)
 
 You cannot head the ball back to your goalkeeper at a corner kick. (Core Rules)
 
-Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) process from the Goalkeeper.
+Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) process from the Goalkeeper.
 
-If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase).
+If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 
 ## Heading Sequence
@@ -60,8 +60,8 @@ If you choose to head the ball close to your goalkeeper's feet, in order to avoi
 10. Defence Rolls with all the declared players, and GK if he had been declared. Decide which player creates the best combined score (the first player you rolled the tying score with).
 11. Compare the attack's best combined score with the defence's.
 - **Attack Wins**: If GK was not involved in challenge, GK tries to save on the hex that Attack heads to. If GK was involved in challenge, it's a GOAL.
-- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [Save and Hold](https://counterattackgame.github.io/wiki/es/goalkeeper)
-- **There is a TIE**. Follow [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase).
+- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [Save and Hold](https://counterattackgame.github.io/wiki/goalkeeper)
+- **There is a TIE**. Follow [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase).
 
 
 ## Controlling a High Pass
@@ -76,10 +76,10 @@ If the ball's final target is not on your player, but still in range for an unma
 
 # Extra Notes
 
-The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase). If the ball is in range for a Header, [Movement Phase](https://counterattackgame.github.io/wiki/es/movement_phase) in not an option for the attack.
+The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). If the ball is in range for a Header, [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) in not an option for the attack.
 
 All heading distances start from the Ball, not the winner of the challenge.
 
 Successful control attempts attract the ball to the controller, not the opposite.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/index)
