@@ -1,4 +1,12 @@
-Select your language: [English](https://counterattackgame.github.io/wiki), [Italian](https://counterattackgame.github.io/wiki/it/index), [Spanish](https://counterattackgame.github.io/wiki/es/index), [Portuguese](https://counterattackgame.github.io/wiki/pt/index)
+Select your language: 
+
+[English](https://counterattackgame.github.io/wiki)
+
+[Italian](https://counterattackgame.github.io/wiki/it/index)
+
+[French](https://counterattackgame.github.io/wiki/fr/index)
+
+[Portuguese](https://counterattackgame.github.io/wiki/pt/index)
 
 [Home Page](https://counterattackgame.github.io/wiki/pt/index)
 

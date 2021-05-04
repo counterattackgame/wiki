@@ -1,6 +1,9 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/movement_phase)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/movement_phase)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/movement_phase)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/movement_phase)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/movement_phase)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)

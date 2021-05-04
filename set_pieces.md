@@ -1,6 +1,9 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/set_pieces)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/set_pieces)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/set_pieces)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/set_pieces)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/set_pieces)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)

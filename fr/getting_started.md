@@ -1,16 +1,19 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/getting_started)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/getting_started)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/getting_started)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/getting_started)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/getting_started)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # Getting Started
 
-A team squad is made up of 16 players; 1 [goalkeeper](https://counterattackgame.github.io/wiki/es/goalkeeper), 10 outfielders and 5 substitutes. Here’s how to draft squads at the start of the game.
+A team squad is made up of 16 players; 1 [goalkeeper](https://counterattackgame.github.io/wiki/fr/goalkeeper), 10 outfielders and 5 substitutes. Here’s how to draft squads at the start of the game.
 
-For online Games on Tabletopia, and especially official ones (matches played for some competition organized by members of the Counter Attack Community), players usually draft 2 [goalkeepers](https://counterattackgame.github.io/wiki/es/goalkeeper), and 14 outfield players.
+For online Games on Tabletopia, and especially official ones (matches played for some competition organized by members of the Counter Attack Community), players usually draft 2 [goalkeepers](https://counterattackgame.github.io/wiki/fr/goalkeeper), and 14 outfield players.
 
-## [Goalkeepers](https://counterattackgame.github.io/wiki/es/goalkeeper)
+## [Goalkeepers](https://counterattackgame.github.io/wiki/fr/goalkeeper)
 
 Place the goalkeeper cards face down and pick 1 goalkeeper each.
 
@@ -39,4 +42,4 @@ An Action is what an attacker can call as the next thing to happen.  The actions
 - A nutmeg is part of the movement phase and not a separate action.
 - The final thirds movement is not a separate action.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
