@@ -1,6 +1,6 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/goalkeeper)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/pt/goalkeeper)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/goalkeeper)
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/pt/goalkeeper)
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper)
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/goalkeeper)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)

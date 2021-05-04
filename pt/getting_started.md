@@ -1,6 +1,9 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/getting_started)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/getting_started)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/getting_started)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/getting_started)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/getting_started)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)

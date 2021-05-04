@@ -1,6 +1,9 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/loose_ball)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/loose_ball)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/loose_ball)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/loose_ball)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/loose_ball)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/loose_ball)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)

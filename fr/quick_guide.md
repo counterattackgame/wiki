@@ -1,9 +1,12 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/quick_guide)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/quick_guide)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/quick_guide)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/quick_guide)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # QUICK GUIDE
 
 ## Shooting
@@ -16,7 +19,7 @@ Dice roll of 1 = shot off target
 
 If in path of ball, 5 or 6 OR Tackling 10+ deflects the ball
 Within 1 hex of ball, 6 OR Tackling 10+ deflects the shot
-Use [Loose Ball](https://counterattackgame.github.io/wiki/es/loose_ball) rule for deflections
+Use [Loose Ball](https://counterattackgame.github.io/wiki/fr/loose_ball) rule for deflections
 
 ## Snapshot
 
@@ -47,7 +50,7 @@ Refer to grid on the pitch and decide which player will roll for this
 First roll is direction, second roll is distance
 If ball hits a player while travelling, that team takes possession
 Otherwise, attacking team continues with Movement Phase
-If a [loose ball](https://counterattackgame.github.io/wiki/es/loose_ball) follows a High Pass, contest the header in the new landing location.
+If a [loose ball](https://counterattackgame.github.io/wiki/fr/loose_ball) follows a High Pass, contest the header in the new landing location.
 If no-one can challenge for a header, the ball is on the ground.
 
 ## Corner kick
@@ -160,6 +163,6 @@ Can only be attempted if you have the pace to get through
 Defender gets +1 for Tackling
 Dice roll of 1 from the Defender is a Foul
 If successful, defender is stunned and cannot move.
-If tied: [loose ball](https://counterattackgame.github.io/wiki/es/loose_ball), attacker who initiated nutmeg cannot move - regardless of how much pace he has already used
+If tied: [loose ball](https://counterattackgame.github.io/wiki/fr/loose_ball), attacker who initiated nutmeg cannot move - regardless of how much pace he has already used
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/es/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)

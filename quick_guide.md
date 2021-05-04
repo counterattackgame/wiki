@@ -1,6 +1,9 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/quick_guide)
-[Read this page in 🇪🇸 Espanol](https://counterattackgame.github.io/wiki/es/quick_guide)
-[Read this page in Italian](https://counterattackgame.github.io/wiki/it/quick_guide)
+
+[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/quick_guide)
+
+[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide)
+
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
