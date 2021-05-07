@@ -20,7 +20,7 @@ If the shot is taken from outside the penalty box, the goalkeeper gets to move 1
 1. If the attacker’s score is higher, a goal has been scored!
 2. If the keeper’s score is higher, roll a dice:
 
-- If you roll equal to or higher than the goalkeeper’s Handling, run a [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) process.
+- If you roll equal to or higher than the goalkeeper’s Handling, run a [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for distance too and play contines with the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) process.
 - If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
 
 3. In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball) instructions.
