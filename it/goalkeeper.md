@@ -6,88 +6,86 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/goalkeeper)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
-# Goalkeeper 
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
+# Goalkeeper
 
-Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
+Come ogni altro giocatore, il portiere può essere mosso durante una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). Inoltre, può muoversi di 1 esagono ogni volta che la palla entra in area.
 
-# Positioning to make a save
+# Posizionarsi per una parata
 
-You can dive 3 hexes in either direction parallel to the goal line when attempting a save. If a [shot](https://counterattackgame.github.io/wiki/it/shooting) is 4 or more hexes away, you can’t save it!
+Puoi tuffarti di 3 esagoni in entrambe le direzioni parallele alla linea di porta quando provi una parata. Se un [tiro](https://counterattackgame.github.io/wiki/it/shooting) passa a 4 o più esagoni di distanza, non potrai pararlo!
 
-# After making a save and holding the ball
+# Dopo aver effettuato una parata e con il pallone in mano
 
-After a GK saves and holds a ball, wins an aerial duel or picks the ball up when in the box after collecting a loose ball or stray pass from the attacking team, they have two initial options:
+Dopo che un portiere para e trattiene il pallone, vince un duello aereo o raccoglie la palla con le mani dopo aver intercettato una palla vagante o un passaggio della squadra avversaria, può inizialmente scegliere tra due opzioni:
 
+1. **Attivare le final thirds**: entrambe le squadre possono muovere tutti i giocatori in entrambe le final third fino a 6 esagoni ciascuno. La squadra del portiere muove per prima.
+2. **Quick Throw**: Nessuna delle due squadre può muovere i giocatori in nessuna delle due final thirds; la rimessa può raggiungere la distanza di uno standard pass ma non può essere intercettata. Il giocatore che riceve il pallone può continuare come se avesse appena ricevuto uno standard pass.
 
-1. **Activate final thirds**: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first.
-2. **Quick Throw**: Neither team is able to move their final thirds, the throw can be the length of a standard pass but cannot be intercepted. The receiving player continues as if they have just received a regular standard pass.
+**Ricorda**: _Se il portiere raccoglie una loose ball fuori dall'area di rigore, si riprende con any other scenario. Se vuole raccogliere la palla con le mani, il portiere la raccoglie solo dopo che la movement phase in cui il portiere porta la palla in area è terminata. Se il portiere raccoglie una loose ball all'interno dell'area di rigore, la raccoglie con le mani immediatamente._
 
-**Remember**: _If the GK collects a loose ball outside the penalty area, they follow any other scenario. If they wish to pick the ball up, the GK only picks the ball up once the phase in which he is brought back into the box completely finishes. If the GK collects a loose ball within the penalty area, they pick it up immediately._
+Se il giocatore decide di attivare le final thirds, può decidere di continuare con una delle seguenti due opzioni:
 
-If the player chooses to activate final thirds, they continue by doing the following two options:
+- **Rimessa calciata**: La palla può atterrare in qualsiasi esagono al di fuori dell'opposta final third, ma deve comunque atterrare su un esagono occupato da un attaccante. Non c'è penalità se un high pass non è preciso e finisce di conseguenza nell'opposta final third. Dopo aver determinato dove il portiere intende calciare il pallone, entrambe le squadre possono muovere 1 giocatore fino a 3 esagoni. Il portiere ha bisogno di un risultato combinato (High Pass) di 8+ per essere preciso. Dopo aver determinato la posizione finale del pallone, se almeno un difensore è sufficientemente vicino da colpire di testa e il giocatore avversario lo desidera, l'attaccante che riceve il pallone deve colpire proseguire con un Header. Se invece nessuno difensore è abbastanza vicino da provare a colpire di testa, o la squadra in difesa decise non provarci, la squadra in attacco può decidere di proseguire con un Header senza tirare il dado o provando un Control. Se la rimessa non è precisa e nessuno è sufficientemente vicino da colpire di testa o controllare il pallone, il gioco continua con una movement phase.
+- **Lasciare la palla**: Il portiere lascia cadere la palla e viene da questo momento trattato come un giocatore di movimento. Da qui in poi la squadra in attacco può dichiarare una movement phase, uno standard pass, un high pass o una long ball; tuttavia, in questo caso si applicano le normali regole valide per i giocatori di movimento riguardo distanze, tiri di dado per la precisione ed altri aspetti. however normal outfield player distances, accuracy checks and rules apply. Il portiere non può nuovamente raccogliere il pallone con le mani dopo averlo lasciato cadere.
 
-- **GK Kick**: The ball can land on any hex except those in the opposite final third, however the ball must land on an attackers head. There is no penalty if an inaccurate high pass results in the loose ball ending up in the opposite final third. After determining where the goalkeeper plans to kick the ball both teams can move 1 player up to 3 hexes. The GK then needs a combined score of 8+ to be accurate. After determine the final position of the ball, if a defender is close enough to header and the defending team wishes to do so, the receiving player must head the ball. If no defender is in range to challenge, or the defending team choose for nobody to challenge, the attacking team can choose to either have a free header or bring the ball down. If the kick is inaccurate and the loose ball results in the ball being in a position where nobody is able to attempt a header or control, continue with a movement phase.
-- **Drop the Ball**: The GK drops the ball and is now treated as an outfield player. From here the attacking team can declare a movement phase, standard pass, high pass or long ball however normal outfield player distances, accuracy checks and rules apply. The GK cannot pick the ball up again after dropping it.
+**Se l'attaccante ottiene 1 col dado quando tira**: Le final thirds devono essere attivate. Il portiere deve essere posizionato all'interno dell'area di porta quando calcia. Da questo momento, il gioco deve proseguire con uno standard pass o una rimessa calciata. Lo standard pass può essere intercettato, mentre la rimessa calciata segue le regole menzionate in precedenza.
 
-**If the attacker rolls a 1 when shooting**: The activate final thirds action must follow. The GK must be positioned inside the 6 yard box when taking the kick. From here, a standard pass or a GK kick can follow. The standard pass can be intercepted, the GK Kick follows the rules stated above.
+## Uscita alta
 
+Se il tuo avversario crossa la palla in area, puoi provare a prendere il pallone. Il portiere può partecipare al colpo di testa (dopo un High Pass) usando il suo attributo Aerial Ability. Se il pallone è diretto entro due esagoni di distanza, puoi dunque scegliere di contrastare il tuo avversario (vedi [Colpo di Testa](https://counterattackgame.github.io/wiki/it/heading))
 
-## Competing for a high cross
+Dopo il controllo sulla precisione del passaggio il portiere ha la possibilità di muoversi fino a 3 esagoni, ma può farlo a due condizioni: **non deve aver già usufruito del movimento di 3 esagoni** prima del controllo sulla precisione dell'High Pass, e **deve** contendere il pallone (non può, cioè, sfruttare questo momento solo per migliorare il suo posizionamento)
 
-If your opponent crosses the ball into the box, you can challenge to catch the ball. Your goalkeeper can do that by challenging for the Header (after the High Pass) using their Aerial Ability attribute. If the ball is aimed within 2 hexes of you, then you can choose to have a duel with your opponent (see [Heading](https://counterattackgame.github.io/wiki/it/heading)).
+Se il cross è indirizzato a **2** esagoni di distanza dal portiere, questi soffrirà di una penalità di -1 al dado. Se l'attaccante vince il duello sarà gol! Se invece lo vince il portiere, il gioco riprende come se il portiere avesse parato e bloccato il pallone (guarda Dopo aver effettuato una parata)
 
-After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can only do this if they intend to challenge for the high ball (not just for better positioning), and that they have **not already** moved 3 hexes per the high cross rules.
+Dopo un duello aereo, come ogni altro giocatore di movimento, anche il portiere non potrà muoversi nella movement phase successiva. Comunque, può sempre muoversi di 1 esagono se la palla dovesse uscire e rientrare in area, come può anche essere designato come il giocatore che si muove di 2 esagoni se viene dichiarato uno snapshot.
 
-If the cross ball is aimed **2** hexes away from you, your combined score suffers a -1 dice penalty. If the attacker wins the duel, a goal is scored! If you win the duel, play resumes as if you caught a shot (see After making a save and holding the ball).
+## Intercettare un passaggio
 
-Following an aerial challenge, like any outfield player the GK is also unable to move as part of the subsequent movement phase. However, they are still able to move 1 hex if the ball leaves then re-enters the box, as well as be used as the player moving 2 hexes if a snapshot is declared.
+Se la traiettoria di uno Standard Pass o di un First-Time Pass attraversa l'esagono del portiere, il passaggio sarà automaticamente intercettato. Se la traiettoria invece passerà entro 1 esagono di distanza tira un 5, un 6 o un risultato combinato (Saving) di 10+ per bloccare il pallone.
 
-## Intercepting a pass
+## Uscita bassa
 
-If the path of a (standard, first-time) pass travels directly through you, then you will automatically intercept the pass. If the path of the ball takes it within one hex of you, roll a 5 or 6  or 10+ combined with Saving to Save and Hold.
+I portieri non hanno un attributo Tackling, ma possono tuffarsi in uscita bassa ai piedi di un attaccante. Per provarci, tu e il tuo avversario tirate un dado ciascuno e confrontate i risultati combinati di Saving e Dribbling.
 
-## Diving at the feet of the attacker
+Puoi provare un’uscita bassa durante:
 
-Goalkeepers do not have a Tackling attribute, but they can instead dive with their hands at a player's feet. To try this, you and your opponent roll the dice. Add your Saving attribute to the dice roll and compare that to the attacker’s Dribbling attribute plus dice roll.
+- Una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) difensiva: se ti muovi in un esagono adiacente all'attaccante. Come se fosse un normale contrasto, ma con il portiere.
+- Una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) offensiva: se un attaccante prova ad aggirare il portiere, puoi tuffarti (ma non non sei costretto) di 3 esagoni in entrambe le direzioni,parallelamente alla linea di porta. Un tentativo a 3 esagoni di distanza comporta una penalità di -1 al dado. Un portiere può "tuffarsi ai piedi" ogni volta che un giocatore è entro la distanza massima per provare una parata, anche se uno snapshot sta per essere dichiarato da tale esagono.
 
-You can dive at the attacker’s feet during a:
+- Un portiere può parare e tuffarsi attraverso avversari e compagni di squadra. Se il portiere ha successo, e deve essere mosso sull'esagono già occupato dall'attaccante, sposterà quest'ultimo e ogni altro giocatore eventualmente presente oltre l'attaccante stesso di un 1 esagono nella direzione del tuffo.
 
-- Defensive [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
-- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty. The GK has the ability to “dive at feet” anytime a player is within a saving hex, even if a snapshot is about to be called on said saving hex
+In ogni caso, ottenere un 1 con il dado in qualsiasi delle precedenti situazioni equivale a commettere un fallo, assegnando così un calcio di rigore!
 
-- GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away.
+Se il portiere para con successo, il gioco continua con "Dopo aver effettuato una parata"
 
-However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded!
+Puoi anche provare a fermare un avversario fuori dall'area di rigore. Prima di tirare il dado per contrastare con il portiere fuori dall'area, devi dichiarare se vuoi provare a fermare l'azione contrastando con le mani o con i piedi:
 
-If GK makes a successful dive, play continues with "Save and Hold"
+- Se provi a contrastare con i piedi, l'attributo Tackling del tuo portiere è **zero**. Procedi con un normale contrasto Tackling contro Dribbling.
+- Se provi a vincere il contrasto con le mani, procedi con un confronto Saving contro Dribbling. Se il portiere ha successo, il gioco viene interrotto per un calcio di punizione e il portiere riceverà un **cartellino rosso diretto**.
 
-You can also attempt to stop an opponent who is outside of the box. Before attempting a tackle outside the box with your GK, please declare if you are tackling with your feet, or diving with your hands:
+Contrasti e tiri avvengono sempre sull'esagono dell'attaccante, quindi fai attenzione alla tua posizione in questi casi.
 
-- If attempting a tackle with your feet, your goalkeeper's tackling attribute is **zero**. Conduct a regular tackling vs dribbling duel.
-- If attempting to win the ball with your hands outside the box, conduct a saving vs dribbling duel. If the goalkeeper is successful, play is stopped for a free kick and the goalkeeper is shown a **straight red card**.
+## Penalità del Portiere alle parate
 
-Tackles and dives take place on the attacker's Hex, so pay attention on your position when trying tackles or dives.
+Nelle Regole Base, il portiere può tuffarsi per 3 esagoni parallelamente alla linea di porta. Lo stesso vale nelle Regole Avanzate, ma con un dettaglio in più: se il portiere prova a parare sul terzo esagono, il tiro del portiere subisce una penalità di -1.
 
-## Goalkeeper's Saving Penalty
+Ricorda: il portiere può parare solo parallelamente alla linea di porta, non c’è ZOI per le parate.
+Comunque, il portiere può provare una **deviazione** (come farebbe un difensore) su un tiro che passa ad un esagono di distanza (probabilmente alle sue spalle) tirando un 6 o 10+ su un tiro combinato (Saving).
 
-In the Core Rules, your goalkeeper can dive 3 hexes parallel to the goal line. The same is true with the Advanced Rules, but there’s a twist: if the goalkeeper attempts a save in the furthest away hex (the third hex), the goalkeeper’s Saving attribute suffers a -1 dice penalty.
+I portieri possono tuffarsi per parare o per un contrasto attraverso avversari e compagni. Nel caso in cui una Parata o una Deviazioni avvenga su un esagono occupato, l'altro occupante viene spostato di un esagono nella direzione di tuffo del portiere, spostando eventuali altri giocatori sulla stessa linea e oltre l'attaccante di un esagono fin quanto necessario.
 
-Please remember that the keeper can only save parallel to the goal line, there is no Zone of Influence for saving.
-However the GK can try to **deflect** a shot that passes through his ZOI (most probably behind him) by rolling a 6 or a 10+ with a combined score of Saving and Dice Roll.
+## Penalità del Portiere agli Snapshot
 
-Goalkeepers can dive for a save or Tackle through opponents and teammates. In case a Save or a Deflection takes place on an occupied Hex, the occupant is legally pushed one Hex away in the direction that the GK dived, pushing all other players in line one Hex.
+Quando un attaccante dichiara uno [snapshot](https://counterattackgame.github.io/wiki/it/shooting) e scegli il tuo portiere come giocatore da muovere di due esagoni, la parata subirà una penalità di -1 sul secondo esagono e di -2 sul terzo esagono.
 
-## Goalkeeper's Snapshot Penalty
+## Raccogliere la palla con le mani
 
-When an attacker calls a [snapshot](https://counterattackgame.github.io/wiki/it/shooting) and you choose your goalkeeper as the one to move two hexes, your saving ability suffers a -1 dice penalty on the second hex away and a -2 dice penalty on the third hex away.
+I portieri possono muoversi a raccogliere una palla vagante. Se questa è nell'area di rigore del portiere e non è stata calciata da un compagno, può essere raccolta con le mani. Continua il gioco come se fosse stata appena parata e trattenuta. La palla verrà comunque raccolta quando la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) finisce (normalmente o per un cambio di possesso).
 
-## Goalkeepers can pick up the ball
+## Marcare un portiere durante un calcio piazzato
 
-Goalkeepers can run to get the ball. If the ball is in their penalty box and it did not come from a teammate's kick, they can pick it up using their gloves. Continue Play as if there was a save and Hold. You can only pick the ball up when a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) ends (with a change of possession or regularly).
+Un attaccante non può essere posizionato in un esagono all'interno dell'area piccola se questo è anche adiacente al portiere.
 
-## Goalkeepers cannot be marked at set-pieces
-
-Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the GK position.
-
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)

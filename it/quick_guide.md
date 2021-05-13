@@ -6,163 +6,157 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # QUICK GUIDE
 
-## Shooting
+## Tirare
 
-Shooting outside area = -1 dice penalty
-Difficult angle shots = -1 dice penalty
-Dice roll of 1 = shot off target
+Tirare da fuori area = -1 di penalità
+Tirare da angoli difficili = -1 di penalità
+Lanciare 1 al dado = tiro fuori
 
-## Deflecting shots
+## Deviare tiri
 
-If in path of ball, 5 or 6 OR Tackling 10+ deflects the ball
-Within 1 hex of ball, 6 OR Tackling 10+ deflects the shot
-Use [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) rule for deflections
+Se nella traiettoria del pallone, 5 o 6 o dado + Tackling 10+ = tiro deviato
+Se in un esagono adiacente alla traiettoria, 6 o dado + Tackling 10+ = tiro deviato
+Utilizzare le istruzioni di [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) per le deviazioni
 
 ## Snapshot
 
-Can take snapshot at any time in penalty area
-Can also snapshot outside the box (refer to ‘what next’ card)
--1 dice penalty for snapshots
-Defending team gets to move 1 player up to 2 hexes on a snapshot
+Snapshot può essere effettuato in qualsiasi momento nell'area di rigore
+Snapshot può essere effettuato anche da fuori area con un -1 di penalità
+La squadra in difesa può muovere 1 giocatore fino a 2 esagoni durante uno snapshot
 
-## Goalkeeper
+## Portiere
 
-Gets a 1 hex move whenever ball enters penalty box
-Can dive 3 hexes parallel to goal line
-Furthest hex away = -1 dice penalty
-If GK moves at snapshot, -2 dice penalty on 3rd hex, -1 on 2nd hex
-Handling: if dice roll is => Handling, corner kick is awarded
-Can also dive at attacker’s feet (3 hexes max): Saving vs Dribbling
+Movimento extra di 1 esagono ogni volta che la palla entra in area di rigore
+Può tuffarsi di 3 esagoni parallelamente alla linea di porta
+Parare nell'esagono più distante = -1 di penalità
+Se si muove allo Snapshot (massimo 2 esagoni), -2 di penalità sul terzo esagono, -1 di penalità sul secondo
+Handling: se lancio del dado => Handling, lanciare dado per direzione della deviazione del tiro
+Può tuffarsi ai piedi dell'attaccante (massimo 3 esagoni parallelo alla linea di porta, oppure come un tackle durante il suo movimento): Saving vs Dribbling
 
-## GK Distribution
+## Rimessa del Portiere
 
-**THROW**: No player moves first. Throw distance of standard pass. No interceptions. The throw can travel the distance of a standard pass and is subject to standard pass rules except interceptions. 
-**MOVEMENT PHASE**: Keeper Drops ball to feet and play on.
-**DROP THE BALL/KICK**: Outfield players rule apply with ability to play High Pass (Can kick to anywhere except opposite Final Third with accuracy =>8
-) / Long pass / Standard pass
+**RILANCIO CON LE MANI**: Nessun giocatore si muove prima. La distanza del rilancio è quella dello Standard Pass. Nessun intercetto.
+**MOVEMENT PHASE**: Il Portiere mette palla a terra e gioca come giocatore di movimento
+**LASCIARE LA PALLA A TERRA/CALCIARE**: Si applicano le regole per i giocatori di movimento, con la possibilità di giocare un High Pass (può finire ovunque tranne nella final third opposta, Precisione => 8) / Long Pass / Standard Pass
 
 ## Loose Ball
 
-Refer to grid on the pitch and decide which player will roll for this
-First roll is direction, second roll is distance
-If ball hits a player while travelling, that team takes possession
-Otherwise, attacking team continues with Movement Phase
-If a [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball) follows a High Pass, contest the header in the new landing location.
-If no-one can challenge for a header, the ball is on the ground.
+Fare riferimento alla griglia sul terreno di gioco e decidere quale allenatore lancia il dado
+Prima lanciare il dado per la direzione e dopo per la distanza
+Se il pallone colpisce un giocatore mente viaggia, quella squadra prende il possesso della palla
+Altrimenti la squadra in attacco continua con una Movement Phase
+Se una [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball) segue un High Pass impreciso, contendere la palla con un colpo di testa nel nuovo punto di atterraggio
+Se nessuno può contendere per un colpo di testa, il pallone è considerato a terra
 
-## Corner kick
+## Calcio d'Angolo
 
-Decide who will take the corner kick; place player at corner arc
-Both teams pick up and reposition 6 players, moving two at a time
-Attacking team moves first
-Both teams move one player up to 3 Hexes (Attack goes first)
-Play continues with
-(a) High Pass: Can be placed anywhere in penalty box Both teams move 1 player up to 3 hexes first ACCURACY: =>8
-(b) Short pass: Can travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
+Decidere quale giocatore batterà il calcio d'angolo e posizionarlo nell'esagono con l'arco
+Entrambe le squadre prendono e posizionano 6 giocatori, muovendone 2 alla volta (squadra in attacco muove per prima)
+Entrambe le squadre muovono un giocatore di massimo 3 esagoni (squadra in attacco muove per prima)
+Il gioco continua con:
+(a) High Pass: il pallone può essere posizionato ovunque nell'area di rigore. Precisione =>8
+(b) Short Pass: il pallone può viaggiare per una distanza massima di un First Time Pass
 
-## Throw-in
+## Rimessa Laterale
 
-Decide who will take it and place player there
-Conduct a Movement Phase (optional: conduct a second Movement Phase)
-Throw ball (with a standard pass) the distance of a first-time pass WITH interceptions.
-Throw ball to the head of your teammate up to the distance of a first-time pass WITHOUT interceptions. A Header must follow.
+Decidere il giocatore che effettuerà la rimessa laterale e posizionarlo nel punto di uscita del pallone
+Fare una Movement Phase (opzionale: fare una seconda Movement Phase)
+Rimettere il pallone (con uno Standard Pass) con una distanza massima di un First Time Pass con la possibilità di intercetto, oppure...
+Rimettere il pallone sulla testa di un compagno di squadra con una distanza massima di un First Time Pass senza possibilità di intercetto
 
-## Free Kick
+## Calcio di Punizione
 
-Defenders must be be 2 hexes away from the ball
-Pick up and reposition players following this pattern:
-2 Attacker / 2 Defender / 2 Attacker / 2 Defender / 3 Attacker / 2 Defender
-Now choose to pass or shoot
-If shot is =>9, no defender can block it
-Remember -1 for shooting outside of the box
-Any player standing within 1 hex from the ball can take the kick
+Difensori devono lasciare almeno 2 esagoni liberi dal pallone
+Prendere e riposizionare i giocatori con seguendo questo sequenza: 2 Attaccanti / 2 Difensori / 2 Attaccanti / 2 Difensori / 3 Attaccanti / 2 Difensori
+Scegliere se passare o tirare
+Se il risultato di dado + tiro è =>9, nessun difensore può bloccare il tiro
+Ricordarsi della penalità di -1 per un tiro da fuori area
+Qualsiasi giocatore della squadra che batte la punizione, che si trova a una distanza di un esagono dal pallone, può battere la punizione
 
-## Penalty Kick
+## Rigore
 
-Pick up and resposition all players
-No players allowed in the penalty area and arc, except taker and keeper.
-GK has -2 dice penalty
+Prendere e riposizionare tutti i giocatori
+Nessun giocatore può stare all'interno di area di rigore e lunetta, tranne portiere e tiratore
+Portiere ha una penalità di -2
 
 ## Standard Pass
 
-Can’t travel through an opponent
-Opponent can intercept within 1 hex of the path with a 6 or 10+ tackling
+Non può passare attraverso un avversario
+Un avversario può intercettare se si trova a un esagono di distanza dalla traiettoria del pallone con 6 oppure dado + tacking di 10+
 
 ## First Time Pass
 
-1 player from each team moves 1 hex as ball travels
-Opponents within 1 hex of the path can intercept with a 6 or 10+ tackling
-Opponents who move into path of ball can intercept with 5 or 6 or 10+ tackling
+Un giocatore per ogni squadra si muove di un esagono mentre la palla si muove
+Un avversario può intercettare se si trova a un esagono di distanza dalla traiettoria del pallone con 6 oppure dado + tacking di 10+
+Un avversario che si muove sulla traiettoria del pallone può intercettare con 5 o 6 oppure dado + tacking di 10+
 
 ## Long Pass
 
-Can travel to any hex on the pitch
-Can’t aim within 5 hexes of a teammate or 1 of an opponent
-Opponent GK moves according to pace
-ACCURACY: High pass + dice =>9
-ACCURACY: (Final Third to Final Third) =>10
+Può andare in qualsiasi esagono del terreno di gioco
+Non può cadere entro 5 esagoni da un compagno di squadra o entro 1 esagono da un avversario
+Il portiere avversario può muoversi del suo attributo di Pace
+Precisione: High Pass + dado =>9
+Precisione (da Final Third a Final Third): High Pass + dado =>10
 
 ## High Pass
 
-Can’t make the pass if opponent is within 1 hex and in path of the pass
-1 player from each team moves up to 3 hexes as ball travels
-Must always aim at teammate
-ACCURACY: High Pass + dice =>8
+Non può essere effettuato se un avversario si trova a un esagono di distanza e sulla traiettoria di passaggio
+Un giocatore per squadra si muove massimo di 3 esagoni
+Deve sempre cadere sulla testa di un compagno di squadra
+Precisione: High Pass + dado =>8
 
 ### Header
 
-A maximum of 2 outfield players from each team within 2 hexes from the ball can challenge
-Announce which player is rolling
-2 hexes away = -1 dice penalty
+Massimo 2 giocatori per squadra a due esagoni di distanza dal pallone possono contendere con un colpo di testa
+Annunciare per quale giocatore si sta lanciando il dado
+Giocatore a 2 esagoni di distanza = -1 di penalità al dado
 
-### Control a High Pass
+### Controllare un High Pass
 
-Only possible if no opponent can challenge for a header
-ACCURACY: Dribbling + dice =>9
+Possibile solo se nessun avversario può contendere il pallone con un colpo di testa
+Precisione: Dribbling + dado =>9
 
 ## Steal
 
-If attacker moves within 1 hex of defender, roll a 6 or 10+ tackling to win the ball
+Se l'attaccante si muove a un esagono da un difensore, lanciare un 6 o oppure dado + tacking di 10+ per rubare la palla
 
 ## Tackle
 
-If defender moves within 1 hex in a Movement Phase
-Tackling + dice vs Dribbling + dice
-Dice roll 1 is always a foul
-Winner repositions around opponent
-### Tackle from Behind
+Se il difensore si muove a un esagono di distanza nella Fase di Movimento
+Tackling + dado vs Dribbling + dado
+Lanciare un 1 è sempre fallo
+Il vincente del duello si può riposizionare intorno all'avversario
 
-A roll of 1 or 2 is a foul
-2 hexes behind attacker considered ‘behind’
-Attacker is always facing the goal
-If you fail the Leniency test, receive a red card.
-Otherwise receive yellow
+### Tackle da dietro
+
+Lanciare 1 o 2 è fallo
+I 2 esagoni dietro al giocatore sono considerati come 'dietro', guardando la direzione dall'attaccante verso la porta
+Fallendo il test di Leniency si riceve il cartellino rosso, altrimenti il cartellino giallo
 
 ### Reckless tackle
 
-Announce reckless tackle before attempting it
-Can foul players who do not have the ball
-1 or 2 = foul failed. Yellow card issued
-3+ = foul committed and play stops
-If you fail the Leniency test, receive a red card.
-Otherwise receive yellow
+Annunciare Reckless Tackle prima di tentarlo
+Si può fare fallo a un giocatore senza pallone
+1 o 2 = tentativo di fallo fallito = cartellino giallo
+3+ = fallo commesso, il gioco si ferma
+Fallendo il test di Leniency si riceve il cartellino rosso, altrimenti il cartellino giallo
 
 ## Fouls
 
-Roll for booking.
-If red card, play must stop for a free kick/penalty
-Roll for injury
-Attacker then decides to play on or take the foul
+Lanciare il dado per vedere se giocatore è ammonito o espulso
+Se si riceve il cartellino rosso, il gioco si ferma obbligatoriamente per un calcio di punizione o un rigore
+Lanciare il dado per vedere se giocatore si è infortunato
+L'attaccante decide se continuare o meno l'azione
 
 ## Nutmeg
 
-Can only be attempted if you have the pace to get through
-Defender gets +1 for Tackling
-Dice roll of 1 from the Defender is a Foul
-If successful, defender is stunned and cannot move.
-If tied: [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball), attacker who initiated nutmeg cannot move - regardless of how much pace he has already used
+Può essere effettuato solo se si ha abbastanza Pace per andare oltre all'avversario
+Difensore ha un +1 in Tackling
+Se difensore lancia un 1 commette un fallo
+Se tunnel riesce, il difensore non può muoversi durante la Fase di Movimento
+Pareggio: [loose ball](https://counterattackgame.github.io/wiki/it/loose_ball), l'attaccante che ha provato il nutmeg non può muovere - a prescindere da quanto Pace abbia già usato
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/it/index)

@@ -6,68 +6,67 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/shooting)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Shooting
 
-Shooting is a duel between the player taking the shot and the goalkeeper.
+Tirare è un duello tra il giocatore che effettua il tiro e il portiere.
 
-Shots from outside the penalty area receive a -1 dice penalty.
+Il tiro da fuori area riceve una penalità di -1 al dado.
 
-Snapshots receive a -1 dice penalty.
+Lo Snapshot riceve una penalità di -1 al dado.
 
-If the shot is taken from outside the penalty box, the goalkeeper gets to move 1 hex before attempting a save.
+Se il tiro parte da fuori area, il portiere ha un movimento di 1 esagono prima di effettuare la parata perché la palla entra in area di rigore.
 
-1. If the attacker’s score is higher, a goal has been scored!
-2. If the keeper’s score is higher, roll a dice:
+1. Se il risultato combinato di dado + Shooting dell'attaccante è maggiore del risultato combinato di dado + Saving del portiere, allora viene segnato il goal!
+2. Se il portiere, invece, ha un risultato maggiore, tira il dado:
 
-- If you roll equal to or higher than the goalkeeper’s Handling, run a [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) process.
-- If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
+- Se il risultato è maggiore o uguale all'attributo di Handling, esegui una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball). Se la direzione è dietro o a lato del portiere è Calcio d'Angolo. Se la direzione è davanti al portiere, lanciare il dado per la distanza e il gioco riprende come dopo una [Loose Ball](https://counterattackgame.github.io/wiki/loose_ball).
+- Se il dado è minore dell'attributo di Handling, il portiere blocca il pallone. Il possesso cambia in favore della squadra del portiere.
 
-3. In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) instructions.
-
+3. Se il risultato è pari, seguire le istruzioni di [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball).
 
 ## Snapshot
 
-A snapshot sacrifices accuracy for the element of surprise. Take one:
+Uno Snapshot sacrifica la precisione a favore di un elemento di sorpresa. Si può effettuare:
 
-- During the attacking team's player movements in a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) if a player has or takes the ball in the opposition's penalty area OR immediately when a [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) hits an attacking player in the opposition's penalty area or outside the box within shooting distance.
-- Immediately following a pass, whether inside or outside the penalty area.
+- Durante una Fase di Movimento se il giocatore in possesso di palla è nell'area di rigore.
+- Subito dopo aver ricevuto un passaggio, sia che il giocatore che riceve palla si trovi in area di rigore che fuori.
 
-All the same rules of shooting apply, but the player’s Shooting attribute receives a -1 dice penalty.
+Si applicano tutte le stesse regole di un tiro normale, ma l'attributo di Shooting del giocatore subisce un -1 di penalità.
 
-Just before the snapshot is taken, 1 opponent is allowed to move any player 2 hexes in an attempt to deflect the shot (see [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball)). This can include the [goalkeeper](https://counterattackgame.github.io/wiki/it/goalkeeper).
+Appena prima che lo Snapshot venga tirato, l'avversario può muovere qualsiasi giocatore di massimo 2 esagoni nel tentativo di deviare il tiro (vedere [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) in caso di deviazione). Il giocatore mosso può essere anche il [portiere](https://counterattackgame.github.io/wiki/goalkeeper).
 
-In the Advanced Rules, if you choose the goalkeeper to move 2 Hexes (for the snapshot), the keeper gets a -1 saving penalty on the 2nd Hex away and a -2 penalty on the 3rd Hex away.
+Con le Regole Avanzate, se si sceglie di muovere di 2 esagono il portiere durante lo Snapshot, questo avrà una penalità di -1 in Saving sul secondo esagono e di -2 sul terzo esagono.
 
-The sequence that must be followed is:
+La sequenza delle azioni per lo Snapshot è la seguente:
 
-1. Attack calls Snapshot
-2. Defence moves 1 player (up to) 2 Hexes.
-3. Attack calls the direction of the shot. Agree on which defenders can attempt to block. Resolve any block attempts. If the ball is blocked , play the [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball). If not proceed below.
-4. Agree on the Hex that the keeper will attempt to save, and calculate any potential penalties for the saving.
-5. Roll dice for shooting and saving. If attack rolls a 1 the shot is off-target.
+1. L'attaccante dichiara lo Snapshot.
+2. Il difensore muove un giocatore fino a 2 esagoni.
+3. L'attaccante dichiara la direzione del tiro. Si vede quali difensori possono tentare di deviare il pallone. Si risolvono eventuali deviazioni e se il pallone è deviato il gioco continua con [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball), altrimenti si procede al punto successivo.
+4. Si controlla in quale esagono il portiere tenterà di parare il tiro e si calcola qualsiasi potenziale penalità per la parata.
+5. I due allenatori lanciano il dado. Se l'attaccante lancia un 1, il tiro è fuori.
 
-In case of a SHOT, the direction is called at the same time as the action itself, and shot process starts from the third bullet above.
+Nel caso di uno Shot (tiro normale), la direzione è dichiarata nello stesso momento del tiro stesso e il processo del tiro parte dal terzo punto dell'elenco sopra riportato.
 
-Please note:
+Tieni a mente:
 
-- Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He **CANNOT** snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He **CAN** snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He **CAN** snapshot.
+- Un attaccante si è mosso con il pallone fino al limite dell'area (ma non è ancora entrato). Sfugge ad un tentativo di Tackle, e si riposiziona quindi in area. **NON PUÒ** effettuare uno Snapshot.
+- Un attaccante si muove all'interno dell'area di rigore col pallone, effettua uno Snapshot ma la palla viene deviata da un difensore o dal portiere e torna in possesso dell'attaccante. L'attaccante **PUÒ** tentare un nuovo snapshot.
+- Un attaccante si muove in area, effettua uno snapshot ma il pallone viene deviato dal portiere o da un difensore sui piedi di UN ALTRO attaccante CHE SI È GIÀ MOSSO. Questi **PUÒ** effettuare uno snapshot.
 
-Following an aerial challenge, a [keeper](https://counterattackgame.github.io/wiki/it/goalkeeper) is still eligible to move 1 when the ball enters the box and also take advantage of the 2 moves following a snapshot declaration.
+A seguito di un contrasto aereo, un [portiere](https://counterattackgame.github.io/wiki/it/goalkeeper) può ancora muoversi di 1 esagono quando la palla entra in area ed essere scelto come giocatore da muovere di 2 esagoni dopo la dichiarazione di uno snapshot.
 
-## Difficult Shooting Angles
+## Angoli di tiro difficili
 
-Certain positions on the pitch within shooting range are difficult to score from due to the angle. Shooting from hexes marked with a small circle is possible but your shooting suffers a -1 dice penalty.
+Da certe posizioni in campo, nel range per un tiro, è più difficile fare goal. Tirare dagli esagono segnati con un puntino è possibile, ma il tiro avrà una penalità di -1 al dado.
 
-## Deciding the hex of potential save for the GK
+## Decidere l'esagono dell'eventuale Parata del Portiere
 
-Always remember that:
+Ricorda sempre che:
 
-- Shot attempts (Snapshots, Shots and [Headed](https://counterattackgame.github.io/wiki/it/heading) attempts at Goal) travel in a STRAIGHT line.
-- Goalkeepers can only save in hexes parallel to the goal line. There is a theoretical 7-Hex-wide saving wall consisting of the GK position and 3 hexes in each side, always parallel to the goal line.
-- Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many more Hexes than a player would use to travel the same route.
-- The Goalkeeper always saves in the **closest** hex that the ball trajectory dictates.
+- I tentativi di tiro (Snapshot, Shot e [Headed](https://counterattackgame.github.io/wiki/it/heading) viaggiano in linea RETTA.
+- Il portiere può solo parare negli esagoni paralleli alla linea di porta. C’è una linea teorica di 7 esagoni per la parata, compreso quello nel quale è posizionato il portiere: 3 esagoni in ogni lato sempre parallelo alla linea di porta.
+- Il pallone viaggia su una linea, ma non è un punto. È tondo con un raggio non negativo, dunque mentre viaggia può passare per più esagoni contemporaneamente.
+Il portiere para sempre nell'esagono **più vicino** nel quale passa la traiettoria del pallone.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)

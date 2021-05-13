@@ -6,32 +6,33 @@
 
 [Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/loose_ball)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)# Loose Ball
 # Loose Ball
 
-The Loose Ball instructions determines where the ball ends up whenever:
+Le istruzioni per la Loose Ball determinano dove va a finire la palla quando:
 
-1. a defender successfully deflects a shot
-2. a high pass or long pass is inaccurate
-3. a tackle, a [Header](https://counterattackgame.github.io/wiki/it/heading) or a shot ends in a tie
-4. the GK after saving a shot fails to hold on to the ball.
+1. un difensore devia con successo uno shot o uno snapshot
+2. un high pass o long passo non è preciso
+3. un tackle, un [header](https://counterattackgame.github.io/wiki/it/heading), uno shot o uno snapshot finiscono in pareggio
+4. il portiere, dopo aver parato, non riesce a trattenere il pallone
 
-Refer to the numbers 1-6 printed on the pitch. This helps you determine where the ball will break. The ball deflects from the centre of the incident (i.e. where the ball was supposed to travel, or from the defender who challenged for a tackle or [Header](https://counterattackgame.github.io/wiki/it/heading))
+Fai riferimento ai numeri 1-6 stampati sul campo. Ti aiuterà a determinare dove la palla andrà a finire. La palla verrà deviata del centro dell'evento (cioè da dove la palla sarebbe dovuta finire in caso di passaggio o tiro, o dal difensore che ha contrastato nel caso di tackle o [header](https://counterattackgame.github.io/wiki/it/heading))
 
-Roll a dice to determine the direction the ball will break. If you roll a 3, the ball will break in the direction of the 3, and so on.
+Tira un dado per determinare la direzione verso cui la palla verrà deviata. Ad esempio, se tiri un 3, la palla viaggerà nella direzione del 3.
 
-To determine the distance the ball will break, roll a dice again. The dice roll will tell you how many hexes the ball will travel. Start counting from the source of the loose ball.
+Per determinare la distanza a cui finirà la palla, tira nuovamente un dado. Il dado ti dirà di quanti esagoni la palla viaggerà. Inizia a contare dall'esagono dove ha luogo la deviazione.
 
-- If the ball does not hit any player while travelling, **continue** the [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) or, if you were not in a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), begin one with the attacking team moving first.
-- If the loose ball _hits_ an attacker during a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), **continue** the [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), or if you were not in a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), begin one with the attacking team moving first, but the attacker can choose to **Snapshot** immediately.
-- If the ball _hits_ a defender while it is travelling, that player’s team is now in possession. Resume play with "Any other Scenario"
-- If the loose ball is picked up by a defender, the [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) ends immediately and play continues with "Any other Scenario"
-- If the loose ball comes from an inaccurate high pass, the ball travels **directly from the passer to the new destination**. Play resumes from this point, following the rules of [Headers](https://counterattackgame.github.io/wiki/it/heading) or with a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) if a header is not possible.
-- If the loose ball comes from an inaccurate long pass, the ball travels **directly from the passer to the new destination**. Play resumes from this point with a [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
-- Goals can be scored from loose balls! If the ball passes within 1 hex of the [goalkeeper](https://counterattackgame.github.io/wiki/it/goalkeeper), the goalkeeper needs to roll a 5 or a 6  or 10+ combined with Saving to save it! If the ball passes more than 1 hex from the goalkeeper, it cannot be saved.
+- Se la palla non colpisce nessun altro giocatore mentre viaggia, **continua** la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) oppure, se non eri in una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), iniziane una con la squadra in attacco che muove per prima
+- Se la palla _colpisce_ un attaccante durante una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), **continua** la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), oppure se non era in corso una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), iniziane una con la squadra in attacco che muove per prima, ma l'attaccante può decidere di effettuare uno **snapshot** immediatamente.
+- Se la palla _colpisce_ un difensore mentre viaggia, la sua squadra è ora in possesso. Riprendi con "Any Other scenario"
+- Se la palla vagante viene raccolta da un difensore, la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) termina immediatamente e il gioco riprende con "Any other scenario"
+- Se la palla vagante scaturisce da un high pass impreciso, la palla viaggia **direttamente dal giocatore che effettua il passaggio alla nuova destinazione**. Il gioco riprende da questo punto, seguendo le regole degli [Headers](https://counterattackgame.github.io/wiki/it/heading) o con una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) se un header non è possibile
+- Se la palla vagante scaturisce da un long pass impreciso, la palla viaggia **direttamente dal giocatore che effettua il passaggio alla nuova destinazione**. Il gioco riprende da questo punto con una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase)
+- Una Loose Ball può trasformarsi in gol! Se il pallone passa in un esagono adiacente al [portiere](https://counterattackgame.github.io/wiki/it/goalkeeper), questi ha bisogno di tirare un 5 o un 6, oppure un tiro combinato di Saving 10+ per pararla! Se la palla passa a più di un esagono di distanza dal portiere, questi non può pararla.
 
-## How to deflect shots:
-- If the [shot](https://counterattackgame.github.io/wiki/it/shooting) travels though a defender, roll a 5 or 6, or 10+ combined with Tacklling to deflect.
-- If it passes within 1 hex, roll a 6 or 10+ combined with Tackling to deflect.
+## Come deviare tiri
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/it/index)
+- Se lo [shot](https://counterattackgame.github.io/wiki/it/shooting) passa attraverso la casella di un difensore, tira un 5 o un 6 oppure un tiro combinato di 10+ (Tackling) per deviarlo.
+- Se passa ad un esagono di distanza, tira un 6 oppure un Tiro Combinato di 10+ (Tackling) per deviare.
+
+[Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
