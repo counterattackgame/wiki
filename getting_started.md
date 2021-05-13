@@ -33,7 +33,7 @@ Place the referee cards face down and pick 1 at random. Place the referee card f
 
 ## Added time
 
-At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. 
+At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for that many Actions before the half/match is over. **The maximum number of actions there can be in each half is 7. The only time an action can be exceeded by 1 is if a penalty is awarded in the last action of the match.**
 
 An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
 
