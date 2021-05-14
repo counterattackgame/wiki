@@ -33,7 +33,7 @@ Girare il mazzo con le carte arbitro a faccia in giù e selezionarne una a caso 
 
 ## Recupero
 
-Alla fine di ogni tempo di gioco, lanciare il dado e aggiungere il risultato alla Leniency dell'arbitro. Il gioco continua esattamente per un numero di Actions uguale al risultato ottenuto, dopodiché il tempo sarà concluso. L'unica ragione per cui il numero di Actions da giocare può successivamente aumentare di 1 è l'assegnazione di un calcio di rigore durante l'ultima Action, che dovrà obbligatoriamente essere tirato. Una Action è qualsiasi cosa venga dichiarata da un attaccante come prossima azione: Movement Phase, Standard Pass, First Time Pass, Short Pass (da throw-in o corner kick), Quick Throw del portiere, High Pass, Long Pass, Header, Control di un High Pass, e (Snap)Shot.
+Alla fine di ogni tempo di gioco, lanciare il dado e aggiungere il risultato alla Leniency dell'arbitro. Il gioco continua esattamente per un numero di Actions uguale al risultato ottenuto, dopodiché il tempo sarà concluso. **Il massimo di azioni che può essere giocato durante ciascun tempo è 7. L'unica ragione per cui il numero di Actions da giocare può successivamente aumentare di 1 è l'assegnazione di un calcio di rigore durante l'ultima Action, che dovrà obbligatoriamente essere tirato.** Una Action è qualsiasi cosa venga dichiarata da un attaccante come prossima azione: Movement Phase, Standard Pass, First Time Pass, Short Pass (da throw-in o corner kick), Quick Throw del portiere, High Pass, Long Pass, Header, Control di un High Pass, e (Snap)Shot.
 
 **Ricorda:**
 
