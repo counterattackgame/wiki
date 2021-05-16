@@ -136,7 +136,7 @@ Prova a fare queste 4 mosse: B10 rischia un dribbling andando nella ZOI di R8 (d
 Se R4 lanciasse un 6 (o un 10+ nella somma con Tackling) la palla sarebbe rubata, la Movement Phase finirebbe perché il possesso cambierebbe. R4 non si potrebbe riposizionare e il gioco continuerebbe con “Any Other Scenario”.
 Se R4 lanciasse un 1, invece, commetterebbe un fallo. Bisognerebbe fare un lancio di dado dell'attaccante per controllare l'eventuale infortunio di B10 (dado >= B10 Resilience) e un lancio di dado del difensore per controllare un eventuale ammonizione di R4 (dado >= Leniency dell'arbitro). B10 potrebbe scegliere se continuare o prendersi il fallo. Assumiamo che R4 lancia un 4, così non accade nulla.
 
-![Movement 1](docs/movement_1.png)
+![Movement 1](../docs/movement_1.png)
 
 ## Movement Phase difensiva
 
@@ -150,7 +150,7 @@ Blue è in possesso di palla con il numero 10 che ha Pace 5 e Dribbling 6. è an
 Ha abbastanza spazio per provare un tunnel a R2, dichiara il tunnel e vince il duello nonostante R2 ha un bonus +1 sul Tackling.
 B10 è molto determinato, gasato dalla tifoseria. Dichiara un altro tunnel a R5, visto che ha Pace sufficiente per passare oltre al giocatore avversario. Per il fine dell'esempio vince il duello e dichiara uno Snapshot, ma B10 tira un 1 con il dado e il tiro fino sopra la traversa….ma che azione!
 
-![Movement 2](docs/movement_2.png)
+![Movement 2](../docs/movement_2.png)
 
 ### Due punti da considerare qui
 
@@ -161,6 +161,6 @@ B10 è molto determinato, gasato dalla tifoseria. Dichiara un altro tunnel a R5,
 
 B10 vuole giocare prudentemente ed evitare qualsiasi tentativo di farsi rubare palla, quindi segue il percorso sotto disegnato. Entra due volte nell'Area di Rigore (nei due esagoni verde scuro), dunque dovrebbe fermare due volte il suo movimento per chiedere se il portiere vuole effettuare la mossa libera di 1 esagono.
 
-![Movement 3](docs/movement_3.png)
+![Movement 3](../docs/movement_3.png)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
