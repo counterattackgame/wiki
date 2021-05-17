@@ -107,11 +107,11 @@ Il giocatore in possesso di palla è il Red 4 (R4).
 - Un passaggio a R10 può essere effettuato, ma W7 potrebbe lanciare il dado per intercettarlo perché il pallone passa nella sua ZOI.
 - Un passaggio a R7 può essere effettuato e nessuno può intercettarlo. La palla entra nella ZOI di W5, ma l'esagono è occupato da R7, dunque l'interecetto non è possibile.
 
-![Standard 1](docs/pass_1.png)
+![Standard 1](../docs/pass_1.png)
 
 Inoltre:
 
-![Standard](docs/pass_2.png)
+![Standard](../docs/pass_2.png)
 
 - Se questo fosse un tentativo di Standard Pass tra i giocatori Rossi, entrambi i Blu potrebbero provare a intercettare il passaggio.
 - Se questo fosse un tentativo di Standard Pass tra i giocatori Blue, NESSUNO dei Rossi potrebbe provare a intercettare il passaggio.
@@ -123,7 +123,7 @@ Red 4 (R4) ha la palla.
 - Un High Pass in direzione di R7 non può essere effettuato perché White 7 (W7) è in un esagono adiacente a R4 e nella traiettoria del pallone.
 - Un High Pass in direzione di R10 può essere fatto perché nessun avversario è nell'esagono adiacente a R4 e nella traiettoria del pallone.
 
-![High Pass](docs/pass_3.png)
+![High Pass](../docs/pass_3.png)
 
 ## Long Pass
 
@@ -141,6 +141,6 @@ Visto che W7 si muove nella traiettoria del pallone, W7 può intercettarlo lanci
 
 Se W7 non dovesse riuscirci, R10 riceve il pallone nell; esagono in cui si è mosso. W5 non può intercettare il passaggio perché R10 sta occupando l'esagono dove è finito il pallone.
 
-![First time pass](docs/pass_4.png)
+![First time pass](../docs/pass_4.png)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
