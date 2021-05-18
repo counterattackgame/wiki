@@ -4,144 +4,144 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/passing)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/passing)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/passing)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Passing
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-There are 3 types of passes in the Core Rules and a 4th one in the Advanced Rules. 
+# Passe
 
-The markers on the distance stick show you how far each pass can travel. This is a maximum allowable distance; the pass can be shorter than the marker shows. 
+Há 3 tipos de passes nas Regras Básicas e um quarto nas Regras Avançadas. 
 
-Hold the stick over the player in possession of the ball and point it in the direction you’d like to pass.
+As marcas na régua mostram a distância máxima que a bola pode alcançar em cada tipo de passe; os passes podem, no entanto, ser mais curtos. 
 
-## Standard Pass
+Posiciona a régua sobre o jogador que tem a bola e aponta-a na direção em que pretendes passar.
 
-A standard pass travels along the ground. The ball cannot travel through an opponent (see Zone of Influence) but you can pass through your teammate.
+## Passe normal
 
-If the path of the ball comes within 1 hex of a defender, that player can roll a 6 OR achieve a combined score of 10+ with their tackling ability to intercept.
+Um passe normal é feito ao nível do solo. O passe não pode atravessar adversários (ver Zona de Influência) mas pode atravessar colegas de equipa. 
 
-If the interception is successful, possession changes. Continue play with "Any other scenario" (Movement, First Time Pass, Long pass, Snapshot). The defender attracts the ball to their Hex, the defender does not go to the ball or reposition in anyway.
+Se a trajetória da bola passar no hexágono adjacente a um defesa, este pode intercetar a bola obtendo 6 no dado OU um resultado combinado de Desarme + dado igual ou superior a 10.
 
-The passer of a Standard Pass can pick up the ball if he/she wants.
+Se a intercepção for conseguida, a posse de bola muda de equipa. Continua a jogar de acordo com Qualquer Outro Cenário (Movimento, Passe de primeira, Passe longo, Remate de primeira). O defensor traz a bola para o hexágono onde está posicionado. O defensor não se desloca para a bola nem é reposicionado.
 
-## High Pass
+O jogador que faz o passe normal pode recolher a bola mais adiante (ou seja, pode passar para si próprio).
 
-Use the distance stick to work out where you want to pass to. If your opponent is within 1 hex of the player making the pass and directly in the path of the high pass, the pass cannot be made. Place the ball where you want it to go. The ball must always be aimed to land on the [Head](https://counterattackgame.github.io/wiki/pt/heading) of one of your players.
 
-Next, each team may move 1 player up to 3 hexes as the ball travels. This means that the offside position of each player is assessed before these two movements.
+## Passe alto
 
-If the High Pass is played into the penalty box, the goalkeeper also gets to move 1 hex.
+Utilizando a régua, vê para onde queres passar. O passe não pode ser efetuado quando um adversário está simultaneamente na trajetória da bola e num hexágono adjacente ao jogador que faz o passe. Caso contrário, coloca a bola no hexágono de destino pretendido. A bola tem de ser sempre dirigida à [cabeça](https://counterattackgame.github.io/wiki/pt/heading) de um dos teus jogadores.
 
-Now test for accuracy: High Pass + dice must be 8+. If the pass is inaccurate, refer to Inaccurate high passes below.
+De seguida, cada equipa pode reposicionar 1 jogador até 3 espaços de distância enquanto a bola viaja. Isto significa que a posição de fora de jogo é avaliada antes desses dois movimentos.
 
-A High Pass has to be targeted at least 3 clear hexes away from the passer, but even in the scenario of the inaccuracy, you cannot [Head](https://counterattackgame.github.io/wiki/pt/heading) your own High Pass. If the inaccurate High Pass lands on the passer, continue play with Any Other Scenario
+Se o passe alto alcança a grande área, o guarda-redes pode mover-se 1 hexágono. 
 
-### Inaccurate high passes
+Tem de haver, no mínimo, um espaço de 3 hexágonos entre a localização do jogador que faz o passe alto e a localização pretendida da bola. Mesmo que o passe seja impreciso, o jogador que fez o passe alto não pode [cabecear](https://counterattackgame.github.io/pt/wiki/heading) a bola. Se o passe alto impreciso cair na localização do jogador que fez o passe, prossegue o jogo com Qualquer Outro Cenário. 
 
-If a high pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions to find out the actual destination of the high pass. This can result to a ball moving out of the pitch for a Goal Kick or a Throw in. 
+### Passes altos imprecisos
 
-In case of inaccuracy the trajectory is considered to be a straight line between the passer's position and the final destination.
+Se o passe alto for impreciso, seguir as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) para determinar a localização da bola no seguimento do passe. A imprecisão do passe pode fazer com que a bola saia do terreno de jogo, dando origem a um lançamento de linha lateral ou a um pontapé de baliza. 
 
-An inaccurate High Pass cannot be intercepted.
+Se o passe for impreciso, a trajetória da bola é uma linha reta entre a localização do jogador que faz o passe e o destino final da bola. 
 
-Once the ball's final destination is determined, if there are players within 2 hexes, a [Header](https://counterattackgame.github.io/wiki/pt/heading) or control must be attempted by at least one player. If no player is close enough, resume play with a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase).
+Um passe alto impreciso não pode ser interceptado. 
 
-### Attempt to Control the ball
+Se houver jogadores a 2 hexágonos de distância da localização final da bola, pelo menos um deles tem de a [cabecear](https://counterattackgame.github.io/wiki/pt/heading) ou tentar controlar. Se nenhum jogador estiver suficientemente próximo, prosseguir o jogo com uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase).
 
-If no opponent is close enough to challenge for a [Header](https://counterattackgame.github.io/wiki/pt/heading), you can choose to either (a) head the ball unopposed (see [Heading](https://counterattackgame.github.io/wiki/pt/heading)) or (b) control the ball. For the latter option, run a dice test: dribbling + dice must equal 9+:
+### Tentativa de controlo da bola
 
-- If you are successful, continue play as if you've just won a tackle
-- If you are unsuccessul, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions
-- If no-one can challenge for the inaccurate high ball, continue play with a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase). Attacking team moves first.
+Se não houver nenhum adversário suficientemente perto que possa disputar o [cabeceamento](https://counterattackgame.github.io/wiki/pt/heading), podes (a) cabecear sem oposição (ver [Cabeceamento](https://counterattackgame.github.io/wiki/pt/heading)) ou (b) controlar a bola. Neste último caso, o resultado combinado de dado + Finta tem de ser igual ou superior a 9: 
 
-## Long Pass
+- Se tiveres sucesso, continua a jogar como se tivesses ganho um desarme.
+- Se não tiveres sucesso, segue as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball).
+- Se ninguém puder cabecear ou tentar controlar a bola no seguimento de um passe alto impreciso, continua o jogo com uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase). A equipa atacante movimenta-se primeiro.
 
-A Long Pass can travel to any position on the pitch which means there is no need for the distance stick. There are some limitations, however!
+## Passe longo
 
-- You cannot play a Long Pass from one final third to the other (In Advanced Rules you can), or make the pass if there is an opponent in any hex adjacent to yours that will block the route of the ball.
+Um passe longo pode ser dirigido a qualquer ponto no terreno de jogo, pelo que não se usa a régua. Há, no entanto, algumas restrições:
 
-- The ball must not be aimed to land within 5 hexes of any of your teammates and it must not be aimed to land in any hex right next to an opponent.
+- Não é possível fazer um passe longo de um último terço para o outro (nota: é possível fazê-lo nas Regras Avançadas). Também não é possível fazer um passe longo se houver algum adversário num hexágono adjacente ao do jogador que pretende fazer o passe e que esteja a bloquear a trajetória da bola. 
 
-There is no rule against the passer of a Long Pass being the same person to pick up the ball eventually.
+- A bola tem de ser dirigida a mais de 5 hexágonos de qualquer jogador da tua equipa e não pode ser dirigida a um hexágono adjacente a um adversário. 
 
-### Accuracy Check
+O jogador que faz o passe longo pode recolher a bola mais adiante (ou seja, pode passar para si próprio).
 
-You must check for accuracy when you play a Long Pass. A combined score (dice + High Pass attribute) of 9+ is needed for the Long Pass to be accurate.
+### Teste de precisão
 
-In Advanced Rules, a Long Pass from one Final Third to another is possible but it requires a combined score of 10+ to be accurate.
+Tens de verificar se o passe longo é preciso. É necessário um resultado combinado igual ou superior a 9 (dado + Passe Alto) para que o Passe Longo seja preciso. Se não for, segue as regras da Bola Solta.
 
-If the pass is inaccurate, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions as in High Pass.
+Nas Regras Avançadas é possível realizar passes longos de um último terço para o outro. Neste caso, é necessário um resultado combinado igual ou superior a 10 (dado + Passe Alto) para que o Passe Longo seja preciso.
 
-Accurate or not, the Long Pass travels high in the air and cannot be intercepted en route to its destination. However, an inaccurate Long Pass could land directly on an opponent. The ball lands in its destination though. No header is involved.
+Se o passe for impreciso, segue as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) tal como no Passe Alto.
 
-### What is after a Long Pass?
+Seja preciso ou impreciso, no Passe Longo a bola viaja pelo ar e não pode ser interceptada na sua trajetória. No entanto, um passe longo impreciso pode cair diretamente num adverário. Assume-se que está no chão e, portanto, não há lugar a cabeceamento. 
 
-After a Long Pass has been made, the defending manager gets to move their goalkeeper according to the goalkeeper’s pace.
+### E depois de um passe longo?
 
-In case the ball gets into the box, the defending keeper also gets 1 Hex move.
+Depois de um passe longo, o treinador da equipa defensora pode mover o seu guarda-redes de acordo com a respetiva velocidade. 
 
-Play then resumes with a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase), with the attacking team moving first.
+No caso de a bola entrar na área, o guarda-redes pode movimentar-se um hexágono adicional.
 
-## First Time Pass
+O jogo continua com uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase), com a equipa atacante a movimentar-se primeiro.
 
-First-time passes are short. They can be used to catch out a tight defence, but be aware that a defender can make a move to intercept the pass.
+## Passe de primeira
 
-Decide where the ball will go to and then each team moves 1 player 1 hex as the ball travels. Attacking player moves first.
+Os passes de primeira são curtos. Podem ser usados para ultrapassar uma defesa apertada, mas tem atenção porque o defesa pode fazer um movimento para intercetar o passe. 
 
-- If the defender moves into the path of the ball, roll a 5 or 6  OR a 10+ combined score (with the Tackling Attribute) to intercept.
-- If the defender comes within 1 hex of the ball, roll a 6 OR a 10+ combined score (with the Tackling Attribute) to intercept.
-- If the defender comes within 1 Hex of the player in possession, roll a 6 OR a 10+ combined score (with the Tackling Attribute) to intercept. (Roll a 1 and it's a Foul, though)
+Decide para onde a bola vai e depois cada equipa pode mover um jogador 1 hexágono, o que ocorre em simultâneo com a deslocação da bola. O atacante move-se em primeiro lugar. 
 
-Please note that the recipient of the pass has to be different from the taker.
+- Se o defesa se movimentar para um hexágono que está na trajetória da bola, lança um 5 ou 6 OU obtém um resultado combinado de dado + Desarme igual ou superior a 10. 
+- Se o defesa se movimentar para um hexágono adjacente à trajetória da bola, lança um 6 OU obtém um resultado combinado de dado + Desarme igual ou superior a 10. 
+- Se o defesa se movimentar para um hexágono adjacente ao do jogador que tem a posse de bola, lança um 6 OU obtém um resultado combinado de dado + Desarme igual ou superior a 10. Se lançares um 1 é falta.  
 
-Please also note that if the 6th hex away of your first time pass is on your teammate, and you chose to move that player one Hex, he/she cannot carry the ball with him. The first time pass distance ABIDES.
+O jogador que recebe o passe de primeira não pode ser o jogador que fez o passe.
 
-# Graphical Examples
+Se o passe de primeira for realizado para um colega de equipa que está à distância limite dos passes de primeira (6 hexágonos) e esse for o jogador que decides movimentar 1 hexágono, ele não pode transportar a bola para um hexágono mais distante (isto é, um sétimo hexágono mais distante da origem da bola. Pode, no entanto, aproximar-se do jogador que fez o passe). 
 
-## Standard Pass
+# Exemplos gráficos
 
-The Player in control of the ball is Red 4 (R4).
+## Passe normal
 
-- A pass cannot be made to R5 because the ball would travel directly through the hex of W7
-- A pass can be made to R10 but W7 could roll for an intercept because the ball travels through that player's Zone of Influence
-- A pass can be made to R7 and no opponent can intercept. The ball does enter the Zone of Influence of W5 but that space is occupied by R7 so no intercept is possible
+O jogador que tem a posse de bola é o Vermelho 4. 
 
-![Standard 1](docs/pass_1.png)
+- Não é possível fazer um passe para o Vermelho 5 porque a bola teria de passar pelo hexágono onde o Branco 7 está localizado. 
+- É possível passar para o Vermelho 10, mas o Branco 7 pode lançar o dado para tentar a intercepção. Isto acontece porque a bola passa pela Zona de Influência do Branco 7. 
+- É possível passar para o Vermelho 7 e esse passe não pode ser interceptado. A bola entra na Zona de Influência do Branco 5 mas, como esse hexágono está a ser ocupado pelo Vermelho 7, a equipa Branca não pode interceptar. 
 
-Also:
+![Normal 1](docs/pass_1.png)
 
-![Standard](docs/pass_2.png)
+E:
 
-- If this was a Standard Pass attempt between the Reds, both Blue players can attempt to intercept.
-- If this was a Standard Pass attempt between the Blues, NO Red players can attempt to intercept.
+![Normal](docs/pass_2.png)
 
+- Se isto fosse uma tentativa de passe normal entre jogadores da equipa Vermelha, ambos os jogadores da equipa Azul poderiam tentar uma intercepção.
+- Se isto fosse uma tentativa de passe normal entre jogadores da equipa Azul, NENHUM jogador da equipa Vermelha poderia interceptar.
 
-## High Pass
 
-Red 4 (R4) has the ball.
+## Passe alto
 
-- A High Pass cannot be made in the direction of R7 because W7 is in an adjacent hex and directly in the path of the ball.
-- A High Pass can be made in the direction of R10 because no opponent is in an adjacent hex
+O Vermelho 4 tem a posse de bola.
 
-![High Pass](docs/pass_3.png)
+- Não é possível fazer um passe alto na direção do Vermelho 7 porque o Branco 7 está num hexágono adjacente e diretamente na trajetória da bola. 
+- É possível fazer um passe alto na direção do Vermelho 10 porque não há nenhum adversário num hexágono adjacente. 
 
-## Long Pass
+![Passe alto](docs/pass_3.png)
 
-The rules for blocking a Long Pass are the same for blocking a High Pass.
+## Passe longo
 
-## First Time Pass
+As regras para bloquear um passe longo são idênticas às regras de bloqueio de um passe alto.
 
-In this example, Red 4 (R4) has the ball.
+## Passe de primeira
 
-A first-time pass is being attempted into the direction of the long arrow.
+Neste exemplo, o Vermelho 4 tem a posse de bola.
 
-As the ball travels, R10 moves up to receive the pass and W7 moves left to try to intercept.
+Está a tentar realizar um passe de primeira na direção da seta comprida. 
 
-Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or 6.
+Enquanto a bola se desloca, o Vermelho 10 movimenta-se para receber o passe e o Branco 7 desloca-se para a esquerda para tentar interceptar.
 
-If W7 is unsuccessful, R10 collects the ball in the hex that player has moved into. W5 does not get an intercept because R10 is occupying the space the ball is travelling into.
+Porque o Branco 7 se movimenta para um hexágono que está na trajetória da bola, lança um 5 ou 6 OU obtém um resultado combinado de dado + Desarme igual ou superior a 10 para interceptar. 
 
-![First time pass](docs/pass_4.png)
+Se o Branco 7 falhar na tentativa de intercepção, o Vermelho 10 recolhe a bola no hexágono para o qual se deslocou. O Branco 5 não pode interceptar porque o Vermelho 10 está a ocupar o hexágono para onde a bola foi dirigida. 
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+![Passe de primeira](docs/pass_4.png)
+
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)

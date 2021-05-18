@@ -4,42 +4,42 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/getting_started)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Getting Started
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-A team squad is made up of 16 players; 1 [goalkeeper](https://counterattackgame.github.io/wiki/pt/goalkeeper), 10 outfielders and 5 substitutes. Here’s how to draft squads at the start of the game.
+# Para começar
 
-For online Games on Tabletopia, and especially official ones (matches played for some competition organized by members of the Counter Attack Community), players usually draft 2 [goalkeepers](https://counterattackgame.github.io/wiki/pt/goalkeeper), and 14 outfield players.
+Uma equipa é composta por 16 jogadores; 1 [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper), 10 jogadores de campo e 5 suplentes. Procede do seguinte modo para constituir as equipas no início do jogo.
 
-## [Goalkeepers](https://counterattackgame.github.io/wiki/pt/goalkeeper)
+Para os jogos online no Tabletopia, em particular nos jogos oficiais (encontros realizados no âmbito das competições organizadas pelos membros da comunidade Counter Attack), os treinadores normalmente selecionam 2 [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper) e 14 jogadores de campo.
 
-Place the goalkeeper cards face down and pick 1 goalkeeper each.
+## [Guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper)
 
-Official Online games: Flip the GK deck so that all cards are face down, shuffle the deck at will, Take 4 cards, Roll the dice to see who picks first and pick two each. Many people chose to lay all the cards down to the pitch, (by selecting take 10 -all of them) then the two managers have all the cards in their view so select from there.
+Coloca todas as cartas de guarda-redes com a face virada para baixo. Cada treinador escolhe 1 carta de guarda-redes.
 
-## Outfield Players
+Jogos oficiais online: Vira o baralho dos guarda-redes de modo a que todas as cartas fiquem com a face virada para baixo. Baralha (usa a função shuffle) as cartas e escolhe 4 delas. Lança o dado para decidir qual é o treinador que escolhe primeiro. Cada treinador escolhe 2 guarda-redes. Para realizar este procedimento, podes espalhar as cartas no campo de jogo (selecionando take 10 - todas as cartas de guarda-redes). Depois, com todas as cartas à vista (mas viradas para baixo), os treinadores podem escolher 2 cartas cada.
 
-Shuffle the cards and place 4 of them face up. You choose 1 of these cards, your opponent chooses next. You then pick 1 of the remaining cards and your opponent takes the final card. Repeat this process with the rest of the player cards, taking turns with who picks first. Keep going until you both have 15 outfield players.
+## Jogadores de campo
 
-Now it’s time to decide which 11 players will make up your starting team, and which will be your 5 substitutes. Allocate a squad number 1-11 to each starting player and place them in their corresponding spaces at the sides of the pitch.
+Baralha as cartas e coloca 4 com a face visível. Escolhe uma destas cartas; o teu adversário escolhe outra. Depois és novamente tu a escolher, ficando o teu adversário com a última carta. Repete este procedimento para o resto dos jogadores, alternando quem escolhe em primeiro lugar. Continua até que ambos os treinadores tenham 14 jogadores de campo.
 
-Official Online games: Roll dice for who picks first, Flip the Outflield players Deck, so that all cards are facing down, shuffle the deck at will, "Take" 4 cards, and pick one card each until all 4 cards are taken. Repeat process until each player has 14 outfield players,  taking turns on who picks first. The winner of the initial rolls should get 4 first picks and the other manager gets 3 first picks. (7 turns in total, each player gets 2 players in each turn, totals 14 outfield players)
+Chegou agora o momento de cada treinador escolher quem serão os 11 titulares e quem serão os 5 suplentes. Para isso, atribui um número de 1 a 11 a cada jogador titular, colocando as cartas nos espaços numerados que se encontram nas faixas laterais do campo.
 
-## Referee
+Jogos oficiais online: lança o dado para ver quem é o primeiro treinador a escolher. Vira o baralho dos jogadores de campo de modo a que todas as cartas fiquem com a face virada para baixo. Baralha à vontade e retira 4 cartas (take 4). Cada treinador escolhe uma carta até que as 4 cartas tenham sido escolhidas. Repete o processo até que cada treinador tenha 14 jogadores de campo, alternando quem escolhe em primeiro lugar. O vencedor do lançamento inicial do dado será por 4 vezes o primeiro a escolher; o outro treinador será o primeiro a escolher nas outras 3 vezes. Há, portanto, 7 rondas de escolha; cada treinador escolhe 2 jogadores em cada ronda até se atingir um total de 14 jogadores.
 
-Place the referee cards face down and pick 1 at random. Place the referee card face up at the side of the pitch.
+## Árbitro
 
-## Added time
+Coloca todas as cartas de Árbitro com a face virada para baixo e escolhe 1 ao acaso. Agora coloca a carta de árbitro, com a face visível, atrás de uma das balizas.
 
-At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. 
+## Descontos
 
-An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
+No final de cada uma das partes, lança o dado e soma o resultado do dado à tolerância do árbitro (no original Inglês: leniency). O jogo prossegue até que se esgote o número de Ações indicado pelo resultado da soma (até um máximo de 7 Ações). Se for assinalado penalty na última ação do jogo, marca-se o penalty. Este é o único motivo pelo qual o número de Ação previstas pode ser excedido em 1. Uma Ação é tudo aquilo que o treinador que tem a posse de bola pode fazer: fase de movimento, passe normal, passe de primeira, passe alto, passe longo, cabeçada, remate e remate de primeira (no original Inglês: Movement Phase, Standard Pass, First Time Pass, High Pass, Long Pass, Header, Shot e Snapshot).
 
-**Remember:**
-- A movement phase before a throw in is not considered an action.
-- A nutmeg is part of the movement phase and not a separate action.
-- The final thirds movement is not a separate action.
+**Recorda:**
+- As fases de movimento realizadas antes de um lançamento de linha lateral não são consideradas uma ação.
+- Um túnel faz parte da fase de movimento (não é uma ação à parte).
+- Os movimentos dos últimos terços não são considerados uma ação.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
+

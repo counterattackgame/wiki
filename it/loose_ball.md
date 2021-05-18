@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/loose_ball)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/loose_ball)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/loose_ball)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)# Loose Ball
 # Loose Ball

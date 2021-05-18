@@ -4,160 +4,164 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/movement_phase)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/movement_phase)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Movement Phase
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-A Movement Phase represents a split second on the football pitch. The attacking manager can start a Movement Phase after every action except a high pass. One Movement Phase can follow another if the attacking manager wishes.
+# Fase de Movimento
 
-Each player’s Pace attribute determines how far they can travel in a Movement Phase e.g. a player with pace of 6 can move up to a total of 6 hexes during a Movement Phase. Players cannot move through teammates or opposition players.
+Una Fase de Movimento representa apenas um instante do jogo. O treinador atacante pode iniciar uma Fase de Movimento depois de qualquer ação, exceto a seguir a um passe alto. Uma Fase de Movimento pode seguir-se a outra se o treinador atacante assim o desejar.
 
-During a Movement Phase, follow the 4-5-2 sequence:
+A característica de Velocidade de cada jogador determina a distância máxima a que se pode deslocar numa Fase de Movimento. Por exemplo, um jogador com Velocidade 6 pode deslocar-se até 6 hexágonos. Os jogadores não podem atravessar espaços ocupados por jogadores de qualquer equipa. 
 
-1. Attacking manager moves 4 players (Can include the GK)
-2. Defending manager moves 5 players (Can include the GK)
-3. Attacking manager moves 2 new players, up to a maximum of 2 hexes each (Can include the GK)
+Durante a Fase de Movimento segue a sequência 4-5-2:
 
-During the Movement Phase, if the player in possession of the ball moves the ball within 1 hex of an opponent, the defender MUST try to steal the ball.
-All they have to do is roll a 6 OR achieve a combined score of 10+ (Tackling + dice roll)
-If the defender succeeds, the Attacker does not exceed his pace and play continues with Any other Scenario
-If the defender fails, the attacker can continue moving through the defender’s Zone of Influence, but no more ‘steal’ attempts are made by that defender.
+1. O treinador atacante move 4 jogadores (pode incluir o guarda-redes)
+2. O treinador defensor move 5 jogadores (pode incluir o guarda-redes)
+3. O treinador atacante move 2 novos jogadores, até um máximo de dois hexágonos cada um (pode incluir o guarda-redes)
 
-Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the Fouls section for more info.
+Se, durante a Fase de Movimento, o jogador com a bola movimenta-se num hexágono adjacente a um defesa, o defesa TEM de tentar roubar a bola. 
+Para tal, precisa de lançar um 6 ou alcançar um resultado combinado igual ou superior a 10 (Desarme + dado). 
+Caso o defesa tenha sucesso, o atacante interrompe o seu movimento e o jogo prossegue com Qualquer Outro Cenário. 
+Caso o defesa não tenha sucesso, o atacante pode continuar o seu movimento através da zona de influência do defesa (esse defesa não pode voltar a tentar robar a bola durante esse movimento). 
 
-**Actions during the Movement Phase**
+Recorda que **lançar um 1 ao tentar roubar a bola** é falta (ver a secção das Faltas para mais informação).
 
-- You cannot make a [pass](https://counterattackgame.github.io/wiki/pt/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/pt/shooting) during a Movement Phase if your player has the ball in the box.
-- If a defender moves a player within 1 hex of the attacker in possession, a tackle can be attempted. Pause the sand timer while making the tackle.
-- If a player is successfully tackled during the Movement Phase, possession of the ball changes hands and the current Movement Phase immediately comes to an end.
+**Ações durante a Fase de Movimento**
 
+- Não é possível fazer um [passe](https://counterattackgame.github.io/wiki/pt/passing) até a Fase de Movimento ter terminado. É possível, no entanto, efertuar um [remate](https://counterattackgame.github.io/wiki/pt/shooting) durante a Fase de Movimento se o jogador estiver com a bola na área.
+- Se um defesa se deslocar para um hexágono adjacente ao atacante que transporta a bola, pode tentar um desarme. Pausar a ampulheta enquanto se realiza o desarme. 
+- Se o desarme tiver sucesso, a posse de bola muda de equipa e a Fase de Movimento que estava a decorrer termina imediatamente. 
 
-## Tackling vs Dribbling
+## Desarme vs Finta
 
-Tackling is a duel between the defender and the attacker. A tackle can be attempted if a defender moves within 1 hex of the player with the ball during a Movement Phase
+Desarme é um duelo entre o defesa e o atacante. Pode tentar-se um desarme sempre que um defesa se desloca para um hexágono adjacente ao adversário que transporta a bola durante o momento defensivo da Fase de Movimento. 
 
-In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions. (if ball hits defender or no-one: Any other scenario. 
-- If the ball hits an attacker, continue the current movement)
-- If the defender rolls a 1, the attacker can play on or claim a foul.
-- If the attacker’s score is higher, the tackle was unsuccessful. The attacking player may now be repositioned in any hex surrounding the defender.
-- If the defender’s score is higher, the tackle was successful and ball possession changes. The defender’s manager may reposition their player into any hex surrounding the player they just tackled. The Movement Phase comes to an end and play resumes.
+Em caso de empate, seguir as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) (se a bola atingir o defesa ou não atingir ninguém aplicam-se as instruções de Qualquer Outro Cenário).
 
-## Foul
+- Se a bola atingir um atacante, continuar com a Fase de Movimento. 
+- Se o defesa lançar um 1, a equipa atacante pode prosseguir o jogo ou pará-lo para cobrar a falta. 
+- Se o resultado combinado do atacante for mais alto, a tentativa de desarme falhou e o jogador atacante pode agora se reposicionado em qualquer hexágono em torno do defesa. 
+- Se o resultado combinado do defesa for mais alto, a tentativa de desarme teve sucesso e a posse de bola muda de equipa. O defesa pode ser reposicionado em qualquer hexágono adjacente ao jogador que acabou de desarmar. A Fase de Movimento termina e o jogo prossegue. 
 
-If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick/penalty or continue play.
+## Falta
 
-Even if you choose to continue play, you still have to roll the dice to determine whether your player has been injured, and your opponent still has to roll the dice to check if the defender is booked. If you decide to stop play for a free kick/penalty, refer to Set Pieces.
+Se o teu adversário obtiver 1 no dado ao tentar desarmar ou roubar a bola, comete falta. Lança o dado para ver se o teu jogador se lesionou (ver abaixo). Tens agora 2 possibilidades: marcar o livre/penalty ou continuar a jogada. 
 
-## To check for an injury
-
-Roll a dice. If the dice roll is equal to or higher than your player’s Resilience attribute then they are injured. Place an injury token on that player’s card.
-
-An injured player’s attributes are ALL reduced by 1 for the remainder of the match. You can always substitute the player if you wish when play stops (an excellent opportunity for that is to take the foul instead of playing on.)
-
-Injuries have **immediate** effect. This means that if you spend 1 Pace, and get in a Defender's ZOI, he rolls for a steal and fouls, if you pick up an injury, and decide to play on, you now have one pace less to run as you are already injured.
-
-A player that is injured for the second time in the same match, must be substituted, so the attackers must stop play to take the free kick and take the injured player out.
-
-## To check for a booking
-
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, the player who made the foul receives a yellow card. Any player who receives a second yellow card is then shown a red card and has to leave the pitch immediately. Play must stop for a free kick or penalty if a player receives a red card.
-
-## Tackles from Behind
-
-If a defender attempts a tackle from behind, a dice roll of 1 or 2 is considered to be a foul. A tackle is considered from behind if it is attempted on either of the two hexes that a reposition of the attacker does not bring him closer to the Goal.
-
-A tackle from behind is considered dangerous so the player who makes it runs the risk of receiving a straight red card! If the foul has been committed, run a leniency check with the referee.
-
-- If you pass you will be shown a yellow card.
-- If you fail you will be given a red card.
-
-## Professional (Last Man) Fouls
-
-If your opponent has fouled you and stopped a clear goalscoring opportunity, then they could be shown a straight red card!
-
-If no other defender can get in line with/past the tackle hex in the same movement phase then the defender attempting the tackle is considered a last man.
-
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, then your player receives a straight red card. Otherwise your player receives a yellow card.
-
-## Reckless Tackle
-
-Sometimes you just want to foul your opponent! If you want to try this, you must say ‘RECKLESS TACKLE’ before rolling the dice. In this scenario, only the defender rolls the dice.
-
-- If you roll a 1 or 2, the reckless foul fails and the attacker avoids your challenge. Play continues, but your defender is given a yellow card for attempting a reckless tackle.
-- If you roll a 3 or higher, the attacker is cynically fouled. Run a leniency check with the referee. If you pass you will be shown a yellow card. If you fail you will be given a red card.
-
-You can only make a reckless tackle on a player maximum 3 hexes of the ball.
-
-## Nutmeg a defender
-
-When you have the ball and want to take on a defender you can attempt to nutmeg them.
-
-This is a difficult move to execute but it’s worth it if you manage it! Here’s how it’s done:
-
-1. Approach a defender during a movement phase.
-2. Make sure you have enough pace to travel through the defender.
-3. You and the defender run through the usual test for a tackle.
-4. The defender’s tackling attribute is increased by 1 in this challenge.
-5. The defender MUST challenge
-
-### What happens if the nutmeg is successful:
-
-- The attacker moves to any hex on the other side of the defender. The defender is **stunned** and cannot move during the Movement Phase. 
-- The attacker can move to one of the three hexes on the other side of the defender, and continue his move if he has any Pace remaining.
-
-### What happens if the nutmeg is unsuccessful:
-
-The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
-
-If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
-
-# Extra Notes
-- Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
-- Same goes with the Nutmeg, the defender cannot just accept that it was successful, and its consequences, instead of taking part in a duel.
-- Defending a steal or a nutmeg is NOT a choice. You have to defend.
-- The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
-- When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
-- A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/pt/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/pt/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
-- As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
-- If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
-- When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
-- This can only be done by the defence, and if successful, player attracts the ball, Movement Phase ends immediately and play continues as a successful steal: “Any other Scenario”
+Ainda que decidas prosseguir a jogada, tens na mesma de lançar um dado para verificar se o teu jogador se lesionou, e o teu adversário tem também de lançar um dado para verificar se o seu jogador é advertido com um cartão. Se decides parar o jogo para marcar um livre/penalty, vê como fazê-lo em Bolas Paradas.
 
 
-# Graphical Examples
+## Verificar se há lesão
 
-## Movement Phase
+Lança o dado. Se o resultado for igual ou superior à Resiliência do teu jogador, este fica lesionado. Coloca uma ficha de lesão sobre a carta do jogador. 
 
-Blue is in Possession and thus the "attacking team".
-They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a a steal, which let's say he fails), and then R4.
-If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") change. R4 does not reposition ,And Play continues with "Any Other Scenario"
-If R4 rolls a 1, then a fouls is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
-Let's assume that R4 rolled a 3, so nothing happens.
+TODOS os atributos de um jogador lesionado sofrem uma redução de 1 valor durante o resto do jogo. Podes substituir um jogador sempre que o jogo seja interrompido (uma ótima oportunidade para isso é cobrar a falta em vez de continuar a jogar). 
 
-![Movement 1](docs/movement_1.png)
-## Defensive Movement Phase starts.
-R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
-If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywher around R4.
-In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is thechnically in the Defensive Part of the Movement (blue is not dribbling into the box).
+As lesões têm um efeito **imediato**. Isto significa que se usares um hexágono da tua Velocidade e entrares na Zona de Influência de um defesa e ele, ao lançar o dado para roubar a bola, cometer uma falta e o teu jogador ficar lesionado, a sua Velocidade sofre uma redução de 1 porque o jogador já está lesionado (deves ter isso em conta caso decidas prosseguir o jogo e não cobrar a falta).  
 
-## Nutmeg during a Movement Phase
+Um jogador que sofra uma segunda lesão durante o jogo tem de ser imediatamente substituído. Por esse motivo, a equipa atacante tem de interromper o jogo para marcar a falta e substituir o jogador lesionado. 
 
-Blue is in Possession with 10, who has a Pace of 5 and Dribbling of 6. He is also Brazilian and decides to go for glory.
-He has enough pace to attempt a nutmeg to R2, calls the nutmeg, wins the duel despite R2 got a tackling bonus of +1.
-B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5, as he was just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
+## Verificar se há advertência
 
-![Movement 2](docs/movement_2.png)
+Lança o dado. Se o resultado for igual ou superior à Tolerância do árbitro, então o jogador que efetuou a falta recebe um cartão amarelo! A qualquer jogador que receba um segundo cartão amarelo é exibido um cartão vermelho e tem de abandonar o campo imediatamente. Se um jogador é expulso, o jogo tem de ser interrompido para a marcação de um pontapé livre ou de um penalty.
 
-### Two points to consider here:
-- Winning a Nutmeg practically allows a reposition, but it consumes 2 Paces whatsoever.
-- If B10 had a Pace of 4, he could not have attempted the nutmeg on R5.
 
-### Dribbling in and out of the Penalty Box
+## Desarmes por detrás
 
-B10 wants to play it safe and avoid all possible steal attempts, so he follows the below path. He essentially enters the box twice, (in the two dark Hexes) so he should have stopped his movement twice to ask the keeper if they wanted to move their free Hex of 1.
+Se um defensor tentar um desarme por detrás, comete falta se obtiver 1 ou 2 no dado. Considera-se que um desarme é feito por detrás se for tentado a partir de um dos dois hexágonos relativamente aos quais um reposicionamento do atacante não o aproxima da baliza.
 
-![Movement 3](docs/movement_3.png)
+Uma entrada por detrás é considerada perigosa, pelo que o jogador que a faz corre o risco de ver um cartão vermelho direto! Se for cometida falta, faz um teste à tolerância do árbitro.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+- Se passas, recebes um cartão amarelo.
+- Se falhas, recebes um cartão vermelho.
+
+## Faltas anulando oportunidades de golo
+
+Se a falta impede uma oportunidade clara de golo, então pode haver lugar à exibição direta de um cartão vermelho!
+
+Uma oportunidade clara de golo é aquela em que nenhum outro defesa pode apanhar o atacante na Fase de Movimento antes de este pode rematar. 
+
+Lança um dado. Se o resultado for igual ou superior à Tolerância do árbitro, então o jogador que efetuou a falta recebe um cartão vermelho direto! Caso contrário, recebe um cartão amarelo.
+
+## Entrada perigosa
+
+Às vezes queres mesmo fazer falta sobre o adversário! Para tal, deves declarar “ENTRADA PERIGOSA” antes de lançar o dado. Nesta situação apenas o defensor lança o dado.
+
+- Com um resultado de 1 ou 2, a entrada perigosa não tem sucesso e o atacante evita-a. O jogo continua, mas o teu defesa recebe um cartão amarelo pela entrada perigosa.
+- Com um resultado igual ou superior a 3, o atacante é atingido. Faz uma verificação da tolerância do árbitro. Se passares, recebes um cartão amarelo. Se não passares, recebes um cartão vermelho.
+
+Só é possível fazer uma entrada perigosa sobre um jogador localizado a um máximo de 3 hexágonos de distância da bola.
+
+## Túnel
+
+Quando conduzes a bola e queres ultrapassar um defensor, podes tentar um túnel.
+
+Este é um movimento de difícil execução, mas que vale a pena quando é conseguido! Eis como se faz:
+
+1. Aproxima-te de um defensor durante a Fase de Movimento.
+2. Certifica-te de que tens velocidade suficiente para passar por ele.
+3. Realiza o duelo habitual de desarme entre ti e o defensor.
+4. No entanto, neste caso o atributo de Desarme do defensor recebe um bónus de 1.
+5. O defensor TEM DE disputar o túnel.
+
+### O que acontece se o túnel tiver sucesso:
+
+- O atacante move-se para qualquer hexágono do outro lado do defensor. O defensor fica **atordoado** e não se pode mexer durante a Fase de Movimento.
+- O atacante pode mover-se para um dos 3 hexágonos do outro lado do defensor e continua o seu movimento caso ainda tenha Velocidade para tal. 
+
+### O que acontece se a tentaiva de túnel falhar:
+
+O defesa consegue o desarme e o jogo continua como habitualmente, reposicionando o defesa em torno do atacante. O atacante fica onde está, não passando pelo defesa. 
+
+Se houver um empate, seguir as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball), mas o atacante que tentou o túnel não se pode mexer - independentemente da Velocidade que já tenha utilizado.
+
+# Notas Adicionais
+- Se o atacante tentar uma finta, o defesa é OBRIGADO a tentar roubar a bola. Isto é, a equipa defensora tem de lançar o dado, correndo o risco de fazer falta. 
+- Se o atacante tentar um túnel, o defesa é OBRIGADO a tentar roubar a bola. Isto é, a equipa defensora tem  de lançar o dado, correndo o risco de fazer falta. 
+- Resumindo, é OBRIGATÓRIO tentar defender uma finta ou um túnel.
+- O atacante que deseje tentar um túnel tem de o declarar quando se aproxima do defesa, de modo a que o defesa não tenha uma tentativa de roubar a bola. Outros defesas que estejam nas proximidades podem tentar roubar a bola, incluindo os defesas em cuja Zona de Influência o jogador atacante termine o seu movimento após um túnel com sucesso. 
+- Para tentar um túnel é preciso ter disponível pelo menos 2 de Velocidade (um para o hexágono do defesa e outro para o hexágono adjacente). 
+- Os jogadores e a bola podem ser colocados em qualquer hexágono (total ou parcialmente) visível do campo. Todos esses hexágonos são considerados DENTRO do campo. Logo, para haver lugar à marcação de um lançamento de linha lateral, de um pontapé de baliza ou de um golo, é necessário que a bola se desloque para um hexágono situado além dos hexágonos visíveis, fora dos limites do terreno de jogo.
+- Quando se recolhe uma [bola solta](https://counterattackgame.github.io/wiki/pt/loose_ball), o movimento termina imediatamente e o jogo prosssegue com Qualquer Outro Cenário. Se a bola for apanhada no interior da grande área, com as mãos, pelo [Guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper), o jogo prossegue como se o guarda-redes tivesse efetuado uma defesa e agarrado a bola.
+- No momento em que o atacante entra na grande área com a bola dominada, o guarda-redes pode movimentar-se o hexágono permitido pelas regras. Se a velocidade do atacante o permitir, este pode depois continuar o seu movimento. 
+- O guarda-redes pode movimentar-se 1 hexágono sempre que a bola entra na grande área. Por exemplo, se um atacante entrar, sair e reentrar na área com a bola dominada durante uma Fase de Movimento, o guarda-redes pode movimentar-se sempre que o atacante entre na área. 
+- Os defesas podem utilizar a sua Zona de Influência quando tentam recolher uma bola que não esteja na posse de nenhum jogador. Nessa situação, um jogador (incluindo o guarda-redes) que se desloque até um hexágono adjacente à bola pode tentar recolhê-la lançando o dado. Aplicam-se as regras utilizadas nas tentativas de roubar a bola.  
+- Esta situação só é aplicável à equipa que está a defender. Se a tentativa de recolha da bola tiver sucesso, a Fase de Movimento termina imediatamente e o jogo prossegue com Qualquer Outro Cenário (como um roubo de bola). 
+
+
+# Exemplos Gráficos
+
+## Fase de Movimento
+
+Os Azuis têm a posse de bola e são, portanto, a "equipa atacante". 
+Realizam estas 4 movimentações. O Azul 10 está a correr riscos ao entrar na Zona de Influência do Vermelho 8 (duas vezes, mas o Vermelho 8 só tem uma oportunidade para roubar a bola - e vamos supor que não tem sucesso nessa tentativa de roubo de bola) e depois na do Vermelho 4. 
+Se o Vermelho 4 lançar um 6 (ou Desarme 10+) rouba a bola e a Fase de Movimento termina. A posse de bola (e, logo, a "equipa atacante") muda. O jogo prossegue com Qualquer Outro Cenário.
+Se o Vermelho 4 lançar um 1 comete uma falta. Efetuam-se os teste de Tolerância e Resiliência. Depois, a equipa Azul decide se quer continuar a jogar ou se prefere parar o jogo para cobrar a falta (ver a secção sobre Bolas Paradas para mais informações). Assumamos que o Vermelho 4 lançou um 3 e, portanto, nada aconteceu.
+
+
+![Movimento 1](docs/movement_1.png)
+## Início da Fase de Movimento Defensivo
+O Vermelho 4 tenta efetuar um desarme a partir do hexágono em que está situado, pois está adjacente ao Azul 10. Esta tentativa de desarme conta como uma movimentação para os Vermelhos. 
+Se os Azuis mantiverem a posse de bola após uma tentativa de desarme falhada, o Azul 10 pode reposicionar-me em qualquer hexágono em torno do Vermelho 4.
+Se o Azul 10 entrar na grande área após o reposicionamento, o guarda-redes pode movimentar-se 1 hexágono mas o Azul 10 não pode efetuar um remate de primeira, pois tecnicamente estamos na parte defensiva da Fase de Movimento (o jogador Azul não está a correr nem a fintar para entrar na área).
+
+
+## Túnel durante a Fase de Movimento
+
+O Azul 10, que tem uma Velocidade de 5 e uma Finta de 6, tem a posse da bola. É brasileiro e decide avançar para a glória. 
+Tem velocidade suficiente para tentar fazer um túnel ao Vermelho 2: declara o túnel e vence o duelo apesar de o Vermelho 2 ter um bónus de 1 no Desarme.
+A multidão está ao rubro e o Azul 10, entusiasmado, decide tentar um outro túnel, desta vez sobre o Vermelho 5, pois ainda tem velocidade suficiente para o conseguir ultrapassar. Neste exemplo, o Azul 10 vence o duelo e declara um remate de primeira. No entanto, lança um 1 e o remate vai para fora, por cima da barra... Mas foi uma jogada de classe mundial!
+
+![Movimento 2](docs/movement_2.png)
+
+### Duas coisas a ter em conta:
+- Conseguir fazer um túnel permite um reposicionamento do jogador mas exige sempre, pelo menos, a utilização de 2 hexágonos de Velocidade. 
+- Se o Azul 10 tivesse uma Velocidade de 4 não poderia ter tentado fazer o túnel ao Vermelho 5. 
+
+### Entrar e sair da área com a bola
+
+O Azul 10 quer jogar pelo seguro e evitar todas as tentativas possíveis de roubo de bola. Assim sendo, segue a trajetória abaixo indicada e, desse modo, entra na área por duas vezes (nos dois hexágonos escuros). Logo, terá de interropmper o seu movimento por duas vezes e, em cada uma delas, perguntar ao guarda-redes da equipa adversária se deseja fazer o movimento de 1 hexágono a que tem direito. 
+
+![Movimento 3](docs/movement_3.png)
+
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)

@@ -4,165 +4,235 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/quick_guide)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# QUICK GUIDE
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-## Shooting
+# GUIA RÁPIDO
 
-Shooting outside area = -1 dice penalty
-Difficult angle shots = -1 dice penalty
-Dice roll of 1 = shot off target
+## Remate
 
-## Deflecting shots
+Remate de fora da área = penalização de -1 
 
-If in path of ball, 5 or 6 OR Tackling 10+ deflects the ball
-Within 1 hex of ball, 6 OR Tackling 10+ deflects the shot
-Use [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) rule for deflections
+Remate de ângulos difíceis = penalização de -1 
 
-## Snapshot
+1 no lançamento do dado = remate para fora
 
-Can take snapshot at any time in penalty area
-Can also snapshot outside the box (refer to ‘what next’ card)
--1 dice penalty for snapshots
-Defending team gets to move 1 player up to 2 hexes on a snapshot
+## Desvio de remates
 
-## Goalkeeper
+Se o jogador estiver na trajetória da bola, 5 ou 6 OU Desarme + Dado igual ou superior a 10 desvia o remate
+ 
+Se o jogador estiver num hexágono adjacente à trajetória da bola, 6 OU Desarme + Dado igual ou superior a 10 desvia o remate 
 
-Gets a 1 hex move whenever ball enters penalty box
-Can dive 3 hexes parallel to goal line
-Furthest hex away = -1 dice penalty
-If GK moves at snapshot, -2 dice penalty on 3rd hex, -1 on 2nd hex
-Handling: if dice roll is => Handling, corner kick is awarded
-Can also dive at attacker’s feet (3 hexes max): Saving vs Dribbling
+Usa as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) a seguir aos desvios
 
-## GK Distribution
+## Remate de primeira
 
-**THROW**: No player moves first. Throw distance of standard pass. No interceptions. The throw can travel the distance of a standard pass and is subject to standard pass rules except interceptions. 
-**MOVEMENT PHASE**: Keeper Drops ball to feet and play on.
-**DROP THE BALL/KICK**: Outfield players rule apply with ability to play High Pass (Can kick to anywhere except opposite Final Third with accuracy =>8
-) / Long pass / Standard pass
+Pode ser feito em qualquer momento no interior da grande área. Também pode ser feito fora da grande área (ver o cartão 'o que fazer a seguir'/‘what next’)
 
-## Loose Ball
+Os remates de primeira têm uma penalização de -1
 
-Refer to grid on the pitch and decide which player will roll for this
-First roll is direction, second roll is distance
-If ball hits a player while travelling, that team takes possession
-Otherwise, attacking team continues with Movement Phase
-If a [loose ball](https://counterattackgame.github.io/wiki/pt/loose_ball) follows a High Pass, contest the header in the new landing location.
-If no-one can challenge for a header, the ball is on the ground.
+A equipa defensora pode movimentar um jogador até 2 hexágonos imediatamente antes do remate de primeira
 
-## Corner kick
+## Guarda-redes
 
-Decide who will take the corner kick; place player at corner arc
-Both teams pick up and reposition 6 players, moving two at a time
-Attacking team moves first
-Both teams move one player up to 3 Hexes (Attack goes first)
-Play continues with
-(a) High Pass: Can be placed anywhere in penalty box Both teams move 1 player up to 3 hexes first ACCURACY: =>8
-(b) Short pass: Can travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
+Pode movimentar-se 1 hexágono sempre que a bola entra na grande área 
 
-## Throw-in
+Pode mergulhar até 3 hexágonos paralelamente à linha de golo 
 
-Decide who will take it and place player there
-Conduct a Movement Phase (optional: conduct a second Movement Phase)
-Throw ball (with a standard pass) the distance of a first-time pass WITH interceptions.
-Throw ball to the head of your teammate up to the distance of a first-time pass WITHOUT interceptions. A Header must follow.
+No hexágono mais distante sofre uma penalização de -1 
 
-## Free Kick
+Se o guarda-redes se movimentar até 2 hexágonos para defender o remate de primeira, sofre uma penalização de -2 no terceiro hexágono mais distante e uma penalização de -1 no segundo 
 
-Defenders must be be 2 hexes away from the ball
-Pick up and reposition players following this pattern:
-2 Attacker / 2 Defender / 2 Attacker / 2 Defender / 3 Attacker / 2 Defender
-Now choose to pass or shoot
-If shot is =>9, no defender can block it
-Remember -1 for shooting outside of the box
-Any player standing within 1 hex from the ball can take the kick
+Segurança: se o lançamento do dado for igual ou superior à Segurança, é canto
 
-## Penalty Kick
+Pode mergulhar aos pés do atacante (máximo 3 hexágonos): Defesa vs Finta
 
-Pick up and resposition all players
-No players allowed in the penalty area and arc, except taker and keeper.
-GK has -2 dice penalty
+## Passes do guarda-redes
 
-## Standard Pass
+**LANÇAMENTO RÁPIDO**: Nenhum jogador se pode movimentar. Lançamento pode ser feito até à mesma distância de um passe normal. Não pode ser interceptado. O lançamento está sujeito às mesmas regras do passe normal, exceto intercepções
 
-Can’t travel through an opponent
-Opponent can intercept within 1 hex of the path with a 6 or 10+ tackling
+**FASE DE MOVIMENTO**: O Guarda-redes larga a bola aos seus pés e continua a jogar
 
-## First Time Pass
+**LARGAR A BOLA/PONTAPÉ**: Aplica-se a regra dos jogadores de campo, com a possibilidade de fazer um Passe Alto para qualquer ponto do terreno exceto o último terço oposto, sujeito a um teste de precisão =>8) / Passe longo / Passe normal
 
-1 player from each team moves 1 hex as ball travels
-Opponents within 1 hex of the path can intercept with a 6 or 10+ tackling
-Opponents who move into path of ball can intercept with 5 or 6 or 10+ tackling
+## Bola solta
 
-## Long Pass
+Ver a grelha impressa no terreno de jogo
 
-Can travel to any hex on the pitch
-Can’t aim within 5 hexes of a teammate or 1 of an opponent
-Opponent GK moves according to pace
-ACCURACY: High pass + dice =>9
-ACCURACY: (Final Third to Final Third) =>10
+Decidir qual é o treinador que vai lançar o dado
 
-## High Pass
+O primeiro lançamento indica a direção da bola, o segundo a distância que a bola percorre
 
-Can’t make the pass if opponent is within 1 hex and in path of the pass
-1 player from each team moves up to 3 hexes as ball travels
-Must always aim at teammate
-ACCURACY: High Pass + dice =>8
+Se a bola atingir um jogador na sua trajetória, a equipa desse jogador fica com a posse de bola
 
-### Header
+Se a bola não atingir ninguém, a equipa atacante continua com a Fase de Movimento
 
-A maximum of 2 outfield players from each team within 2 hexes from the ball can challenge
-Announce which player is rolling
-2 hexes away = -1 dice penalty
+Se houver uma [bola solta](https://counterattackgame.github.io/wiki/pt/loose_ball) no seguimento de um Passe Alto, efetuar o cabeceamento na nova localização da bola
 
-### Control a High Pass
+Caso ninguém possa cabecear, considera-se que a bola caiu no relvado
 
-Only possible if no opponent can challenge for a header
-ACCURACY: Dribbling + dice =>9
+## Pontapé de canto
 
-## Steal
+Decidir qual é o jogador que vai bater o canto; colocar esse jogador na marca de pontapé de canto
 
-If attacker moves within 1 hex of defender, roll a 6 or 10+ tackling to win the ball
+Ambas as equipas podem reposicionar até 6 jogadores, movimentando 2 de cada vez
 
-## Tackle
+Equipa atacante movimenta primeiro
 
-If defender moves within 1 hex in a Movement Phase
-Tackling + dice vs Dribbling + dice
-Dice roll 1 is always a foul
-Winner repositions around opponent
-### Tackle from Behind
+Ambas as equipas movimentam um jogador até 3 hexágonos (atacante movimenta primeiro) imediatamente antes de o pontapé de canto ser marcado
 
-A roll of 1 or 2 is a foul
-2 hexes behind attacker considered ‘behind’
-Attacker is always facing the goal
-If you fail the Leniency test, receive a red card.
-Otherwise receive yellow
+O jogo prossegue com: 
 
-### Reckless tackle
+(a) Passe Alto: pode ser efetuado para qualquer hexágono da grande área. PRECISÃO: =>8
 
-Announce reckless tackle before attempting it
-Can foul players who do not have the ball
-1 or 2 = foul failed. Yellow card issued
-3+ = foul committed and play stops
-If you fail the Leniency test, receive a red card.
-Otherwise receive yellow
+(b) Passe curto: A bola pode deslocar-se até à mesma distância de um passe de primeira. **Não se pode** fazer um passe de primeira a seguir a este passe curto 
 
-## Fouls
+## Lançamento de linha lateral
 
-Roll for booking.
-If red card, play must stop for a free kick/penalty
-Roll for injury
-Attacker then decides to play on or take the foul
+Decidir qual é o jogador que vai lançar a bola e colocá-no no respetivo hexágono
 
-## Nutmeg
+Realizar uma Fase de Movimento (opcional: realizar uma segunda Fase de Movimento)
 
-Can only be attempted if you have the pace to get through
-Defender gets +1 for Tackling
-Dice roll of 1 from the Defender is a Foul
-If successful, defender is stunned and cannot move.
-If tied: [loose ball](https://counterattackgame.github.io/wiki/pt/loose_ball), attacker who initiated nutmeg cannot move - regardless of how much pace he has already used
+Lançar a bola para os pés de um colega de equipa, à distância de um passe de primeira; neste caso, a bola PODE ser interceptada 
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+Lançar a bola para cabeça de um colega de equipa, à distância de um passe de primeira; neste caso, a bola NÃO PODE ser interceptada e tem de ser cabeceada. 
+
+## Livre
+
+Tem de haver no mínimo 2 hexágonos de distância entre a bola e os defesa
+
+Reposicionar os jogadores de acordo com a seguinte sequência:
+
+2 Atacantes / 2 Defesas / 2 Atacantes / 2 Defesas / 3 Atacantes / 2 Defesas
+
+Decidir se vai passar ou rematar
+
+Se o remate for =>9, nenhum defesa o pode desviar
+
+Recordar que se aplica a penalização de -1 para os remates de fora da área
+
+Quanlquer jogador num hexágono adjacente à bola pode marcar o livre
+
+## Penalty
+
+É possível reposicionar todos os jogadores
+
+Não são permitidos jogadores na grande área nem na meia-lua, exceto o guarda-redes e o marcador do penalty
+
+O guarda-redes tem uma penalização de -2
+
+
+## Passe normal
+
+Não pode passar através de um adversário
+
+Um adversário que esteja num hexágono adjacente à trajetória da bola pode interceptá-la com um 6 ou Desarme 10+ 
+
+## Passe de primeira
+
+Cada equipa pode movimentar 1 jogador enquanto a bola se desloca
+
+Um adversário que esteja num hexágono adjacente à trajetória da bola pode interceptá-la com um 6 ou Desarme 10+ 
+
+Um adversário que se desloque para a trajetória da bola pode interceptá-la com um 5 ou 6 OU com Desarme 10+ 
+
+## Passe longo
+
+Pode ser apontado a qualquer hexágono do terreno de jogo
+
+Tem de ser apontado a pelo menos 6 hexágonos de distância de um colega de equipa e não pode ser apontado ao hexágono de um adversário
+
+O guarda-redes adversário pode movimentar-se de acordo com a sua Velocidade
+
+PRECISÃO: Passe alto + dado =>9
+PRECISÃO: (último terço a último terço) =>10
+
+## Passe alto
+
+Não pode ser realizado se um adversário estiver num hexágono adjacente e na trajetória da bola
+
+1 jogador de cada equipa pode movimentar-se até 3 hexágonos enquanto a bola se desloca
+
+Deve apontar sempre para um colega de equipa
+
+PRECISÃO: Passe alto + dado =>8
+
+### Cabeceamento
+
+Pode ser disputado por um máximo de 2 jogadores de cada equipa localizados até 2 hexágonos de distância da bola 
+
+Declarar qual é o jogador que vai tentar cabecear
+
+A 2 hexágonos de distância = penalização de -1
+
+### Controlar um passe alto
+
+Só é possível se nenhum adversário puder disputar um cabeceamento
+
+PRECISÃO: Finta + dado =>9
+
+## Roubar a bola
+
+Se um atacante se move para um hexágono adjacente a um defesa, este pode lançar um 6 ou Desarme + dado =>10 para roubar a bola 
+
+## Desarme
+
+Ocorre se, durante a sua fase de movimento, o defesa se movimentar para um hexágono adjacente ao atacante 
+
+Desarme + dado vs Finta + dado
+
+Lançamento de 1 no dado é sempre falta
+
+O vencedor do duelo pode reposicionar o seu jogador à volta do adversário
+
+### Desarme por detrás
+
+Um lançamento de dado de 1 ou 2 é falta
+
+Há sempre 2 hexágonos que são considerados 'por detrás' do atacante
+
+O atacante está sempre virado para a baliza
+
+Caso falhes no teste de tolerância do árbitro, recebes um cartão vermelho
+
+Caso contrário, recebes um cartão amarelo
+
+### Entrada perigosa
+
+Declara 'entrada perigosa' antes de a realizares
+
+Podes fazer falta sobre jogadores que não têm a bola
+
+1 ou 2 = a falta falhou. Recebes um cartão amarelo
+
+3+ = a falta foi cometida e o jogo é interrompido
+
+Caso não passes no teste de tolerância, recebes um cartão vermelho.
+
+Caso contrário, recebes um cartão amarelo
+
+## Faltas
+
+Lançar o dado para verificar se é atribuído algum cartão
+
+Se for cartão vermelho, o jogo tem de ser interrompido para um livre ou penalty
+
+Lançar o dado para verificar se o jogador se lesionou
+
+Atacante decide então se quer prosseguir o jogo ou cobrar uma falta
+
+## Túnel
+
+Só pode ser tentado se o jogador tiver Velocidade suficiente para passar pelo adversário
+
+O defesa recebe um bónus de +1 no Desarme
+
+Se o defesa lançar um 1, é falta
+
+Se o túnel tiver sucesso, o defesa fica atordoado e não se pode movimentar
+
+Se houver um empate: [bola solta](https://counterattackgame.github.io/wiki/pt/loose_ball) e o atacante que tentou o túnel não se pode movimentar, independentemente da Velocidade que já tenha usado
+
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
+

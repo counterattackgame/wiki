@@ -4,70 +4,71 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/shooting)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/shooting)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/shooting)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Shooting
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-Shooting is a duel between the player taking the shot and the goalkeeper.
+# Remate
 
-Shots from outside the penalty area receive a -1 dice penalty.
+Rematar é um duelo entre o atacante que remata e o guarda-redes. 
 
-Snapshots receive a -1 dice penalty.
+Remates de fora da grande área têm uma penalização de -1.
 
-If the shot is taken from outside the penalty box, the goalkeeper gets to move 1 hex before attempting a save.
+Remates de primeira têm uma penalização de -1.
 
-1. If the attacker’s score is higher, a goal has been scored!
-2. If the keeper’s score is higher, roll a dice:
+Se o Remate é efetuado de fora da área, o guarda-redes pode mover-se 1 espaço antes de tentar defender (porque a bola entrou na área).
 
-- If you roll equal to or higher than the goalkeeper’s Handling, run a [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) test. If the direction is behind or to the side of the GK a Corner Kick has been conceded. If the direction is in front of the GK, roll for direction too and play contines with the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) process.
-- If you roll lower than the Handling attribute, you catch the ball. If the ball is caught, possession changes hands to the goalkeeper’s team.
+1. Se o resultado combinado (Remate+dado) do atacante for mais elevado, é golo!
+2. Se o resultado combinado (Defesa+dado) do guarda-redes for mais mais elevado, lança-se o dado e:
 
-3. In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions.
+- Se o resultado for igual ou maior do que o atributo de Segurança do guarda-redes, realiza-se um teste de [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball). Se for indicada uma direção para trás ou para os lados do guarda-redes, há lugar à marcação de um pontapé de canto. Se for indicada uma direção para a frente do guarda-redes, lança-se o dado para ver a distância percorrida pela bola e o jogo continua de acordo com as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball).
+- Se o resultado for inferior ao atributo de Segurança do guarda-redes, o guarda-redes apanha a bola. Se a bola for apanhada, a equipa do guarda-redes passa a ter a posse de bola.
+
+3. Se houver um empate entre os resultados combinados do atacante e do guarda-redes, seguem-se as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball).
 
 
-## Snapshot
+## Remate de primeira
 
-A snapshot sacrifices accuracy for the element of surprise. Take one:
+Um remate de primeira sacrifica a precisão por um elemento de surpresa. Podes fazê-lo:
 
-- During the attacking team's player movements in a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase) if a player has or takes the ball in the opposition's penalty area OR immediately when a [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) hits an attacking player in the opposition's penalty area or outside the box within shooting distance.
-- Immediately following a pass, whether inside or outside the penalty area.
+- Durante a movimentação da equipa atacante na [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase) se um jogador tem a bola na área, entra com a bola na área ou imediatamente após uma [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) ir ter aos pés de um atacante (esteja na área ou fora dela).
+- Imediatamente a seguir a um passe, esteja o atacante dentro ou fora da área.
 
-All the same rules of shooting apply, but the player’s Shooting attribute receives a -1 dice penalty.
+Aplicam-se as regras normais de remate, mas a capacidade de Remate do jogador recebe uma penalização de -1.
 
-Just before the snapshot is taken, 1 opponent is allowed to move any player 2 hexes in an attempt to deflect the shot (see [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball)). This can include the [goalkeeper](https://counterattackgame.github.io/wiki/pt/goalkeeper).
+Imediatamente antes de o remate de primeira ser efetuado, o adversário pode mover qualquer jogador até um máximo de 2 hexágonos na tentativa de desviar o remate (ver [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball)). O jogador que mexe pode ser o [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper).
 
-In the Advanced Rules, if you choose the goalkeeper to move 2 Hexes (for the snapshot), the keeper gets a -1 saving penalty on the 2nd Hex away and a -2 penalty on the 3rd Hex away.
+Nas Regras Avançadas, caso seja o guarda-redes que se movimenta 2 hexágonos para defender o remate de primeira, sofre uma penalização - sobre o seu atributo de Defesa - de -1 no segundo hexágono mais distante e uma penalização de -2 no terceiro hexágono mais distante. 
 
-The sequence that must be followed is:
+Esta é a sequência que deve ser seguida:
 
-1. Attack calls Snapshot
-2. Defence moves 1 player (up to) 2 Hexes.
-3. Attack calls the direction of the shot. Agree on which defenders can attempt to block. Resolve any block attempts. If the ball is blocked , play the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball). If not proceed below.
-4. Agree on the Hex that the keeper will attempt to save, and calculate any potential penalties for the saving.
-5. Roll dice for shooting and saving. If attack rolls a 1 the shot is off-target.
+1. O atacante declara que vai fazer um remate de primeira.
+2. A equipa que defende movimenta um jogador até 2 hexágonos.
+3. O atacante declara a direção do remate. Os treinadores verificam se há defesas que possam tentar desviar o remate. Caso existam jogadores nessa condição, verifica-se se a(s) tentativa(s) de desvio teve/tiveram sucesso. Caso a bola seja desviada, seguir as instruções para a [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball). Caso a bola não sofra nenhum desvio, proceder como indicado abaixo.
+4. Os treinadores chegam a acordo sobre o hexágono no qual o guarda-redes tentará fazer a defesa do remate e identificam se há ou não alguma penalização para a Defesa do guarda-redes. 
+5. Os treinadores lançam o dado para Remate e Defesa. Se o atacante lançar um 1, o remate vai para fora.
 
-In case of a SHOT, the direction is called at the same time as the action itself, and shot process starts from the third bullet above.
+No caso de um Remate, a direção é declarada no mesmo momento em que se declara que se vai rematar. O processo desenvolve-se a partir do ponto 3 (acima). 
 
-Please note:
+Atenção:
 
-- Attacker has moved and is with the ball at feet right outside the area. He escapes a tackle during Def MP and repositions in the area. He **CANNOT** snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right back on THE shooter. He **CAN** snapshot.
-- Attacker moves in box, attacker snapshots and the ball gets deflected by def/GK right ON another attacker who HAS moved. He **CAN** snapshot.
+- Se o atacante se tiver movimentado e tiver a bola nos seus pés à entrada da área e, durante a fase de movimento defensiva, escapar a uma tentativa de desarme por parte do adversário, reposicionando-se dentro da área, **NÃO PODE** fazer um remate de primeira.
+- Se o atacante se movimentar no interior da área, fizer um remate de primeira e a bola for desviada pelo guarda-redes ou por um defesa de novo para os seus pés, o atacante **PODE** voltar a rematar de primeira.
+- Se o atacante se movimentar no interior da área, fizer um remate de primeira e a bola for desviada pelo guarda-redes ou por um defesa para os pés de outro atacante que SE MOVIMENTOU, esse atacante **PODE** rematar de primeira.
 
-Following an aerial challenge, a [keeper](https://counterattackgame.github.io/wiki/pt/goalkeeper) is still eligible to move 1 when the ball enters the box and also take advantage of the 2 moves following a snapshot declaration.
+Depois de uma disputa de bola aérea, o [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper) pode movimentar-se 1 hexágono quando a bola entra na área e até 2 hexágonos quando o atacante declara que vai efectuar um remate de primeira. 
 
-## Difficult Shooting Angles
+## Remate de ângulos difíceis
 
-Certain positions on the pitch within shooting range are difficult to score from due to the angle. Shooting from hexes marked with a small circle is possible but your shooting suffers a -1 dice penalty.
+É difícil marcar golo a partir de certas posições no campo devido ao ângulo em relação à baliza. É possível rematar a partir dos espaços marcados com um pequeno círculo, mas nesses casos aplica-se penalização de -1.
 
-## Deciding the hex of potential save for the GK
+## Decisão sobre o hexágono onde o guarda-redes efetua a defesa
 
-Always remember that:
+Recordar sempre o seguinte:
 
-- Shot attempts (Snapshots, Shots and [Headed](https://counterattackgame.github.io/wiki/pt/heading) attempts at Goal) travel in a STRAIGHT line.
-- Goalkeepers can only save in hexes parallel to the goal line. There is a theoretical 7-Hex-wide saving wall consisting of the GK position and 3 hexes in each side, always parallel to the goal line.
-- Ball travels on a line, but is not a dot, it is circluar with a NON negative radius, so while travelling it may use many more Hexes than a player would use to travel the same route.
-- The Goalkeeper always saves in the **closest** hex that the ball trajectory dictates.
+- Os remates, os remates de primeira e os [cabeceamentos](https://counterattackgame.github.io/wiki/pt/heading) vão sempre numa linha RETA.
+- Os guarda-redes só podem efetuar defesas em hexágonos paralelos à linha de golo. Pode, portanto, imaginar-se uma linha de defesa com 7 hexágonos de comprimento (a posição do guarda-redes + 3 hexágonos de cada um dos lados - sempre paralelamente à linha de golo). 
+- A bola viaja numa linha reta. No entanto, a bola não é um simples ponto; pelo contrário, a bola é circular e tem um raio NÃO negativo. Por esse motivo, ao deslocar-se, a bola pode tocar em mais hexágonos do que um jogador tocaria para efetuar o mesmo percurso. 
+- O guarda-redes defende sempre no hexágono **mais próximo** ditado pela trajetória da bola.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)

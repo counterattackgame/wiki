@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/shooting)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/shooting)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/shooting)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Shooting

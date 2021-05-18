@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/getting_started)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Getting Started
