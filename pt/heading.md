@@ -1,85 +1,87 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/heading)
 [Lire cette page en Français](https://counterattackgame.github.io/wiki/pt/heading)
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/heading)
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/heading)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/heading)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Heading
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-A header must follow a [High pass](https://counterattackgame.github.io/wiki/pt/passing). There is a limit of **2 outfield players** per team who can challenge for a header. Whether a player can challenge for the header or not depends on how close they are to the target.
+# Cabeceamento
 
-- Players within 1 hex can challenge for the header.
-- Players within 2 hexes can challenge for the header but willsuffer a -1 dice penalty.
+A seguir a um [Passe alto](https://counterattackgame.github.io/wiki/pt/passing) tem de haver um cabeceamento. Só **2 jogadores de campo** de cada equipa podem disputar a bola num cabeceamento. A possibilidade de um jogador poder cabecear é determinada pela sua distância em relação à bola. 
 
-Use the distance stick to judge how far the header can travel.
+- Os jogadores nos hexágonos adjacentes podem tentar cabecear.
+- Os jogadores nos segundos hexágonos mais próximos da bola também podem tentar cabecear, mas sofrem uma penalização de -1.
 
-[Goalkeepers](https://counterattackgame.github.io/wiki/pt/goalkeeper) can also challenge to catch a high pass if they are close enough, using their Aerial Ability. 
+Utiliza a régua para medir a distância máxima que a bola pode percorrer após ter sido cabeceada. 
 
-If the [goalkeeper](https://counterattackgame.github.io/wiki/pt/goalkeeper) loses a duel against an attacker and no defending player can win the header, the attacker scores a goal! Aerial Ability also gets a penalty of -1 in the second Hex away. 
+Os [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper) podem tentar agarrar um passe alto se estiverem suficientemente próximos da bola. Para isso utilizam o seu atributo de Jogo Aéreo. 
 
-If the goalkeeper wins the duel they [save and hold](https://counterattackgame.github.io/wiki/pt/goalkeeper).
+Se o [guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper) perder um duelo aéreo com um atacante e nenhum defesa vencer o cabeceamento, a equipa atacante marca golo (caso a bola ultrapasse a linha de baliza)! O Jogo Aéreo também sofre uma penalização de -1 nos segundos hexágonos mais próximos da bola. 
 
-
-In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions if there is a tie. A [loose ball](https://counterattackgame.github.io/wiki/pt/loose_ball) from a Header cannot hit players that were involved in the Headed Challenge.
-
-## Headed Attempts at Goal
-
-Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/pt/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
-
-## Headed Passes
-
-Headed passes cannot be intercepted and there cannot be 2 consecutive headed passes.
-
-If the defender wins the headed duel, the ball has to be headed away.
-
-Use the distance stick to judge how far it can travel. No interceptions are possible. The team that headed the ball is now the attacking team. Start counting from **THE BALL**, not the winner of the headed challenge.
-
-## Following a Header
-
-The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase).
-
-## Heading back to the goalkeeper (Advanced Rules)
-
-You cannot head the ball back to your goalkeeper at a corner kick. (Core Rules)
-
-Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) process from the Goalkeeper.
-
-If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase).
+Se o guarda-redes vencer o duelo, [defende e agarra a bola](https://counterattackgame.github.io/wiki/pt/goalkeeper).
 
 
-## Heading Sequence
-1. Attack calls a High Pass.
-2. Attack moves 1 Player 3 Hexes and declares intended target.
-3. Defence moves 1 Player 3 Hexes
-4. Attacker checks accuracy of High Pass, revealing the actual Target.
-5. Find out if a Header **can** be played, if there is a possibility for a Control, and which players are within range to challenge.
-6. Attack declares if they are trying a Headed Pass or a Headed Shot.
-7. Attack declares which (maximum 2) players will attempt to head, and in which order.
-8. Defence declares which (maximum 2) players will attempt to head, and in which order, and if the GK will be involved to the challenge. (Defence can chose to not challenge) If Defense does not or can't challenge, attack chooses between Header or Control (see below)
-9. Attack rolls with all the declared players. If the best score has been achieved with a dice roll of 1 (H6 + Roll1 and H3 + Roll3) and a Headed shot had been declared in Step 6, the Headed shot is OFF TARGET.
-10. Defence Rolls with all the declared players, and GK if he had been declared. Decide which player creates the best combined score (the first player you rolled the tying score with).
-11. Compare the attack's best combined score with the defence's.
-- **Attack Wins**: If GK was not involved in challenge, GK tries to save on the hex that Attack heads to. If GK was involved in challenge, it's a GOAL.
-- **Defence wins**. Play a headed pass from the ball, to the available distance, without interceptions. Beware of the pass back to the GK. If GK won the challenge, he attracts the ball and play continues as [Save and Hold](https://counterattackgame.github.io/wiki/pt/goalkeeper)
-- **There is a TIE**. Follow [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) instructions, players involved in the Aerial challenge cannot stop the ball. If the ball lands on a player that jumped, move it one Hex further away. If the Ball hits a player that has not jumped, continue play as "Any other Scenario". If the ball does not hit a player, check if it stopped in a defender's ZOI, and possibly attempt to gain it. If not, attacking team should start a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase).
+Sempre que se verifique um empate seguem-se as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball). Uma [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) que resulte de um cabeceamento não pode atingir jogadores que estiveram envolvidos na disputa aérea. 
+
+## Cabeceamentos à baliza
+
+Os cabeceamentos à baliza não podem ser desviados nem interceptados pelos defesas. Caso o atacante tenha vencido o duelo aéreo com os defesas,o guarda-redes deve lançar o dado para tentar a [defesa](https://counterattackgame.github.io/wiki/pt/shooting). O atacante não volta a lançar o dado. Para medir a distância que a bola pode percorrer, conta-se a partir da localização da **BOLA** e não da localização do vencedor do duelo aéreo.
+
+## Passes de cabeça
+
+Os passes de cabeça não podem ser interceptados e não pode haver dois passes de cabeça seguidos.
+
+Se o defesa ganhar o duelo aéreo, tem de cabecear a bola. 
+
+Utiliza a régua para medir a distância máxima que a bola pode percorrer após ter sido cabeceada. Não é possível interceptar a bola cabeceada. A equipa que cabeceou a bola é agora a equipa atacante. Para medir a distância que a bola pode percorrer, conta-se a partir da localização da **BOLA** e não da localização do vencedor do duelo aéreo.
+
+## Após um cabeceamento
+
+Os jogadores que envolvidos no duelo aéreo não podem participar na [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase) subsequente.
+
+## Passe de cabeça para o guarda-redes (Regras Avançadas)
+
+Num pontapé de canto, não é possível passar a bola de cabeça para o guarda-redes (Regras Básicas)
+
+Atrasar de cabeça para o guarda-redes pode ser uma opção arriscada… Se decidires fazê-lo, lança o dado. Se o resultado for 1, inicia um procedimento de [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball) a partir da localização do guarda-redes.
+
+Caso decidas, para evitar o risco acima descrito, cabecear a bola para perto dos pés do guarda-redes, recorda que o guarda-redes só poderá agarrar a bola depois de a [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase) estar concluída.
 
 
-## Controlling a High Pass
+## Sequência dos cabeceamentos
+1. Atacante declara que vai realizar um passe alto.
+2. Atacante movimenta 1 jogador até um máximo de 3 hexágonos e declara a localização pretendida para o passe alto.
+3. Defensor movimenta 1 jogador até um máximo de 3 hexágonos.
+4. Atacante testa a precisão do passe alto e determina a localização final da bola.
+5. Verifica se **pode** haver lugar a um cabeceamento e quais são os jogadores que o podem realizar/disputar, ou se pode haver lugar a uma tentativa de controlo da bola.
+6. Atacante declara se vai realizar um passe de cabeça ou um remate de cabeça. 
+7. Atacante declara quais os jogadores (num máximo de 2) que tentarão o cabeceamento e em que ordem o farão. 
+8. Defensor declara quais os jogadores (num máximo de 2) que tentarão o cabeceamento e em que ordem o farão. Declara igualmente se o guarda-redes vai ou não tentar disputar a bola (o defensor pode escolher não disputar a bola). Caso o defensor não possa ou escolha não disputar a bola, o atacante pode escolher cabecear a bola ou tentar controlá-la (ver abaixo).
+9. Atacante lança o dado com todos os jogadores que declarou. Caso o melhor resultado seja alcançado com um lançamento de 1 (Cabeceamento 6 + Dado 1 e Cabeceamento 3 + Dado 3) e anteriormente tenha sido declarado que o atacante iria tentar um cabeceamento à baliza, o remate vai PARA FORA. 
+10. Defensor lança o dado com todos os jogadores que declarou, incluindo o guarda-redes (caso tenha sido declarado). Verifica qual é o jogador com o melhor resultado combinado. 
+11. Compara os melhores resultados combinados do Atacante e do Defensor.
+- **Atacante vence**: Se o guarda-redes não esteve envolvido na disputa aérea, tentará defender no hexágono para o qual o atacante dirigiu o cabeceamento. Se o guarda-redes esteve envolvido na disputa aérea, é GOLO. 
+- **Defensor vence**. Efetua um passe de cabeça a partir da localização da bola, até ao máximo da distância permitida, sem intercepções. Cuidado com o passe atrasado para o guarda-redes. Se o guarda-rede venceu o duelo aéreo, agarra a bola [Defende e Agarra a bola](https://counterattackgame.github.io/wiki/pt/goalkeeper)
+- **Empate**. Segue as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball). Os jogadores envolvidos no duelo aéreo não podem ficar com a bola. Se a bola for parar a um hexágono onde está um jogador que esteve envolvido no duelo aéreo, desloca a bola mais um hexágono, na direção ditada pela Bola Solta. Se a bola atingir um jogador que não esteve envolvido no duelo aéreo, continua o jogo com  "Qualquer outro cenário". Se a bola não atingir nenhum jogador, verifica se está na Zona de Influência de um defesa e, possivelmente, tenta conquistá-la. Se nada disto se verificar, a equipa atacante continua o jogo com a [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase).
 
-In the Advanced Rules you do not always have to head the ball after a high pass - you can control the ball instead, but only if no defender is close enough to challenge you. To do this takes some skill: you will need a combined score (Dribbling + dice roll) of 9+.
 
-If the ball's final target is not on your player, but still in range for an unmarked header, you can still try it. Attempting a Control 2 hexes away from your player incurs a -1 dice penalty.
+## Controlando um passe alto
 
-- If you are successful, continue play as if you had just won a tackle, and by **attracting** the ball to your Hex (if needed)
-- If you are unsuccessful, follow the Loose Ball instructions, starting from the Player.
+Nas Regras Avançadas não é obrigatório cabecear após um passe alto. É possível tentar controlar a bola, mas só se nenhum defesa estiver suficientemente perto para tentar disputar a bola num duelo aéreo. Fazer isto exige alguma técnica: é necessário um resultado combinado (Finta + dado) igual ou superior a 9. 
+
+É possível tentar controlar a bola mesmo que a bola não esteja no hexágono do jogador ou no hexágono adjacente. Tal como acontece nos cabeceamentos, aplica-se uma penalização de -1 às tentativas de controlo se o jogador estiver num dos segundos hexágonos mais próximos da bola.  
+
+- Se tiveres sucesso, continua o jogo como se tivesses vencido numa tentativa de desarme e **atraindo** a bola para o hegágono onde o jogador está localizado (se necessário)
+- Se não tiveres sucesso, segue as instruções para a Bola Solta a partir da localização do jogador.
 
 
-# Extra Notes
+# Notas adicionais
 
-The Attacking team, if there is no challenge from the Defence, and the ball lands within range of an attacker, must declare a Header or a Control attempt and then proceed with a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase). If the ball is in range for a Header, [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase) in not an option for the attack.
+Se a equipa que defende não disputar a bola e a bola cair suficientemente perto de um jogador da equipa atacante, a equipa atacante tem de declarar se vai cabecear ou tentar controlar a bola e depois prosseguir com uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase). Se a bola estiver suficientemente próxima para um cabeceamento ou uma tentativa de controlo, a equipa atacante não pode começar imediatamente uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase).
 
-All heading distances start from the Ball, not the winner of the challenge.
+A medição das distâncias que a bola pode percorrer na sequência de um cabeceamento começa sempre a partir da bola (e não do jogador que cabeceou). 
 
-Successful control attempts attract the ball to the controller, not the opposite.
+As tentativas de controlo de bola que têm sucesso atraem a bola para o jogador (e não ao contrário). 
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
+

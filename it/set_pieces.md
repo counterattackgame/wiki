@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/set_pieces)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/set_pieces)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Set Pieces

@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/goalkeeper)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/goalkeeper)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # Goalkeeper 

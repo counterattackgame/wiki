@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/heading)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/heading)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/heading)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Heading

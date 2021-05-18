@@ -8,22 +8,22 @@ Select your language:
 
 [Portuguese](https://counterattackgame.github.io/wiki/pt/index)
 
-[Home Page](https://counterattackgame.github.io/wiki/pt/index)
+[Página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-[Getting Started](https://counterattackgame.github.io/wiki/pt/getting_started)
+[Para começar](https://counterattackgame.github.io/wiki/pt/getting_started)
 
-[Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase)
+[Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
-[Passing](https://counterattackgame.github.io/wiki/pt/passing)
+[Passe](https://counterattackgame.github.io/wiki/pt/passing)
 
-[Shooting](https://counterattackgame.github.io/wiki/pt/shooting)
+[Remate](https://counterattackgame.github.io/wiki/pt/shooting)
 
-[Heading](https://counterattackgame.github.io/wiki/pt/heading)
+[Cabeceamento](https://counterattackgame.github.io/wiki/pt/heading)
 
-[Goalkeepers](https://counterattackgame.github.io/wiki/pt/goalkeeper)
+[Guarda-redes](https://counterattackgame.github.io/wiki/pt/goalkeeper)
 
-[Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball)
+[Bola solta](https://counterattackgame.github.io/wiki/pt/loose_ball)
 
-[Set Pieces](https://counterattackgame.github.io/wiki/pt/set_pieces)
+[Bolas paradas](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
-[Quick Guide](https://counterattackgame.github.io/wiki/pt/quick_guide)
+[Guia rápido](https://counterattackgame.github.io/wiki/pt/quick_guide)

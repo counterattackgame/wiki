@@ -4,74 +4,75 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/set_pieces)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/set_pieces)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
-# Set Pieces
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
-Whenever a set piece is awarded, both teams are immediately allowed to pick up and reposition their goalkeeper.
+# Bolas Paradas
 
-## Corner Kick
+Sempre que há uma situação de bola parada, ambas as equipas podem imediatamente reposicionar o seu guarda-redes. 
 
-If a corner kick has been awarded, select a player to take the kick. Position that player in the corner arc with the ball. Each manager is now allowed to pick up and reposition 6 players. Take turns moving 2 players each, attacking manager goes first.
+## Pontapé de canto
 
-Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the GK position.
+Se houver lugar à marcação de um pontapé de canto, a primeira coisa a fazer é escolher um jogador para o marcar. Esse jogador deve ser colocado, com a bola, no arco do canto. Cada treinador pode agora reposicionar até 6 jogadores, colocando alternadamente 2 de cada vez, começando pela equipa atacante.
 
-Defense must keep 2 clear Hexes away from the corner flag.
+A equipa atacante não pode colocar um jogador num hexágono da Pequena Área que seja adjacente ao hexágono no qual o guarda-rdes se encontra. 
 
-**Advanced**: Just before the kick is taken and before the attacker declares what type of pass will be played and where the ball will go, both teams get to move 1 player up to 3 hexes. Attacking manager moves first.
+A equipa que defende tem de deixar pelo menos 2 hexágonos livres entre o marcador do canto e o(s) defesa(s).
 
-Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate. Following a high pass, a [Header](https://counterattackgame.github.io/wiki/pt/heading) must be attempted.
+**Regras avançadas**: Imediatamente antes de o pontapé de canto ser marcado e de o treinador da equipa atacante declarar a direção e o tipo de passe a realizar, cada equipa pode mexer um jogador até 3 hexágonos. A equipa atacante movimenta-se primeiro. 
 
-**Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
+O jogo prossegue com um passe alto ou um passe baixo. O passe alto pode ser dirigido para qualquer ponto da grande área pois nos pontapés de canto não há restrições de distância. Os pontapés de canto são sempre precisos. A seguir a um passe alto é forçoso que se siga um [cabeceamento](https://counterattackgame.github.io/wiki/pt/heading).
 
-If you prefer to play a low pass, the ball can only travel the distance of a first-time pass. You **cannot** play a first time pass after a low pass in this scenario
+**Regras avançadas**: Testa a precisão do pontapé de canto seguindo as regras dos passes altos.
 
-The first Advanced adjustment means that the free move of 3 hexes for either team is independent of the type of pass the attack choses to declare, but there are no extra 3 hexes each if a High Pass is declared.
+Se preferires fazer um passe baixo, a bola apenas se pode deslocar a mesma distância que um passe de primeira. Nos pontapés de canto, **não se pode** fazer um passe de primeira a seguir a um passe baixo.
 
-## Throw-in
+Ambas as equipas podem movimentar 1 jogador até 3 hexágonos imediatamente antes da marcação do pontapé de canto, independentemente do tipo passe que venha a ser efetuado. Não há lugar a qualquer movimentação adicional de 3 hexágonos no caso de ser declarado um passe alto.
 
-After a throw in has been awarded, the attacking team selects one player on the pitch to take the throw-in and then a [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase) is completed before play resumes with the throw. If the attacking manager wishes, you can choose to run through a second [Movement Phase](https://counterattackgame.github.io/wiki/pt/movement_phase) before taking the throw. The ball can be thrown the same distance as a [Header](https://counterattackgame.github.io/wiki/pt/heading) can travel.
+## Lançamento de linha lateral
 
-The ball can be played to the feet or space, with interception possibilities. This type of pass is a Standard pass with limited distance (6)
-It can also be played to head, with no interceptions, but a header MUST follow.
+Após a bola ter saído pela linha lateral, a equipa que vai efetuar o lançamento escolhe um jogador para lançar a bola. De seguida, e antes de efetuar o lançamento, ambas as equipas realizam uma [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase). Caso o treinador da equipa que vai efetuar o lançamento assim o deseje, pode ser realizada uma segunda [Fase de Movimento](https://counterattackgame.github.io/wiki/pt/movement_phase) antes do lançamento. A bola pode ser lançada à mesma distância de um [cabeceamento](https://counterattackgame.github.io/wiki/pt/heading).
 
-## Free Kick or Penalty?
+Se a bola for lançada para os pés ou para o espaço, os adversários podem tentar interceptá-la. Este passe é um passe normal mas com uma distância limitada (6 hexágonos). 
+Se a bola for lançada para a cabeça não há lugar a intercepções, mas é obrigatório realizar um cabeceamento. 
 
-If a foul is committed in a hex that is both inside and outside the penalty area, the foul is always considered to have taken place within the penalty area. 
+## Livre ou Penalty?
+
+Se for cometida uma falta num hexágono que está simultaneamente dentro e fora da grande área, considera-se sempre que a falta foi cometida no interior da área. 
 
 ## Penalty
 
-If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No players allowed in the penalty **arc**.
+Se for cometida uma falta no interior da grande área, o treinador da equipa atacante pode escolher continuar o jogo ou marcar o penalty. Caso haja lugar à marcação do penalty, ambas as equipas podem reposicionar todos os seus jogadores. Só o guarda-redes e o jogador que vai marcar o penalty é que podem estar dentro da grande área. Nenhum jogador pode estar na meia-lua da grande área. 
 
-A penalty is a duel between the attacker and the goalkeeper:
-the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball) rules.
+Um penalty é um duelo entre o seu marcador e o guarda-redes:
+o guarda-redes sofre uma penalização de -2 no seu atributo de Defesa. Caso aconteça um empate, devem seguir-se as regras da [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball).
 
-## Free Kick
+## Livre
 
-Select the player you want to take the kick and position them and the ball where the foul was committed. Any opponents within 2 hexes of the ball must be moved 2 CLEAR hexes away from the ball. Both these two must be done during the below repositioning procedure.
+Seleciona o jogador que queres que marque o livre. Coloca esse jogador e a bola no hexágono onde a falta foi cometida. Quaisquer adversários a menos de 2 hexágonos da bola têm ser deslocados, deixando um mínimo de 2 HEXÁGONOS LIVRES ENTRE a bola e a sua localização. Ambos estes movimentos têm de ser feitos durante o procedimento de reposicionamento dos jogadores (indicado abaixo). 
 
-You and your opponent may now reposition players like so:
+Os treinadores reposicionam os seus jogadores de acordo com o seguinte procedimento:
 
-1. _Attacking_ team picks up and places 2 players.
-2. Defending team picks up and places 2 players.
-3. _Attacking_ team picks up and places 2 players.
-4. Defending team picks up and places 2 players.
-5. _Attacking_ team picks up and places **3** players.
-6. Defending team picks up and places 2 players.
+1. Equipa _Atacante_ escolhe e coloca 2 jogadores.
+2. Equipa defensora escolhe e coloca 2 jogadores.
+3. Equipa _Atacante_ escolhe e coloca 2 jogadores.
+4. Equipa defensora escolhe e coloca 2 jogadores.
+5. Equipa _Atacante_ escolhe e coloca **3** jogadores.
+6. Equipa defensora escolhe e coloca 2 jogadores.
 
-Attack cannot place a player on a hex that is in the 6-yard-box AND touching the GK position.
+A equipa atacante não pode colocar um jogador num hexágono da Pequena Área que seja adjacente ao hexágono no qual o guarda-rdes se encontra. 
 
-The attacker can chose to place players within 1 hex of the ball. Any player within one Hex of the ball can take the Set Piece.
+O atacante pode decidir colocar jogadores no hexágono adjacente à bola. Qualquer jogador num hexágono adjacente à bola pode cobrar a falta. 
 
-In total, the defending manager moves 6 players and the attacking manager moves 7. Individual players can be moved more than once in the above sequence.
+No total, a equipa defensora mexe até 6 jogadores e a equipa que ataca mexe até 7 jogadores. Cada jogador pode ser mexido mais do que uma vez no procedimento indicado acima. 
 
-You can now choose to pass (High Long or Standard) or shoot. If you choose to shoot (use the distance stick to judge if a shot is possible), then combine your player’s Shooting attribute with a dice roll to determine the success of the shot:
+A equipa atacante pode fazer um passe (normal, alto ou longo) ou rematar. Caso opte pelo remate (não esquecer de verificar a distância máxima possível a percorrer pela bola), soma o valor do atributo de Remate ao resultado do lançamento do dado: 
 
-- If your combined score is 9 or higher, the shot is on target. No defender can block this shot. The goalkeeper attempts to make a save (see Shooting).
-- If your combined score is lower than 9, any defenders in the way can attempt a block (see [Loose Ball](https://counterattackgame.github.io/wiki/pt/loose_ball)).
-An unlucky roll of 1 means that the shot is off target, but as any normal shot, it is subject to blocks.
+- Se o resultado combinado for igual ou superior a 9, o remate vai à baliza e nenhum defesa o pode tentar desviar. O guarda-redes tentará defender o remate (ver Remate).
+- Se o resultado combinado for inferior a 9, quaisquer defesas no caminho da bola podem tentar desviar o remate (ver [Bola Solta](https://counterattackgame.github.io/wiki/pt/loose_ball)).
+Se, ao rematar, lançar um 1, o remate vai para fora. Contudo, tal como qualquer outro remate, está sujeito a desvios. 
 
-Remember that if your combined score is lower than 9, you can still score. And don’t forget that a shot from outside the box still has a -1 dice penalty.
+É possível marcar golo mesmo que o resultado combinado seja inferior a 9. Não esquecer que os remates de fora da área têm uma penalização de -1.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/pt/index)
+[Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)

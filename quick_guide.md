@@ -4,7 +4,7 @@
 
 [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide)
 
-[Read this page in Portuguese](https://counterattackgame.github.io/wiki/pt/quick_guide)
+[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # QUICK GUIDE
