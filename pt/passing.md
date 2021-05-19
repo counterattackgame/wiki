@@ -35,6 +35,8 @@ De seguida, cada equipa pode reposicionar 1 jogador até 3 espaços de distânci
 
 Se o passe alto alcança a grande área, o guarda-redes pode mover-se 1 hexágono. 
 
+Agora realiza o teste de precisão: Passe Alto + dado tem de ser igual ou superior a 8. Se o passe for impreciso, ver a secção abaixo.
+
 Tem de haver, no mínimo, um espaço de 3 hexágonos entre a localização do jogador que faz o passe alto e a localização pretendida da bola. Mesmo que o passe seja impreciso, o jogador que fez o passe alto não pode [cabecear](https://counterattackgame.github.io/pt/wiki/heading) a bola. Se o passe alto impreciso cair na localização do jogador que fez o passe, prossegue o jogo com Qualquer Outro Cenário. 
 
 ### Passes altos imprecisos
