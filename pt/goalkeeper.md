@@ -45,7 +45,7 @@ Após uma disputa aérea, e tal como qualquer jogador de campo, o guarda-redes t
 
 ## Interceptando um passe
 
-Se num passe (normal ou de primeira), a trajetória da bola atravessar o hexágono onde o guarda-redes está localizado, o guarda-redes intercepta automaticamente esse passe. Se a bola passar a um hexágono de distância do guarda-redes, o guarda-redes agarrará a bolsa se lançar um 5 ou um 6 OU se obtiver um resultado combinado de 10+ (Defesa + dado). 
+Se num passe (normal ou de primeira), a trajetória da bola atravessar o hexágono onde o guarda-redes está localizado, o guarda-redes intercepta automaticamente esse passe. Se a bola passar a um hexágono de distância do guarda-redes, o guarda-redes agarrará a bola se lançar um 5 ou um 6 OU se obtiver um resultado combinado de 10+ (Defesa + dado). 
 
 ## Mergulhando aos pés do avançado
 
@@ -80,7 +80,7 @@ Os guarda-redes podem mergulhar através de adversários e colegas de equipa par
 
 ## Penalização do guarda-redes nos remates de primeira
 
-Quando um atacante declara um [remate de primeira](https://counterattackgame.github.io/wiki/pt/shooting) e o guarda-redes é o jogador escolhido para se movimentar dois hexágonos, o seu atributo de defesa sofre uma penalização de -1 no segundo hexágono mais distante e uma penalização de -3 no terceiro hexágono mais distante. 
+Quando um atacante declara um [remate de primeira](https://counterattackgame.github.io/wiki/pt/shooting) e o guarda-redes é o jogador escolhido para se movimentar dois hexágonos, o seu atributo de defesa sofre uma penalização de -1 no segundo hexágono mais distante e uma penalização de -2 no terceiro hexágono mais distante. 
 
 ## Os guarda-redes podem agarrar a bola
 
