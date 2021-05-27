@@ -8,6 +8,8 @@ Select your language:
 
 [Portuguese](https://counterattackgame.github.io/wiki/pt/index)
 
+[Αρχική Σελίδα](https://counterattackgame.github.io/wiki/gr/index)
+
 [Página principal](https://counterattackgame.github.io/wiki/pt/index)
 
 [Para começar](https://counterattackgame.github.io/wiki/pt/getting_started)

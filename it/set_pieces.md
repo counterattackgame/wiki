@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/set_pieces)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/set_pieces)
+
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Set Pieces
 
