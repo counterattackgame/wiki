@@ -138,7 +138,7 @@ A first-time pass is being attempted into the direction of the long arrow.
 
 As the ball travels, R10 moves up to receive the pass and W7 moves left to try to intercept.
 
-Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or 6.
+Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or 6 or a combined 10+ wit the Tackling attribute.
 
 If W7 is unsuccessful, R10 collects the ball in the hex that player has moved into. W5 does not get an intercept because R10 is occupying the space the ball is travelling into.
 
