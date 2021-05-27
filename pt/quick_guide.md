@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/quick_guide)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/quick_guide)
+
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
 # GUIA RÁPIDO

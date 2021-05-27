@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/movement_phase)
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Movement Phase
 
@@ -133,13 +135,13 @@ If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/w
 Blue is in Possession and thus the "attacking team".
 They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a a steal, which let's say he fails), and then R4.
 If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") change. R4 does not reposition ,And Play continues with "Any Other Scenario"
-If R4 rolls a 1, then a fouls is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
+If R4 rolls a 1, then a foul is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
 Let's assume that R4 rolled a 3, so nothing happens.
 
 ![Movement 1](docs/movement_1.png)
 ## Defensive Movement Phase starts.
 R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
-If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywher around R4.
+If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywhere around R4.
 In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is thechnically in the Defensive Part of the Movement (blue is not dribbling into the box).
 
 ## Nutmeg during a Movement Phase

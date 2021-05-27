@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/shooting)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/shooting)
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Shooting
 

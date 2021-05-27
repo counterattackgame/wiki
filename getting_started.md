@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/getting_started)
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Getting Started
 

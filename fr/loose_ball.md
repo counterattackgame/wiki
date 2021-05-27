@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/loose_ball)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/loose_ball)
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # Loose Ball
 

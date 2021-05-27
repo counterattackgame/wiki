@@ -6,6 +6,8 @@
 
 [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase)
 
+[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/movement_phase)
+
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 
 # Fase de Movimento
