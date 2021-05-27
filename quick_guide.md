@@ -34,7 +34,8 @@
 - Can dive 3 hexes parallel to goal line
 - Furthest hex away = -1 dice penalty
 - If GK moves at snapshot, -2 dice penalty on 3rd hex, -1 on 2nd hex
-- Handling: if dice roll is => Handling, corner kick is awarded
+- Handling: if dice roll is < Handling, GK Holds ball.
+- Fail Handling: Loose ball again. If direction is **not** in front of GK, CORNER KICK.
 - Can also dive at attacker’s feet (3 hexes max): Saving vs Dribbling
 
 ## GK Distribution
