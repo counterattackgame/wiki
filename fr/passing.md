@@ -109,11 +109,11 @@ The Player in control of the ball is Red 4 (R4).
 - A pass can be made to R10 but W7 could roll for an intercept because the ball travels through that player's Zone of Influence
 - A pass can be made to R7 and no opponent can intercept. The ball does enter the Zone of Influence of W5 but that space is occupied by R7 so no intercept is possible
 
-![Standard 1](docs/pass_1.png)
+![Standard 1](../docs/pass_1.png)
 
 Also:
 
-![Standard](docs/pass_2.png)
+![Standard](../docs/pass_2.png)
 
 - If this was a Standard Pass attempt between the Reds, both Blue players can attempt to intercept.
 - If this was a Standard Pass attempt between the Blues, NO Red players can attempt to intercept.
@@ -126,7 +126,7 @@ Red 4 (R4) has the ball.
 - A High Pass cannot be made in the direction of R7 because W7 is in an adjacent hex and directly in the path of the ball.
 - A High Pass can be made in the direction of R10 because no opponent is in an adjacent hex
 
-![High Pass](docs/pass_3.png)
+![High Pass](../docs/pass_3.png)
 
 ## Long Pass
 
@@ -144,6 +144,6 @@ Because W7 moves into the path of the ball, W7 can intercept with a roll of 5 or
 
 If W7 is unsuccessful, R10 collects the ball in the hex that player has moved into. W5 does not get an intercept because R10 is occupying the space the ball is travelling into.
 
-![First time pass](docs/pass_4.png)
+![First time pass](../docs/pass_4.png)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)

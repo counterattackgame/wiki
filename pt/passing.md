@@ -111,11 +111,11 @@ O jogador que tem a posse de bola é o Vermelho 4.
 - É possível passar para o Vermelho 10, mas o Branco 7 pode lançar o dado para tentar a intercepção. Isto acontece porque a bola passa pela Zona de Influência do Branco 7. 
 - É possível passar para o Vermelho 7 e esse passe não pode ser interceptado. A bola entra na Zona de Influência do Branco 5 mas, como esse hexágono está a ser ocupado pelo Vermelho 7, a equipa Branca não pode interceptar. 
 
-![Normal 1](docs/pass_1.png)
+![Normal 1](../docs/pass_1.png)
 
 E:
 
-![Normal](docs/pass_2.png)
+![Normal](../docs/pass_2.png)
 
 - Se isto fosse uma tentativa de passe normal entre jogadores da equipa Vermelha, ambos os jogadores da equipa Azul poderiam tentar uma intercepção.
 - Se isto fosse uma tentativa de passe normal entre jogadores da equipa Azul, NENHUM jogador da equipa Vermelha poderia interceptar.
@@ -128,7 +128,7 @@ O Vermelho 4 tem a posse de bola.
 - Não é possível fazer um passe alto na direção do Vermelho 7 porque o Branco 7 está num hexágono adjacente e diretamente na trajetória da bola. 
 - É possível fazer um passe alto na direção do Vermelho 10 porque não há nenhum adversário num hexágono adjacente. 
 
-![Passe alto](docs/pass_3.png)
+![Passe alto](../docs/pass_3.png)
 
 ## Passe longo
 
@@ -146,6 +146,6 @@ Porque o Branco 7 se movimenta para um hexágono que está na trajetória da bol
 
 Se o Branco 7 falhar na tentativa de intercepção, o Vermelho 10 recolhe a bola no hexágono para o qual se deslocou. O Branco 5 não pode interceptar porque o Vermelho 10 está a ocupar o hexágono para onde a bola foi dirigida. 
 
-![Passe de primeira](docs/pass_4.png)
+![Passe de primeira](../docs/pass_4.png)
 
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)

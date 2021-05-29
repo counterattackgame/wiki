@@ -141,7 +141,7 @@ Se o Vermelho 4 lançar um 6 (ou Desarme 10+) rouba a bola e a Fase de Movimento
 Se o Vermelho 4 lançar um 1 comete uma falta. Efetuam-se os teste de Tolerância e Resiliência. Depois, a equipa Azul decide se quer continuar a jogar ou se prefere parar o jogo para cobrar a falta (ver a secção sobre Bolas Paradas para mais informações). Assumamos que o Vermelho 4 lançou um 3 e, portanto, nada aconteceu.
 
 
-![Movimento 1](docs/movement_1.png)
+![Movimento 1](../docs/movement_1.png)
 ## Início da Fase de Movimento Defensivo
 O Vermelho 4 tenta efetuar um desarme a partir do hexágono em que está situado, pois está adjacente ao Azul 10. Esta tentativa de desarme conta como uma movimentação para os Vermelhos. 
 Se os Azuis mantiverem a posse de bola após uma tentativa de desarme falhada, o Azul 10 pode reposicionar-me em qualquer hexágono em torno do Vermelho 4.
@@ -154,7 +154,7 @@ O Azul 10, que tem uma Velocidade de 5 e uma Finta de 6, tem a posse da bola. É
 Tem velocidade suficiente para tentar fazer um túnel ao Vermelho 2: declara o túnel e vence o duelo apesar de o Vermelho 2 ter um bónus de 1 no Desarme.
 A multidão está ao rubro e o Azul 10, entusiasmado, decide tentar um outro túnel, desta vez sobre o Vermelho 5, pois ainda tem velocidade suficiente para o conseguir ultrapassar. Neste exemplo, o Azul 10 vence o duelo e declara um remate de primeira. No entanto, lança um 1 e o remate vai para fora, por cima da barra... Mas foi uma jogada de classe mundial!
 
-![Movimento 2](docs/movement_2.png)
+![Movimento 2](../docs/movement_2.png)
 
 ### Duas coisas a ter em conta:
 - Conseguir fazer um túnel permite um reposicionamento do jogador mas exige sempre, pelo menos, a utilização de 2 hexágonos de Velocidade. 
@@ -164,6 +164,6 @@ A multidão está ao rubro e o Azul 10, entusiasmado, decide tentar um outro tú
 
 O Azul 10 quer jogar pelo seguro e evitar todas as tentativas possíveis de roubo de bola. Assim sendo, segue a trajetória abaixo indicada e, desse modo, entra na área por duas vezes (nos dois hexágonos escuros). Logo, terá de interropmper o seu movimento por duas vezes e, em cada uma delas, perguntar ao guarda-redes da equipa adversária se deseja fazer o movimento de 1 hexágono a que tem direito. 
 
-![Movimento 3](docs/movement_3.png)
+![Movimento 3](../docs/movement_3.png)
 
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
