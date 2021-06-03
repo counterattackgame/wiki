@@ -1,15 +1,6 @@
 Select your language: 
 
-[English](https://counterattackgame.github.io/wiki)
-
-[Italian](https://counterattackgame.github.io/wiki/it/index)
-
-[French](https://counterattackgame.github.io/wiki/fr/index)
-
-[Portuguese](https://counterattackgame.github.io/wiki/pt/index)
-
-[Ελληνικά](https://counterattackgame.github.io/wiki/gr/index)
-
+[English](https://counterattackgame.github.io/wiki) - [Italian](https://counterattackgame.github.io/wiki/it/index) - [French](https://counterattackgame.github.io/wiki/fr/index) - [Portuguese](https://counterattackgame.github.io/wiki/pt/index) - [Ελληνικά](https://counterattackgame.github.io/wiki/gr/index)
 [Página principal](https://counterattackgame.github.io/wiki/pt/index)
 
 [Para começar](https://counterattackgame.github.io/wiki/pt/getting_started)
