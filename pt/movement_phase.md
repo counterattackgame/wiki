@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/movement_phase)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/movement_phase)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/movement_phase)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/movement_phase)
+[Read this page in English](https://counterattackgame.github.io/wiki/movement_phase) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/movement_phase) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/movement_phase) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/movement_phase)
 
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 

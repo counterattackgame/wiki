@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/heading)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/heading)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/heading)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/heading)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/heading)
+[Read this page in English](https://counterattackgame.github.io/wiki/heading) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/heading) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/heading) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/heading) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/heading)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/index)
 # Heading
