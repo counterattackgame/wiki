@@ -1,15 +1,6 @@
 Select your language: 
 
-[English](https://counterattackgame.github.io/wiki)
-
-[Italian](https://counterattackgame.github.io/wiki/it/index)
-
-[French](https://counterattackgame.github.io/wiki/fr/index)
-
-[Portuguese](https://counterattackgame.github.io/wiki/pt/index)
-
-[Ελληνικά](https://counterattackgame.github.io/wiki/gr/index)
-
+[English](https://counterattackgame.github.io/wiki) - [Italian](https://counterattackgame.github.io/wiki/it/index) - [French](https://counterattackgame.github.io/wiki/fr/index) - [Portuguese](https://counterattackgame.github.io/wiki/pt/index) - [Ελληνικά](https://counterattackgame.github.io/wiki/gr/index)
 [Ξεκινώντας](https://counterattackgame.github.io/wiki/gr/getting_started)
 
 [Φάση Κίνησης](https://counterattackgame.github.io/wiki/gr/movement_phase)
