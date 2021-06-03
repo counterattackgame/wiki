@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/goalkeeper)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/goalkeeper)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/goalkeeper)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/goalkeeper)
+[Read this page in English](https://counterattackgame.github.io/wiki/goalkeeper) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/goalkeeper) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/goalkeeper) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/goalkeeper)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # Goalkeeper 

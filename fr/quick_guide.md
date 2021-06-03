@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/quick_guide)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/quick_guide)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/quick_guide)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/quick_guide)
+[Read this page in English](https://counterattackgame.github.io/wiki/quick_guide) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/quick_guide) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/quick_guide) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/quick_guide) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/quick_guide)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # QUICK GUIDE

@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/set_pieces)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/set_pieces)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/set_pieces)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/set_pieces)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/set_pieces)
+[Read this page in English](https://counterattackgame.github.io/wiki/set_pieces) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/set_pieces) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/set_pieces) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/set_pieces) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/set_pieces)
 
 [Regressar à página principal](https://counterattackgame.github.io/wiki/pt/index)
 

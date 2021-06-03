@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/loose_ball)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/loose_ball)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/loose_ball)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/loose_ball)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/loose_ball)
+[Read this page in English](https://counterattackgame.github.io/wiki/loose_ball) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/loose_ball) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/loose_ball) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/loose_ball) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/loose_ball)
 
 [Πίσω στην Αρχική Σελίδα](https://counterattackgame.github.io/wiki/gr/index)
 # Διεκδικούμενη Μπάλα

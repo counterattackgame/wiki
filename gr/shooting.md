@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/shooting)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/shooting)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/shooting)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/shooting)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/shooting)
+[Read this page in English](https://counterattackgame.github.io/wiki/shooting) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/shooting) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/shooting) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/shooting) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/shooting)
 
 [Πίσω στην Αρχική Σελίδα](https://counterattackgame.github.io/wiki/gr/index)
 # Σουτ

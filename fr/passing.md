@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/passing)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/passing)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/passing)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/passing)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/passing)
+[Read this page in English](https://counterattackgame.github.io/wiki/passing) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/passing) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/passing) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/passing) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/passing)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
 # Passing

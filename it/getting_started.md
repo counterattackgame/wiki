@@ -1,12 +1,4 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/getting_started)
-
-[Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/getting_started)
-
-[Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started)
-
-[Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started)
-
-[Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/getting_started)
+[Read this page in English](https://counterattackgame.github.io/wiki/getting_started) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/getting_started) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/getting_started)
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Getting Started
