@@ -36,4 +36,4 @@ If you feel you will be overpowered by more experienced players you can keep an 
 Unofficial competitions take place in parallel in case you cannot commit to a whole season. Check out the tournaments section of the Discord Server. World Cups (using the premium version of tabletopia) and regional competitions like the Balkans Cup or the Copa America emerge from time to time.
 
 ## World Champion
-Would you like to be the World Champion? Find out how [here](https://counterattackgame.github.io/world_champion)!
+Would you like to be the World Champion? Find out how [here](https://counterattackgame.github.io/wiki/world_champion)!
