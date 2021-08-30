@@ -1,13 +1,13 @@
-[Read this page in English](https://counterattackgame.github.io/wiki/goalkeeper) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/goalkeeper) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/goalkeeper) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/goalkeeper)
+[Read this page in English](https://counterattackgame.github.io/wiki/en/goalkeeper) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/goalkeeper) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/goalkeeper) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/goalkeeper) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/goalkeeper)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
 # Goalkeeper 
 
-Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase). Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
+Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase). Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
 
 # Positioning to make a save
 
-You can dive 3 hexes in either direction parallel to the goal line when attempting a save. If a [shot](https://counterattackgame.github.io/wiki/shooting) is 4 or more hexes away, you can’t save it!
+You can dive 3 hexes in either direction parallel to the goal line when attempting a save. If a [shot](https://counterattackgame.github.io/wiki/en/shooting) is 4 or more hexes away, you can’t save it!
 
 # After making a save and holding the ball
 
@@ -29,7 +29,7 @@ If the player chooses to activate final thirds, they continue by doing the follo
 
 ## Competing for a high cross
 
-If your opponent crosses the ball into the box, you can challenge to catch the ball. Your goalkeeper can do that by challenging for the Header (after the High Pass) using their Aerial Ability attribute. If the ball is aimed within 2 hexes of you, then you can choose to have a duel with your opponent (see [Heading](https://counterattackgame.github.io/wiki/heading)).
+If your opponent crosses the ball into the box, you can challenge to catch the ball. Your goalkeeper can do that by challenging for the Header (after the High Pass) using their Aerial Ability attribute. If the ball is aimed within 2 hexes of you, then you can choose to have a duel with your opponent (see [Heading](https://counterattackgame.github.io/wiki/en/heading)).
 
 After the Accuracy Check the GK has the option to move 3 Hexes, but the GK can only do this if they intend to challenge for the high ball (not just for better positioning), and that they have **not already** moved 3 hexes per the high cross rules.
 
@@ -47,8 +47,8 @@ Goalkeepers do not have a Tackling attribute, but they can instead dive with the
 
 You can dive at the attacker’s feet during a:
 
-- Defensive [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
-- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty. The GK has the ability to “dive at feet” anytime a player is within a saving hex, even if a snapshot is about to be called on said saving hex
+- Defensive [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase) if you move to an adjacent hex. Regular GK Tackling duel.
+- Attacking [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase), if an attacker attempts to dribble the ball around, you can try to dive at their feet (but you can choose not to). You can dive 3 hexes in either direction, parallel to the goal line. Diving at feet on the 3rd Hex away has a -1 dice penalty. The GK has the ability to “dive at feet” anytime a player is within a saving hex, even if a snapshot is about to be called on said saving hex
 
 - GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away.
 
@@ -74,14 +74,14 @@ Goalkeepers can dive for a save or Tackle through opponents and teammates. In ca
 
 ## Goalkeeper's Snapshot Penalty
 
-When an attacker calls a [snapshot](https://counterattackgame.github.io/wiki/shooting) and you choose your goalkeeper as the one to move two hexes, your saving ability suffers a -1 dice penalty on the second hex away and a -2 dice penalty on the third hex away.
+When an attacker calls a [snapshot](https://counterattackgame.github.io/wiki/en/shooting) and you choose your goalkeeper as the one to move two hexes, your saving ability suffers a -1 dice penalty on the second hex away and a -2 dice penalty on the third hex away.
 
 ## Goalkeepers can pick up the ball
 
-Goalkeepers can run to get the ball. If the ball is in their penalty box and it did not come from a teammate's kick, they can pick it up using their gloves. Continue Play as if there was a save and Hold. You can only pick the ball up when a [Movement Phase](https://counterattackgame.github.io/wiki/movement_phase) ends (with a change of possession or regularly).
+Goalkeepers can run to get the ball. If the ball is in their penalty box and it did not come from a teammate's kick, they can pick it up using their gloves. Continue Play as if there was a save and Hold. You can only pick the ball up when a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase) ends (with a change of possession or regularly).
 
 ## Goalkeepers cannot be marked at set-pieces
 
 Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the GK position.
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/index)
+[Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
