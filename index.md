@@ -3,7 +3,7 @@
 Hello and welcome to the Community Page of Counter Attack. Here you will find material that has been developed by the Counter Attack Fanbase.
 
 ## Wiki - rules
-In [the Wiki Page](https://counterattackgame.github.io/wiki/en/index) you can find the most recent ruleset in a form of a wiki. The latest printed rulebook is v1.3 and is available to download here. In the course of our recent competitions though, the Counter Attack fans have helped to evolve the rules into what you will see on these pages. The set of rules and examples in the wiki pages are being actively maintained and translated in 5 languages. This is the ruleset for our official competitions, too, so keep up to date!
+In [the Wiki Page](https://counterattackgame.github.io/wiki/en/index) you can find the most recent ruleset in a form of a wiki. The latest printed rulebook is v1.3 and is available to download here. In the course of our recent competitions, the Counter Attack fans have helped to evolve the rules into what you will see on these pages. The set of rules and examples in the wiki pages are being actively maintained and translated in 5 languages. This is the ruleset for our official competitions, too, so keep up to date!
 
 ## Online Community
 
