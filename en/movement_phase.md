@@ -39,7 +39,7 @@ In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.
 
 ## Foul
 
-If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick/penalty or continue play.
+If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick or continue play. You cannot choose to not take a penalty kick.
 
 Even if you choose to continue play, you still have to roll the dice to determine whether your player has been injured, and your opponent still has to roll the dice to check if the defender is booked. If you decide to stop play for a free kick/penalty, refer to Set Pieces.
 
@@ -56,6 +56,10 @@ A player that is injured for the second time in the same match, must be substitu
 ## To check for a booking
 
 Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, the player who made the foul receives a yellow card. Any player who receives a second yellow card is then shown a red card and has to leave the pitch immediately. Play must stop for a free kick or penalty if a player receives a red card.
+
+Below you will see cases where the leniency check is between Yellow/Red card.
+Fouls committed by the goalkeepers in the penalty box (penalties), run though the No booking/Yellow Card check, even if the challenge was "last man" or "from behind" due to the Double Jeopardy rule.
+A Goalkeeper can only be sent off by receiving a second yellow card, in the scenario of a Reckless tackle (see below) or by handballing outside the box. (See [Goalkeeper](https://counterattackgame.github.io/wiki/en/goalkeeper))
 
 ## Tackles from Behind
 
@@ -105,6 +109,7 @@ This is a difficult move to execute but it’s worth it if you manage it! Here�
 The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
 
 If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+If the nutmeg challenge results in a free-kick and attacker chooses to take it, the attacker does not get through the defender and the free kick is taken from the Hex where the attacker started the nutmeg attampt.
 
 # Extra Notes
 - Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
