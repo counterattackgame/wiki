@@ -111,6 +111,13 @@ Also:
 - If this was a Standard Pass attempt between the Blues, NO Red players can attempt to intercept.
 
 
+![Pass Interceptions](../docs/interceptions.png)
+
+- Red 2 (with the ball) sends a standard pass to R3, R8, (anywhere on the diagonal) up to R11 and there are no interceptions possible for any of the yellow defenders.
+- The logic is that an attacker occupying a Hex is stronger than a defender applying their ZOI (in the case of no interceptions from Yellow 3)
+- The three yellow defenders behind R11 are placed there to demonstrate that if the ball comes directly from the diagonal axis connecting the red players, all three yellow are considered being in the back of R11 and they cannot intercept the reception of the pass.
+- The whole story is the same even if the pass was a First Time Pass and we consider that the image is after the two managers have used their 1-Hex-move
+
 ## High Pass
 
 Red 4 (R4) has the ball.

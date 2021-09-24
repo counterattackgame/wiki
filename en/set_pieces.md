@@ -36,14 +36,14 @@ If a foul is committed in a hex that is both inside and outside the penalty area
 
 ## Penalty
 
-If a foul has been committed within the penalty area, the attacking manager can choose to play on or take a penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No players allowed in the penalty **arc**.
+If a foul has been committed within the penalty area, the attacking manager **MUST** take the penalty kick. With a penalty, both teams pick up and reposition all of their players. Only 2 players (the penalty kick taker and the defending goalkeeper) may be inside the penalty area. No players allowed in the penalty **arc**.
 
 A penalty is a duel between the attacker and the goalkeeper:
 the keeper has a -2 dice penalty when attempting a save. If it’s a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) rules.
 
 ## Free Kick
 
-Select the player you want to take the kick and position them and the ball where the foul was committed. Any opponents within 2 hexes of the ball must be moved 2 CLEAR hexes away from the ball. Both these two must be done during the below repositioning procedure.
+Select the player you want to take the kick and position them and the ball where the foul was committed. Any opponents within 2 hexes of the ball must be moved 2 CLEAR hexes away from the ball. Both these two must be done during the below repositioning procedure. If the foul was committed while attempting a nutmeg, the attacker does not get through the defender and the free kick is taken from the Hex where the attacker started the nutmeg attempt.
 
 You and your opponent may now reposition players like so:
 

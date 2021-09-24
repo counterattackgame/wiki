@@ -3,7 +3,7 @@
 [Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
 # Goalkeeper 
 
-Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase). Your goalkeeper can also be moved 1 hex whenever the ball comes into the box.
+Just like any other player, your goalkeeper can be moved in a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase). Your goalkeeper can also be moved 1 hex when the ball comes into the box by an opponent touch (dribble, pass, header). If the ball was sent in the box by a teammate (pass, dribble, header, loose ball from a tackle/header), the GK does **not** get that 1 extra Hex.
 
 # Positioning to make a save
 
@@ -14,7 +14,7 @@ You can dive 3 hexes in either direction parallel to the goal line when attempti
 After a GK saves and holds a ball, wins an aerial duel or picks the ball up when in the box after collecting a loose ball or stray pass from the attacking team, they have two initial options:
 
 
-1. **Activate final thirds**: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first.
+1. **Activate final thirds**: both teams can move any player in either final third a maximum of 6 hexes each. The goalkeeping team goes first. Opponents cannot stand in the keeper's Zone of Influence
 2. **Quick Throw**: Neither team is able to move their final thirds, the throw can be the length of a standard pass but cannot be intercepted. The receiving player continues as if they have just received a regular standard pass.
 
 **Remember**: _If the GK collects a loose ball outside the penalty area, they follow any other scenario. If they wish to pick the ball up, the GK only picks the ball up once the phase in which he is brought back into the box completely finishes. If the GK collects a loose ball within the penalty area, they pick it up immediately._
