@@ -35,11 +35,11 @@ Use the distance stick to judge how far it can travel. No interceptions are poss
 
 The players who challenged for the header cannot participate in the subsequent [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase).
 
-## Heading back to the goalkeeper (Advanced Rules)
+## Heading back to the goalkeeper
 
-You cannot head the ball back to your goalkeeper at a corner kick. (Core Rules)
+You cannot head the ball back to your goalkeeper's hands after winning a Heading duel from a high pass of a corner kick.
 
-Heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) process from the Goalkeeper.
+After any open play High pass, the header-winning defender can choose to send the ball back to the goalkeeper's safe hands, but bear in mind that heading the ball back to the hands of the goalkeeper can be a risky move... If you choose to do this, roll a dice. If you roll a 1, start a [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) process from the Goalkeeper.
 
 If you choose to head the ball close to your goalkeeper's feet, in order to avoid the above risk, remember that the GK can only pick up the ball at the END of a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase).
 
