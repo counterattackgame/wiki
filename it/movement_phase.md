@@ -39,7 +39,7 @@ In caso di parità, seguire le istruzioni di [Loose Ball](https://counterattackg
 
 ## Fallo
 
-Un difensore commette un fallo se lancia un 1 al dado durante un tackle o tentativo di rubare palla. L'attaccante lancia il dado per controllare un eventuale infortunio (vedi sotto). Ora l'attaccante ha due opzioni: fermarsi per il calcio di punizione/rigore oppure continuare a giocare.
+Un difensore commette un fallo se lancia un 1 al dado durante un tackle o tentativo di rubare palla. L'attaccante lancia il dado per controllare un eventuale infortunio (vedi sotto). Ora l'attaccante ha due opzioni: fermarsi per il calcio di punizione/rigore oppure continuare a giocare. Non puoi scegliere di non tirare un calcio di rigore.
 
 Anche se decide di continuare a giocare, il giocatore deve lanciare il dado per controllare se si è infortunato e l'avversario deve lanciare il dado per controllare se viene ammonito. Se attaccante si ferma per il calcio di punizione/rigore, guardare la sezione Set Pieces.
 
@@ -56,6 +56,9 @@ Un giocatore che si infortuna una seconda volta nello stesso match deve essere s
 ## Ammonizioni
 
 Lanciare il dado. Se il dado è uguale o maggiore della Leniency dell'arbitro, il giocatore che ha effettuato il fallo riceve un cartellino giallo. Il giocatore che riceve un secondo cartellino giallo è espulso. Il gioco si ferma per un calcio di punizione o un rigore se il giocatore riceve un cartellino rosso.
+Qui di seguito puoi vedrai alcuni casi in cui il leniency check è tra cartellino giallo o rosso.
+I Leniency Check per i falli commessi dal portiere in area di rigore sono sempre per decidere tra cartellino giallo o meno, anche per falli da ultimo uomo o da dietro, come da regola della "tripla sanzione".
+Un portiere può essere espulso solamente ricevendo un secondo cartellino giallo, nello scenario di un Reckless Tackle o toccando il pallone con le mani fuori area (vedi [Portiere](https://counterattackgame.github.io/wiki/it/goalkeeper))
 
 ## Tackles da Dietro
 
@@ -106,6 +109,7 @@ Ecco come si fa:
 Il difensore vince il tackle e il gioco continua normalmente con il riposizionamento del difensore attorno all'attaccante, il quale non è riuscito a passare oltre al difensore.
 
 Se dovesse esserci una parità, guardare le istruzioni di [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball), ma l'attaccante che ha iniziato il nutmeg non può muoversi - a prescindere di quanto Pace abbia già usato.
+Se dal tentativo di tunnel scaturisce un calcio di punizione e l'attaccante decide di batterlo, l'attaccante non passa oltre il difensore e il calcio di punizione verrà battuto dall'esagono dove l'attaccante ha iniziato il tentativo di tunnel.
 
 # Note Aggiuntive
 
