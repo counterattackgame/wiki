@@ -101,7 +101,7 @@ This is a difficult move to execute but itâ€™s worth it if you manage it! Hereâ€
 
 ### What happens if the nutmeg is successful:
 
-- The attacker moves to any hex on the other side of the defender. The defender is **stunned** and cannot move during the Movement Phase. 
+- The attacker moves to any hex on the other side of the defender. The defender is **stunned** and cannot move during the *subsequent* Movement Phase. 
 - The attacker can move to one of the three hexes on the other side of the defender, and continue his move if he has any Pace remaining.
 
 ### What happens if the nutmeg is unsuccessful:
