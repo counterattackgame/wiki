@@ -35,15 +35,14 @@ Se un fallo viene commesso su un esagono che contiene sia una porzione di area d
 
 ## Rigore
 
-Se un fallo viene commesso in area di rigore, l'allenatore della squadra in attacco può decidere di proseguire o tirare un calcio di rigore. Durante un rigore, entrambe le squadre riposizionano tutti i loro giocatori. Solo due di essi (il tiratore e il portiere della squadra avversaria) possono trovarsi all'interno dell'area.
+Se un fallo viene commesso in area di rigore, l'allenatore della squadra in attacco **DEVE** tirare il calcio di rigore. Durante un rigore, entrambe le squadre riposizionano tutti i loro giocatori. Solo due di essi (il tiratore e il portiere della squadra avversaria) possono trovarsi all'interno dell'area.
 
 Un rigore è un duello tra l'attaccante e il portiere: quest'ultimo ha una penalità di -2 al dado quando prova a parare. In caso di pareggio segui la regola per la [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball).
 
 ## Calcio di Punizione
 
 Selezionare il giocatore con il quale si vuole effettuare il calcio di punizione e posizionarlo insieme al pallone nell'esagono dove il fallo è stato commesso. Qualsiasi avversario entro 2 esagoni dalla palla deve lasciare ALMENO 2 esagoni VUOTI dalla stessa.
-Entrambe queste mosse devono essere fatte durante la procedura di riposizionamento seguente.
-
+Entrambe queste mosse devono essere fatte durante la procedura di riposizionamento seguente. Se il fallo viene commesso durante un tentativo di tunnel, l'attaccante non oltrepassa il difensore e il calcio di punizione viene battuto dall'esagono dove l'attaccante ha iniziato il tunnel.
 Tu e il tuo avversario potete ora riposizionare i vostri giocatori come segue:
 
 1. Squadra in _attacco_ posiziona 2 giocatori

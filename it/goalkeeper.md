@@ -3,7 +3,7 @@
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
 # Goalkeeper
 
-Come ogni altro giocatore, il portiere può essere mosso durante una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). Inoltre, può muoversi di 1 esagono ogni volta che la palla entra in area.
+Come ogni altro giocatore, il portiere può essere mosso durante una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase). Inoltre, può muoversi di 1 esagono ogni volta che la palla entra in area a seguito di un'azione avversaria (dribbling, passaggio, colpo di testa). Se il pallone viene mosso in area da un compagno di squadra (passaggio, dribbling, colpo di testa, palla vagante da un contrasto/colpo di testa), il portiere **non** ottiene il movimento gratuito di 1 esagono.
 
 # Posizionarsi per una parata
 
@@ -14,7 +14,7 @@ Puoi tuffarti di 3 esagoni in entrambe le direzioni parallele alla linea di port
 Dopo che un portiere para e trattiene il pallone, vince un duello aereo o raccoglie la palla con le mani dopo aver intercettato una palla vagante o un passaggio della squadra avversaria, può inizialmente scegliere tra due opzioni:
 
 1. **Attivare le final thirds**: entrambe le squadre possono muovere tutti i giocatori in entrambe le final third fino a 6 esagoni ciascuno. La squadra del portiere muove per prima.
-2. **Quick Throw**: Nessuna delle due squadre può muovere i giocatori in nessuna delle due final thirds; la rimessa può raggiungere la distanza di uno standard pass ma non può essere intercettata. Il giocatore che riceve il pallone può continuare come se avesse appena ricevuto uno standard pass.
+2. **Quick Throw**: Nessuna delle due squadre può muovere i giocatori in nessuna delle due final thirds; la rimessa può raggiungere la distanza di uno standard pass ma non può essere intercettata. Il giocatore che riceve il pallone può continuare come se avesse appena ricevuto uno standard pass. Un avversario non può fermarsi nella Zone of Influence del portiere.
 
 **Ricorda**: _Se il portiere raccoglie una loose ball fuori dall'area di rigore, si riprende con any other scenario. Se vuole raccogliere la palla con le mani, il portiere la raccoglie solo dopo che la movement phase in cui il portiere porta la palla in area è terminata. Se il portiere raccoglie una loose ball all'interno dell'area di rigore, la raccoglie con le mani immediatamente._
 

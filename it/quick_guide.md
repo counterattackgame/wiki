@@ -27,7 +27,8 @@
 - Può tuffarsi di 3 esagoni parallelamente alla linea di porta
 - Parare nell'esagono più distante = -1 di penalità
 - Se si muove allo Snapshot (massimo 2 esagoni), -2 di penalità sul terzo esagono, -1 di penalità sul secondo
-- Handling: se lancio del dado => Handling, lanciare dado per direzione della deviazione del tiro
+- Handling: se lancio del dado < Handling, il portiere trattiene il pallone
+- Handling fallito: lanciare dado per direzione della deviazione del tiro. Se **non** è di fronte al portiere, è calcio d'angolo
 - Può tuffarsi ai piedi dell'attaccante (massimo 3 esagoni parallelo alla linea di porta, oppure come un tackle durante il suo movimento): Saving vs Dribbling
 
 ## Rimessa del Portiere

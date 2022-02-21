@@ -34,11 +34,11 @@ Usa lo stick per valutare quanto lontano possa andare il colpo di testa. Non è 
 
 I giocatori che hanno partecipato al colpo di testa non possono partecipare nella [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) successiva.
 
-## Retropassaggio di testa al portiere (Regola avanzata)
+## Retropassaggio di testa al portiere
 
-Non puoi passare di testa al portiere durante un calcio d'angolo (Regola base)
+Non puoi passare di testa direttamente in mano al portiere quando vinci un colpo di testa durante un calcio d'angolo
 
-Un retropassaggio di testa al portiere può essere rischioso... Se scegli di farlo, tira un dado. Se il risultato è 1, si verifica una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) dalla posizione portiere.
+Dopo un qualsiasi High Pass derivante non derivante da un calcio piazzato, il difensore che vince il colpo di testa può scegliere di passare la palla indietro nelle mani del portiere, ma tieni conto che un retropassaggio di testa al portiere può essere rischioso... Se scegli di farlo, tira un dado. Se il risultato è 1, si verifica una [Loose Ball](https://counterattackgame.github.io/wiki/it/loose_ball) dalla posizione portiere.
 
 Se scegli di effettuare il passaggio nei pressi del portiere, per evitare il rischio sopra citato, ricorda che il portiere può prendere la palla solo ALLA FINE della [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase).
 
