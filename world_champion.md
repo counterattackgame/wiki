@@ -4,7 +4,7 @@ There can be only one...
 
 # The current World Champion is... 
 
-## **Motowolf**
+## **David Teixeira**
 
 The original World Champion is the game creator, **Colin Webster**.
 
