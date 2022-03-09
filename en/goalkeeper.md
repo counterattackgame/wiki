@@ -41,6 +41,12 @@ Following an aerial challenge, like any outfield player the GK is also unable to
 
 If the path of a (standard, first-time) pass travels directly through you, then you will automatically intercept the pass. If the path of the ball takes it within one hex of you, roll a 5 or 6  or 10+ combined with Saving to Save and Hold.
 
+Passing through the Goalkeeper's “3 Hexes for Diving” area triggers an attempt to intercept. A Goalkeeper can attempt to roll a 6 or Saving + dice roll =>10 to intercept a pass through their “3 Hexes Area for Diving”. 
+
+A Goalkeeper would need to roll a 6 or Saving + dice roll =>11 for an interception attempt in the 3rd hex. 
+
+If successful, the Goalkeeper moves to the hex where the ball was passed and has the ball in their hands. If unsuccessful, the goalkeeper does not move for free.
+
 ## Diving at the feet of the attacker
 
 Goalkeepers do not have a Tackling attribute, but they can instead dive with their hands at a player's feet. To try this, you and your opponent roll the dice. Add your Saving attribute to the dice roll and compare that to the attacker’s Dribbling attribute plus dice roll.
