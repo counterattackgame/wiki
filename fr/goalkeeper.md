@@ -52,7 +52,7 @@ You can dive at the attacker’s feet during a:
 
 - GK can save/dive through opponents and teammates. If the GK is successful, and has to move on an occupied Hex, the GK moves all players from the occupied Hex and the direction of the dive one Hex away.
 
-However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded!
+However, if you roll a 1 in either situation, a foul has been committed and a penalty kick is awarded! The resulting Referee Leniency Test is for a Yellow Card only and there can be no Red Card awarded against the GK, if a penalty is also awarded against the foul. 
 
 If GK makes a successful dive, play continues with "Save and Hold"
 
