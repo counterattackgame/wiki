@@ -23,6 +23,8 @@ In all instances, follow the [Loose Ball](https://counterattackgame.github.io/wi
 
 Headed attempts at goal cannot be blocked or intercepted by defenders. If the attacker has won a duel with a defender, the goalkeeper now rolls to attempt a [save](https://counterattackgame.github.io/wiki/fr/shooting). The attacker does not re-roll. Start counting Hexes from **THE BALL**, not the winner of the headed challenge.
 
+A headed attempt at goal is only off target if the winner of the Heading duel is an attacker attempting the header, and the attacking player won the Heading duel with a dice roll of 1.
+
 ## Headed Passes
 
 Headed passes cannot be intercepted and there cannot be 2 consecutive headed passes.
