@@ -91,6 +91,8 @@ Please note that the recipient of the pass has to be different from the taker.
 
 Please also note that if the 6th hex away of your first time pass is on your teammate, and you chose to move that player one Hex, he/she cannot carry the ball with him. The first time pass distance ABIDES.
 
+When using a First Time Pass following an Any Other Scenario event, there is No 1 hex movement (by either team) as part of this action. The pass can travel the length of a First Time pass but is treated as a Standard pass, meaning it can be followed by a regular First Time pass, Movement Phase or Snapshot. Interception rules apply.
+
 # Graphical Examples
 
 ## Standard Pass

@@ -11,6 +11,8 @@ Snapshots receive a -1 dice penalty.
 
 If the shot is taken from outside the penalty box, the goalkeeper gets to move 1 hex before attempting a save.
 
+Shots and Snapshots from inside the box are not limited by normal shooting distance rules. A shot from inside the box can travel to any part of the goal. 
+
 1. If the attacker’s score is higher, a goal has been scored!
 2. If the keeper’s score is higher, roll a dice:
 
