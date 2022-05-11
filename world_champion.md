@@ -4,7 +4,7 @@ There can be only one...
 
 # The current World Champion is... 
 
-## **David Teixeira**
+## **Melina Tsolakou**
 
 The original World Champion is the game creator, **Colin Webster**.
 
