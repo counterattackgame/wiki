@@ -16,6 +16,7 @@ Roll a dice to determine the direction the ball will break. If you roll a 3, the
 
 To determine the distance the ball will break, roll a dice again. The dice roll will tell you how many hexes the ball will travel. Start counting from the source of the loose ball.
 
+- If the loose ball ends in the Zone of Influence (ZOI) of a defender, they may try to attract the ball by rolling a 6 OR "Tackling + Dice" >= 10. If this is successful play is followed by "Any Other Scenario"
 - If the ball does not hit any player while travelling, **continue** the [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase) or, if you were not in a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase), begin one with the attacking team moving first.
 - If the loose ball _hits_ an attacker during a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase), **continue** the [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase), or if you were not in a [Movement Phase](https://counterattackgame.github.io/wiki/en/movement_phase), begin one with the attacking team moving first, but the attacker can choose to **Snapshot** immediately.
 - If the ball _hits_ a defender while it is travelling, that player’s team is now in possession. Resume play with "Any other Scenario"
