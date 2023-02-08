@@ -5,7 +5,10 @@
 
 There are 3 types of passes in the Core Rules and a 4th one in the Advanced Rules. 
 
-The markers on the distance stick show you how far each pass can travel. This is a maximum allowable distance; the pass can be shorter than the marker shows. 
+The markers on the distance stick show you how far each pass can travel. This is a maximum allowable distance; the pass can be shorter than the marker shows. When played online, the maximum distances are as follow:
+- Standard Pass/Shot: 11 hexes
+- First Time Pass: 6 hexes
+- High Pass: 15 hexes
 
 Hold the stick over the player in possession of the ball and point it in the direction you’d like to pass.
 
