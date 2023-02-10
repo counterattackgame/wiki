@@ -15,7 +15,7 @@ Defense must keep 2 clear Hexes away from the corner flag.
 
 **Advanced**: Just before the kick is taken and before the attacker declares what type of pass will be played and where the ball will go, both teams get to move 1 player up to 3 hexes. Attacking manager moves first.
 
-Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate when the game is played with Advanced rules. Following a high pass, a [Header](https://counterattackgame.github.io/wiki/en/heading) must be attempted.
+Play continues with a high pass or a low pass. A high pass can be made to any position within the penalty area because there are no distance restrictions at a corner kick. Corner kicks are always accurate when the game is played without Advanced rules. Following a high pass, a [Header](https://counterattackgame.github.io/wiki/en/heading) must be attempted.
 
 **Advanced**: Test for accuracy when you take a corner kick. Follow the accuracy rules for a High Pass
 
