@@ -27,6 +27,10 @@ If the player chooses to activate final thirds, they continue by doing the follo
 **If the attacker rolls a 1 when shooting**: The activate final thirds action must follow. The GK must be positioned inside the 6 yard box when taking the kick. From here, a standard pass or a GK kick can follow. The standard pass can be intercepted, the GK Kick follows the rules stated above.
 
 
+# After making a save and not holding the ball
+
+After a keepr makes a save but they fail the handling test, run a "loose ball" check.  If the direction of the loose ball is next or behind the GK it is a Corner Kick. If the direction is in front of GK, roll for distance, and continue play normally.
+
 ## Competing for a high cross
 
 If your opponent crosses the ball into the box, you can challenge to catch the ball. Your goalkeeper can do that by challenging for the Header (after the High Pass) using their Aerial Ability attribute. If the ball is aimed within 2 hexes of you, then you can choose to have a duel with your opponent (see [Heading](https://counterattackgame.github.io/wiki/en/heading)).
