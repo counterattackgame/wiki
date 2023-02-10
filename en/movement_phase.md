@@ -108,7 +108,7 @@ This is a difficult move to execute but it’s worth it if you manage it! Here�
 
 The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
 
-If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/en/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.  If the defender wins the duel, the attacker will be stunned during the subsequent movement phase.
 If the nutmeg challenge results in a free-kick and attacker chooses to take it, the attacker does not get through the defender and the free kick is taken from the Hex where the attacker started the nutmeg attampt.
 
 # Extra Notes
