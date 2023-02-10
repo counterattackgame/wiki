@@ -9,7 +9,7 @@ Just like any other player, your goalkeeper can be moved in a [Movement Phase](h
 
 You can dive 3 hexes in either direction parallel to the goal line when attempting a save. If a [shot](https://counterattackgame.github.io/wiki/en/shooting) is 4 or more hexes away, you can’t save it!
 
-# After making a save and holding the ball
+## After making a save and holding the ball
 
 After a GK saves and holds a ball, wins an aerial duel or picks the ball up when in the box after collecting a loose ball or stray pass from the attacking team, they have two initial options:
 
@@ -27,9 +27,9 @@ If the player chooses to activate final thirds, they continue by doing the follo
 **If the attacker rolls a 1 when shooting**: The activate final thirds action must follow. The GK must be positioned inside the 6 yard box when taking the kick. From here, a standard pass or a GK kick can follow. The standard pass can be intercepted, the GK Kick follows the rules stated above.
 
 
-# After making a save and not holding the ball
+## After making a save and not holding the ball
 
-After a keepr makes a save but they fail the handling test, run a "loose ball" check.  If the direction of the loose ball is next or behind the GK it is a Corner Kick. If the direction is in front of GK, roll for distance, and continue play normally.
+After a keeper makes a save but they fail the handling test, run a "loose ball" check.  If the direction of the loose ball is next or behind the GK it is a Corner Kick. If the direction is in front of GK, roll for distance, and continue play normally.
 
 ## Competing for a high cross
 
