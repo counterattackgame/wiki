@@ -28,7 +28,8 @@ Use the distance stick to work out where you want to pass to. If your opponent i
 
 Next, each team may move 1 player up to 3 hexes as the ball travels. This means that the offside position of each player is assessed before these two movements.
 
-If the High Pass is played into the penalty box, the goalkeeper also gets to move 1 hex.
+If the High Pass is played into the penalty box, the goalkeeper also gets to move 1 hex.  After a High Pass the defending GK has the option to move 3 Hexes if and only if he will be challenging for the High Pass. Those 3 hexes cannot be combined with a 3 hexes movement from the regular high pass rule.
+Goal kicks or High Passes from goalkeeper after "Save & Hold" must target a teammate's head.
 
 Now test for accuracy: High Pass + dice must be 8+. If the pass is inaccurate, refer to Inaccurate high passes below.
 
