@@ -39,9 +39,10 @@ In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.
 
 ## Foul
 
-If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick or continue play. You cannot choose to not take a penalty kick.
+If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick or continue play. You cannot choose to not take a free kick.  If a foul has been committed within the penalty area, the attacking manager MAY elect to take the penalty kick or to play on, as per a foul in any other part of the field. 
 
 Even if you choose to continue play, you still have to roll the dice to determine whether your player has been injured, and your opponent still has to roll the dice to check if the defender is booked. If you decide to stop play for a free kick/penalty, refer to Set Pieces.
+
 
 ## To check for an injury
 
