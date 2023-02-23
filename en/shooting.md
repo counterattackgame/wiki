@@ -57,6 +57,10 @@ Following an aerial challenge, a [keeper](https://counterattackgame.github.io/wi
 
 Certain positions on the pitch within shooting range are difficult to score from due to the angle. Shooting from hexes marked with a small circle is possible but your shooting suffers a -1 dice penalty.
 
+## Shots and Snapshots from inside the 18 yard box
+
+Shots and Snapshots from inside the box are not limited by normal shooting distance rules. A shot from inside the box can travel to any part of the goal. Shots and snapshots from outside the box are still limited by previously set distance limitations.
+
 ## Deciding the hex of potential save for the GK
 
 Always remember that:
