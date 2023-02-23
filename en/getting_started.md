@@ -36,4 +36,13 @@ An Action is what an attacker can call as the next thing to happen.  The actions
 - A nutmeg is part of the movement phase and not a separate action.
 - The final thirds movement is not a separate action.
 
+## Jackpot ⭐ Roll
+
+When the game is played using 12-sided dice, the Jackpot Roll is in effect.  If a player rolls a ⭐ they automatically win whatever duel they are contesting. This is called a jackpot roll. If the opponent also rolls a ⭐ then the contest is a tie, regardless of the attribute values for those players, and is resolved as before with a loose ball. For all other rolls, treat the ⭐ as a 6.
+Duels are the following:
+- Shots vs Saves
+- Tackling vs Dribbling
+- GK Dive at Feet vs Dribbling
+- Header Challenge 
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
