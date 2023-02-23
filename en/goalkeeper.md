@@ -94,4 +94,9 @@ Goalkeepers can run to get the ball. If the ball is in their penalty box and it 
 
 Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the GK position.
 
+## Goalkeepers committing a foul
+
+A goal keeper committing a foul will only subject to No booking/Yellow leniency checks, even if their challenge was "from behind" or "professional".  Goalkeepers can be sent off with a second yellow, after the process of a Reckless tackle 
+
+
 [Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
