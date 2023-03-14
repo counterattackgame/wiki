@@ -35,4 +35,14 @@ Alla fine di ogni tempo di gioco, lanciare il dado e aggiungere il risultato all
 - Un nutmeg è parte della movement phase e non una Action separata.
 - Il final thirds movement non è un'azione separata.
 
+## Il lancio Jackpot ⭐
+Quando si gioca una partita con un dado a 12 facce, the lancio Jackpot è attivo. Se un giocatore lancia una ⭐ vince automaticamente il duello.
+Questo è chiamato lancio Jackpot. Se anche l’avversario lancia una ⭐ allora il duello finisce in parità indipendentemente dai valori degli attributi dei giocatori e si risolve con una loose ball (palla vagante).
+Per tutti gli altri tipi di lanci, la ⭐ ha valore 6. I duelli dove il lancio
+Jackpot è determinante sono:
+- Tiro vs Parata
+- Tackling vs Dribbling
+- Uscita bassa del portiere vs Dribbling
+- Colpo di testa
+
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
