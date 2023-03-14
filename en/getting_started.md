@@ -11,7 +11,7 @@ For online Games on Tabletopia, and especially official ones (matches played for
 
 Place the goalkeeper cards face down and pick 1 goalkeeper each.
 
-Official Online games: Flip the GK deck so that all cards are face down, shuffle the deck at will, Take 4 cards, Roll the dice to see who picks first and pick two each. Many people chose to lay all the cards down to the pitch, (by selecting take 10 -all of them) then the two managers have all the cards in their view so select from there.
+Official Online games: Flip the GK deck so that all cards are face down, shuffle the deck at will, Take 4 cards, Roll the dice to see who picks first and pick two each. Many people chose to lay all the cards down to the pitch, (by selecting take 14 -all of them) then the two managers have all the cards in their view so select from there.
 
 ## Outfield Players
 
@@ -19,7 +19,7 @@ Shuffle the cards and place 4 of them face up. You choose 1 of these cards, your
 
 Now it’s time to decide which 11 players will make up your starting team, and which will be your 5 substitutes. Allocate a squad number 1-11 to each starting player and place them in their corresponding spaces at the sides of the pitch.
 
-Official Online games: Roll dice for who picks first, Flip the Outflield players Deck, so that all cards are facing down, shuffle the deck at will, "Take" 4 cards, and pick one card each until all 4 cards are taken. Repeat process until each player has 14 outfield players,  taking turns on who picks first. The winner of the initial rolls should get 4 first picks and the other manager gets 3 first picks. (7 turns in total, each player gets 2 players in each turn, totals 14 outfield players)
+Official Online games: Roll dice for who picks first, flip the outfield players deck, so that all cards are facing down, shuffle the deck at will, "Take" 4 cards, place those cards face-up for both players to see and pick one card each until all 4 cards are taken. Repeat process until each player has 14 outfield players,  taking turns on who picks first. The winner of the initial rolls should get 4 first picks and the other manager gets 3 first picks. (7 turns in total, each player gets 2 players in each turn, totals 14 outfield players)
 
 ## Referee
 
@@ -27,18 +27,18 @@ Place the referee cards face down and pick 1 at random. Place the referee card f
 
 ## Added time
 
-At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for that many Actions before the half/match is over. **The maximum number of actions there can be in each half is 7. The only time an action can be exceeded by 1 is if a penalty is awarded in the last action of the half.**
+At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for that many Actions before the half/match is over. **The maximum number of actions there can be in each half is 7 (3 in extra time of cup games). The only time an action can be exceeded by 1 is if a penalty is awarded in the last action of the half.**
 
 An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
 
-**Remember:**
+**These are NOT actions:**
 - A movement phase before a throw in is not considered an action.
-- A nutmeg is part of the movement phase and not a separate action.
-- The final thirds movement is not a separate action.
+- A nutmeg because it is part of the movement phase.
+- The final thirds movement.
 
 ## Jackpot ⭐ Roll
 
-When the game is played using 12-sided dice, the Jackpot Roll is in effect.  If a player rolls a ⭐ they automatically win whatever duel they are contesting. This is called a jackpot roll. If the opponent also rolls a ⭐ then the contest is a tie, regardless of the attribute values for those players, and is resolved as before with a loose ball. For all other rolls, treat the ⭐ as a 6.
+When the game is played using 12-sided dice, the Jackpot Roll is in effect.  If a player rolls a ⭐ they automatically win whatever duel they are contesting. This is called a jackpot roll. If the opponent also rolls a ⭐ then the contest is a tie, regardless of the attribute values for those players, and is resolved as usual with a loose ball. For all other rolls, treat the ⭐ as a 6.
 Duels are the following:
 - Shots vs Saves
 - Tackling vs Dribbling
