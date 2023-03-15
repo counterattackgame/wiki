@@ -16,6 +16,7 @@ Tira un dado per determinare la direzione verso cui la palla verrà deviata. Ad 
 
 Per determinare la distanza a cui finirà la palla, tira nuovamente un dado. Il dado ti dirà di quanti esagoni la palla viaggerà. Inizia a contare dall'esagono dove ha luogo la deviazione.
 
+- Se la palla vagante finisce nella Zona di Influenza (ZOI) di un difensore, il giocatore può cercare di recuperare il pallone lanciando un 6 o “Tackling + Dice” &gt;= 10. Se riesce a recuperarlo il gioco riprende con una delle azioni comprese nella sezione “Any Other Scenario”.
 - Se la palla non colpisce nessun altro giocatore mentre viaggia, **continua** la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase) oppure, se non eri in una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), iniziane una con la squadra in attacco che muove per prima
 - Se la palla _colpisce_ un attaccante durante una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), **continua** la [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), oppure se non era in corso una [Movement Phase](https://counterattackgame.github.io/wiki/it/movement_phase), iniziane una con la squadra in attacco che muove per prima, ma l'attaccante può decidere di effettuare uno **snapshot** immediatamente.
 - Se la palla _colpisce_ un difensore mentre viaggia, la sua squadra è ora in possesso. Riprendi con "Any Other scenario"
