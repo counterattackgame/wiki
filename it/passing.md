@@ -91,6 +91,9 @@ Notare che il ricevitore del passaggio deve essere differente dal passatore.
 
 Notare anche che se il sesto esagono del First Time Pass è quello di un compagno di squadra e l'attaccante decide di passare la palla a quel giocatore quel giocatore muovendolo inoltre di un esagono ulteriore, questo non potrà portare con se il pallone. La distanza massima del First Time Pass deve essere infatti rispettata.
 
+Quando si usa il First Time Pass dopo un evento Any Other Scenario, non c’è il movimento di 1 esagono (per entrambe le squadre). La lunghezza del passaggio può essere come quella di un First Time Pass, ma è considerato come un passaggio Standard, cioè può essere seguito da un First Time Pass, fase di movimento o Snapshot. Regole di
+intercetto del passaggio vengono applicate.
+
 # Esempi Grafici
 
 ## Standard Pass
