@@ -20,7 +20,7 @@ In ogni caso, segui le istruzioni per la [Loose Ball](https://counterattackgame.
 
 ## Tiri di testa
 
-I tiri di testa non possono essere bloccati o intercettati dai difensori. Se un attaccante ha vinto un colpo di testa contro un difensore, il portiere tirerà per la [parata](https://counterattackgame.github.io/wiki/it/shooting) senza che l'attaccante tiri nuovamente. Inizia a contare gli esagoni dalla posizione **della palla**, non da chi ha vinto il colpo di testa.
+I tiri di testa non possono essere bloccati o intercettati dai difensori. Se un attaccante ha vinto un colpo di testa contro un difensore, il portiere tirerà per la [parata](https://counterattackgame.github.io/wiki/it/shooting) senza che l'attaccante tiri nuovamente. Inizia a contare gli esagoni dalla posizione **della palla**, non da chi ha vinto il colpo di testa. In un contrasto aereo, in cui il giocatore in attacco dichiara che il colpo di testa è un tiro, se il suo migliore score è ottenuto lanciando un 1 (Es. H6 + Lancio 1 vs H3 + Lancio 3), solo allora il colpo di testa finisce automaticamente fuori. Quando l’attaccante lancia un 1, tutti i difensori devono lanciare il dado per determinare se hanno vinto il duello aereo.
 
 ## Passaggi di testa
 
