@@ -54,6 +54,10 @@ A seguito di un contrasto aereo, un [portiere](https://counterattackgame.github.
 
 Da certe posizioni in campo, nel range per un tiro, è più difficile fare goal. Tirare dagli esagono segnati con un puntino è possibile, ma il tiro avrà una penalità di -1 al dado.
 
+## Tiri e Snapshot da dentro l’area di rigore
+
+Tiri e Snapshot da dentro l’area di rigore non sono limitati dalla regola della massima distanza per un tiro normale (11 esagoni). Un tiro da dentro l’area di rigore può andare verso qualsiasi punto della porta. Tiri e Snapshot da fuori l’area di rigore sono limitati dalla regola della massima distanza per un tiro normale.
+
 ## Decidere l'esagono dell'eventuale Parata del Portiere
 
 Ricorda sempre che:
