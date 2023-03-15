@@ -57,6 +57,8 @@ Un giocatore che si infortuna una seconda volta nello stesso match deve essere s
 
 Lanciare il dado. Se il dado è uguale o maggiore della Leniency dell'arbitro, il giocatore che ha effettuato il fallo riceve un cartellino giallo. Il giocatore che riceve un secondo cartellino giallo è espulso. Il gioco si ferma per un calcio di punizione o un rigore se il giocatore riceve un cartellino rosso.
 
+Sotto i casi in cui il controllo della Leniency è tra cartellino giallo o rosso. Un fallo commesso dal portiere in area di rigore (calcio di rigore) è sottoposto al controllo tra No Ammonizioni e Cartellino Giallo, anche se fallo “da ultimo uomo” o “da dietro”. Il portiere può essere espulso solo ricevendo un secondo cartellino giallo, in caso di Reckless tackle (vedi sotto) o prendendo la palla di mano fuori dall’area di rigore.
+
 ## Tackles da Dietro
 
 Se un difensore cerca di fare un tackle da dietro, un lancio di dado di 1 o 2 è considerato fallo. Assumiamo che un attaccante è direzionato verso il centro della porta avversaria. Ci sono 2 esagoni che sono considerati "dietro", e sono quelli in cui l'attaccante non si avvicinasse alla porta avversaria in caso l'attaccante vi si riposizionasse vincendo il tackle.
