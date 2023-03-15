@@ -66,5 +66,6 @@ Ricorda sempre che:
 - Il portiere può solo parare negli esagoni paralleli alla linea di porta. C’è una linea teorica di 7 esagoni per la parata, compreso quello nel quale è posizionato il portiere: 3 esagoni in ogni lato sempre parallelo alla linea di porta.
 - Il pallone viaggia su una linea, ma non è un punto. È tondo con un raggio non negativo, dunque mentre viaggia può passare per più esagoni contemporaneamente.
 Il portiere para sempre nell'esagono **più vicino** nel quale passa la traiettoria del pallone.
+- Il Portiere para sempre nell’esagono più vicino a lui rispetto alla traiettoria del pallone.
 
 [Ritorna all'Home Page](https://counterattackgame.github.io/wiki/it/index)
