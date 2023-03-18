@@ -32,7 +32,7 @@ At the end of each half, roll the dice and add the result to the referee's Lenie
 An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
 
 **These are NOT actions:**
-- The **first** movement phase before a throw (if a second mouvement phase is called, the latter counts as an action since it is optional).
+- The **first** movement phase before a throw (if a second movement phase is called, the latter counts as an action since it is optional).
 - A nutmeg because it is part of the movement phase.
 - The final thirds movement.
 
