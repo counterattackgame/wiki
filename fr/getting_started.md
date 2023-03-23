@@ -1,17 +1,18 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/getting_started) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/getting_started) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/getting_started) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/getting_started) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/getting_started)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
-# Getting Started
+# Pour commencer
 
-A team squad is made up of 16 players; 1 [goalkeeper](https://counterattackgame.github.io/wiki/fr/goalkeeper), 10 outfielders and 5 substitutes. Here’s how to draft squads at the start of the game.
+Une équipe est composée de 16 joueurs : 1 [gardien de but](https://counterattackgame.github.io/wiki/fr/goalkeeper), 10 joueurs de champ et 5 remplaçants. Voici comment sélectionner votre équipe au début du jeu.
 
-For online Games on Tabletopia, and especially official ones (matches played for some competition organized by members of the Counter Attack Community), players usually draft 2 [goalkeepers](https://counterattackgame.github.io/wiki/fr/goalkeeper), and 14 outfield players.
+Pour jouer en ligne sur Tabletopia, (matchs compétitifs organisés par des membres de la Communauté de Counter Attack) les joueurs sélectionnent 2 [gardiens de but](https://counterattackgame.github.io/wiki/fr/goalkeeper) et 14 joueurs de champ.
 
-## [Goalkeepers](https://counterattackgame.github.io/wiki/fr/goalkeeper)
+## [Gardien de but](https://counterattackgame.github.io/wiki/fr/goalkeeper)
 
-Place the goalkeeper cards face down and pick 1 goalkeeper each.
+Placer les cartes gardien de but face cachée et tirez-en une chacun.
 
-Official Online games: Flip the GK deck so that all cards are face down, shuffle the deck at will, Take 4 cards, Roll the dice to see who picks first and pick two each. Many people chose to lay all the cards down to the pitch, (by selecting take 10 -all of them) then the two managers have all the cards in their view so select from there.
+Matches officiels en ligne : Placez face cachée la pile des gardiens de but, mélangez-le, tirez 4 cartes, lancez le dé pour savoir qui choisira en premier. La plupart des joueurs préfèrent étaler toutes les cartes gardien face cachée sur le terrain, (“take 14”) et les deux joueurs piochent deux cartes au hasard.
+
 
 ## Outfield Players
 
