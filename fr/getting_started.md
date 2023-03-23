@@ -14,27 +14,37 @@ Placer les cartes gardien de but face cachée et tirez-en une chacun.
 Matches officiels en ligne : Placez face cachée la pile des gardiens de but, mélangez-le, tirez 4 cartes, lancez le dé pour savoir qui choisira en premier. La plupart des joueurs préfèrent étaler toutes les cartes gardien face cachée sur le terrain, (“take 14”) et les deux joueurs piochent deux cartes au hasard.
 
 
-## Outfield Players
+## Joueurs de champ
 
-Shuffle the cards and place 4 of them face up. You choose 1 of these cards, your opponent chooses next. You then pick 1 of the remaining cards and your opponent takes the final card. Repeat this process with the rest of the player cards, taking turns with who picks first. Keep going until you both have 15 outfield players.
+Mélangez les cartes et placez-en 4 face visible. Choisissez l’une de ces cartes puis votre adversaire choisit. Choisissez ensuite une des cartes restantes et enfin votre adversaire prend la dernière carte.
+Répétez l’opération avec le reste des cartes de joueurs, en changeant à chaque fois le joueur qui choisit en premier. Continuez jusqu’à avoir chacun 15 joueurs de champ.
 
-Now it’s time to decide which 11 players will make up your starting team, and which will be your 5 substitutes. Allocate a squad number 1-11 to each starting player and place them in their corresponding spaces at the sides of the pitch.
+Il est désormais temps de choisir quels seront les 11 joueurs titulaires et quels seront les remplaçants. Sélectionnez les numéros des titulaires de 1 à 11 et placez les cartes sur les emplacements dédiés sur les côtés du terrain.
 
-Official Online games: Roll dice for who picks first, Flip the Outflield players Deck, so that all cards are facing down, shuffle the deck at will, "Take" 4 cards, and pick one card each until all 4 cards are taken. Repeat process until each player has 14 outfield players,  taking turns on who picks first. The winner of the initial rolls should get 4 first picks and the other manager gets 3 first picks. (7 turns in total, each player gets 2 players in each turn, totals 14 outfield players)
+Matches officiels en ligne : lancez le dé pour savoir qui choisit en premier, mélangez l’intégralité du paquet de cartes, face cachée. Sélectionner (“take”) 4 cartes, placez-les face visible et choisissez une carte chacun. Répétez l’opération jusqu’à avoir 14 joueurs de champ en changeant à chaque fois le joueur qui choisit en premier.
+Le vainqueur du lancer de dé initial aura ainsi 4 tirages en premier contrairement à l’autre manager qui n’en aura que 3 (7 tours au total, chaque manager a 2 joueurs chaque tour, pour un total de 14 joueurs de champ).
 
-## Referee
+## Arbitre
 
-Place the referee cards face down and pick 1 at random. Place the referee card face up at the side of the pitch.
+Placez les cartes arbitres face cachée et piochez-en une au hasard. Placez cette carte face visible sur le bord du terrain.
 
-## Added time
+## Temps additionnel
 
-At the end of each half, roll the dice and add the result to the referee's Leniency. Play continues for exactly that many Actions before the half/match is over. If a Penalty is awarded in the last action of the match, this is the only reason why the actions can be exceeded by 1. 
+A la fin de chaque mi-temps, lancez un dé et ajoutez le résultat à la tolérance de l’arbitre (Leniency). Le jeu continue alors pendant ce nombre d’actions jusqu’à la mi-temps/fin du match. **Le nombre d’actions additionnelles est plafonné à 7 par mi-temps (3 en prolongation). Il ne peut y avoir une action supplémentaire en plus que si un penalty est accordé sur la dernière action.**
+Une action est une décision prise par le joueur en attaque : une phase de mouvement, une passe standard, une passe en une touche, une passe courte (depuis une touche ou un corner), une relance rapide du gardien, une passe haute, une passe longue, une tête, une tentative de contrôle, et un tir (standard ou instantané)
 
-An Action is what an attacker can call as the next thing to happen.  The actions are the following: Movement Phase, Standard Pass, First Time Pass, Short Pass (from a throw-in or a corner), Goalkeepers’ Quick Throw, High Pass, Long Pass, Header, Attempt to control the ball, and (Snap)Shot).
 
-**Remember:**
-- A movement phase before a throw in is not considered an action.
-- A nutmeg is part of the movement phase and not a separate action.
-- The final thirds movement is not a separate action.
+**Ne sont pas des actions:**
+- La première phase de mouvement avant une rentrée de touche (si une deuxième phase de mouvement est appelée, elle compte comme une action).
+- Un petit pont, car il fait partie intégrante de la phase de mouvement.
+- Les mouvements des tiers finaux (“final thirds”)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
+##Jackpot ⭐
+Le “Jackpot” est applicable lorsqu’on joue avec des D12. Si un joueur obtient une ⭐ il gagne automatiquement le duel. Ceci est appelé un “Jackpot roll”. Si l’adversaire obtient également une ⭐ alors il y a égalité, quelle que soit la valeur des capacités des joueurs. On applique alors la règle du ballon perdu. Pour tous les autres lancers de dés, considérez-les ⭐ comme un 6. Les duels sont : 
+- Tir vs Arrêt
+- Tacle vs Dribble
+- Sortie dans les pieds vs dribbles 
+- Duels de la tête
+
+
+[Retour à la page d’accueil](https://counterattackgame.github.io/wiki/fr/index)
