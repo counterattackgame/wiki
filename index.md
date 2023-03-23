@@ -21,13 +21,11 @@ In this way competitive matches will be played between players in similar experi
 
 There is a chance you may have to play a player of a different division if you draw against them in the **Cup competition**.
 
-This is where anything can happen, teams are drawn without restrictions fighting their way to the final. 
-
-In Season 3, 27% of Cup matches saw teams of lower divisions advancing over stronger opponents. The final featured a team from the 5th league!!
+This is where anything can happen, teams are drawn without restrictions fighting their way to the final.  Lower ranked teams upsetting the "Big Boys" is not uncommon.  It happens during every cup tournament.
 
 In order to spice things up, we invite the champions of each division, along with the best runner-ups and the Cup Winner of the previous season to form a Champions League competition!
 
-Take your spot in Season 4 by expressing interest in the #0-s4-general channel of our Discord Server.
+Check back regularly in our Discord Server for announcements concerning the current season and the next season.  You may post questions in the #general channel.  Someone will pick up your question and find an answer.
 
 You can always practice by asking our friendly community for a friendly match, in the #looking-for-a-game channel.
 
