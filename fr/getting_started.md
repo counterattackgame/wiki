@@ -39,7 +39,8 @@ Une action est une décision prise par le joueur en attaque : une phase de mouve
 - Un petit pont, car il fait partie intégrante de la phase de mouvement.
 - Les mouvements des tiers finaux (“final thirds”)
 
-##Jackpot ⭐
+## Jackpot ⭐
+
 Le “Jackpot” est applicable lorsqu’on joue avec des D12. Si un joueur obtient une ⭐ il gagne automatiquement le duel. Ceci est appelé un “Jackpot roll”. Si l’adversaire obtient également une ⭐ alors il y a égalité, quelle que soit la valeur des capacités des joueurs. On applique alors la règle du ballon perdu. Pour tous les autres lancers de dés, considérez-les ⭐ comme un 6. Les duels sont : 
 - Tir vs Arrêt
 - Tacle vs Dribble
