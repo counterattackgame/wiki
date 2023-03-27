@@ -118,7 +118,7 @@ If the nutmeg challenge results in a free-kick and attacker chooses to take it, 
 - The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
 - When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
 - A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/en/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/en/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
+- When a defender picks up a ball that was [loose](https://counterattackgame.github.io/wiki/en/loose_ball), the movement ends immediately and play resumes with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/en/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
 - As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
 - If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
 - When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
@@ -130,22 +130,22 @@ If the nutmeg challenge results in a free-kick and attacker chooses to take it, 
 ## Movement Phase
 
 Blue is in Possession and thus the "attacking team".
-They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a a steal, which let's say he fails), and then R4.
-If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") change. R4 does not reposition ,And Play continues with "Any Other Scenario"
-If R4 rolls a 1, then a foul is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
+They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a steal, which let's say he fails), and then R4.
+If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") changes. R4 does not reposition, and Play continues with "Any Other Scenario"
+If R4 rolls a 1, then a foul is committed, Leniency and Resilience tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
 Let's assume that R4 rolled a 3, so nothing happens.
 
 ![Movement 1](../docs/movement_1.png)
 ## Defensive Movement Phase starts.
 R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
 If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywhere around R4.
-In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is thechnically in the Defensive Part of the Movement (blue is not dribbling into the box).
+In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is technically in the Defensive Part of the Movement (blue is not dribbling into the box).
 
 ## Nutmeg during a Movement Phase
 
 Blue is in Possession with 10, who has a Pace of 5 and Dribbling of 6. He is also Brazilian and decides to go for glory.
 He has enough pace to attempt a nutmeg to R2, calls the nutmeg, wins the duel despite R2 got a tackling bonus of +1.
-B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5, as he was just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
+B10 is fully determined as the crowd is cheering. He calls another nutmeg on R5, as he has just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
 
 ![Movement 2](../docs/movement_2.png)
 
