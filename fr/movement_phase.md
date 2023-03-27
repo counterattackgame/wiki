@@ -117,37 +117,30 @@ En cas d’égalité il faudra suivre les règles de ballon libre, mais l’atta
 - Il existe une zone d’influence des joueurs en défense lorsqu’on tente de récupérer un ballon libre. Ainsi un joueur en défense (gardien compris) peut tenter de récupérer le ballon lorsqu’il se trouve sur une case adjacente à ce dernier (6 ou score combiné tacle + dé supérieur ou égal à 10). Ceci ne peut être réalisé que par l’équipe en défense. En cas de succès, le joueur attire le ballon à lui, la phase de mouvement s’arrête immédiatement et le jeu reprend par “Tout autre scénario”.  
 
 
-# Graphical Examples
+# Exemples graphiques
 
-## Movement Phase
+## Phase de mouvement
 
-Blue is in Possession and thus the "attacking team".
-They attempt these 4 moves, B10 is acting risky there, by going into the R8 ZOI (twice, but R8 gets only once chance for a a steal, which let's say he fails), and then R4.
-If R4 rolls a 6 (or a 10+ Tackling) the ball is stolen, Movement Phase comes to an end as possession (and thus "attacking team") change. R4 does not reposition ,And Play continues with "Any Other Scenario"
-If R4 rolls a 1, then a fouls is committed, Leniency and Resiliece tests are forced, and then Blue decide if they want to take the Free Kick or not. (See Set Pieces Section for more info on that)
-Let's assume that R4 rolled a 3, so nothing happens.
+Les bleus sont en possession de la balle, il s’agit donc de l’équipe en attaque. Ces 4 joueurs sont déplacés, le n°10 bleu agit dangereusement ici en pénétrant dans la zone d’influence du n°8 rouge (deux fois - mais le n°8 ne tente l’interception qu’une seule fois - considérons ici qu’il a échoué) et finit sa course dans la zone d’influence du n°4 rouge. Ce dernier interceptera le ballon s’il fait 6 au dé (ou un score combiné tacle + dé supérieur ou égal à 10). Dans ce cas de figure, la phase de mouvement s’arrête et la possession change (l’équipe attaquante également). Le n°4 n’est pas repositionné et le jeu continue avec “Tout autre scénario”. Si le n°4 fait 1, alors il y a faute ; on vérifie s’il y a carton et/ou blessure et l’équipe bleue décide si elle souhaite un coup-franc ou jouer l’avantage (voir la section Coups de pied arrêtés). Partons du principe que le n°4 a fait 3 au dé de sorte que rien ne se passe.
 
 ![Movement 1](../docs/movement_1.png)
-## Defensive Movement Phase starts.
-R4 tackles from where he stands, as he touches B10, but that is counted as a move for Red.
-If Blue keeps possession after an unsuccessful tackle, B10 can reposition anywher around R4.
-In case B10 ends within the Penalty Box after a reposition, the GK gets a free move of 1 Hex, but Blue cannot Snapshot, as it is thechnically in the Defensive Part of the Movement (blue is not dribbling into the box).
+## Début de la phase de mouvement défensive
 
-## Nutmeg during a Movement Phase
+Le n°4 rouge tacle depuis sa position, ce qui compte quand même comme un mouvement pour les rouges. Si les bleus conservent la possession après ce tacle raté, le n°10 bleu peut se repositionner n’importe où autour du n°4. Si le repositionnement du n°10 s’effectue dans la surface, le gardien de but obtient un mouvement gratuit d’une case, mais le porteur de balle ne peut pas tirer car nous sommes dans la partie défensive de la phase de mouvement.
 
-Blue is in Possession with 10, who has a Pace of 5 and Dribbling of 6. He is also Brazilian and decides to go for glory.
-He has enough pace to attempt a nutmeg to R2, calls the nutmeg, wins the duel despite R2 got a tackling bonus of +1.
-B10 is fully determined as the crowd is cheering. He calls annother nutmeg on R5, as he was just enough Pace to reach the other side of him. For the sake of the example he wins the duel fair and square, and calls a snapshot. But B10 rolls a 1 so shoots over the bar...but it was a world class move!
+## Petit pont pendant la phase de mouvement
+
+Les bleus sont en possession de la balle avec le n°10, il a 5 en vitesse et 6 en dribble. C’est un Brésilien donc il décide de jouer pour le spectacle. Il a assez de cases restantes pour tenter un petit pont sur le n°2 rouge. Le joueur annonce le petit pont puis gagne le duel malgré le bonus de +1 en tacle pour le n°2. Le n°10 est déterminé et les supporters sont en folie. Il annonce un autre petit pont (joga bonito) sur le n°5 rouge. Il a juste assez de cases restantes pour dépasser son adversaire. Pour cet exemple, considérons que le n°10 gagne ce nouveau duel et annonce un tir instantané (Snapshot). Mais il obtient un 1 et envoie la balle au-dessus de la barre… mais après une action de classe mondiale !
 
 ![Movement 2](../docs/movement_2.png)
 
-### Two points to consider here:
-- Winning a Nutmeg practically allows a reposition, but it consumes 2 Paces whatsoever.
-- If B10 had a Pace of 4, he could not have attempted the nutmeg on R5.
+### Remarques 
+- Réussir un petit pont revient pratiquement à se repositionner, mais cela consomme deux cases dans tous les cas
+- Si le n°10 bleu avait eu une vitesse de 4, il n’aurait pas pu tenter le deuxième petit pont sur le n°5.
 
-### Dribbling in and out of the Penalty Box
+### Entrer et sortir de la surface de réparation avec le ballon
 
-B10 wants to play it safe and avoid all possible steal attempts, so he follows the below path. He essentially enters the box twice, (in the two dark Hexes) so he should have stopped his movement twice to ask the keeper if they wanted to move their free Hex of 1.
+Le n°10 bleu veut jouer la sécurité et éviter toutes les possibilités d’interception, il suit donc le chemin ci-dessous. Il entre donc deux fois dans la surface de réparation (dans les deux cases sombres), il aurait dû stopper son mouvement deux fois pour demander au gardien adverse s’il souhaitait profiter de sa case gratuite.
 
 ![Movement 3](../docs/movement_3.png)
 
