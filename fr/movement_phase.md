@@ -1,11 +1,10 @@
 [Read this page in English](https://counterattackgame.github.io/wiki/movement_phase) - [Lire cette page en Français](https://counterattackgame.github.io/wiki/fr/movement_phase) - [Leggi questa pagina in Italiano](https://counterattackgame.github.io/wiki/it/movement_phase) - [Lê esta página em Português](https://counterattackgame.github.io/wiki/pt/movement_phase) - [Διαβάστε αυτή τη σελίδα στα Ελληνικά](https://counterattackgame.github.io/wiki/gr/movement_phase)
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
-# Movement Phase
+# Phase de mouvement
 
-A Movement Phase represents a split second on the football pitch. The attacking manager can start a Movement Phase after every action except a high pass. One Movement Phase can follow another if the attacking manager wishes.
-
-Each player’s Pace attribute determines how far they can travel in a Movement Phase e.g. a player with pace of 6 can move up to a total of 6 hexes during a Movement Phase. Players cannot move through teammates or opposition players.
+Une phase de mouvement correspond aux déplacements simultanés des joueurs sur le terrain. L’équipe en attaque peut démarrer une phase de mouvement après n’importe quelle action, sauf une passe haute. Plusieurs phases de mouvement peuvent se succéder.
+Chaque joueur a une caractéristique de vitesse (Pace) qui détermine la distance qu’il peut parcourir en une phase de mouvement. Par exemple, un joueur ayant une vitesse de 6 pourra se déplacer de 6 cases pendant une phase de mouvement. Les joueurs ne peuvent pas traverser de cases occupées par d’autres joueurs (sauf un petit pont - voir plus bas).
 
 During a Movement Phase, follow the 4-5-2 sequence:
 
@@ -18,7 +17,14 @@ All they have to do is roll a 6 OR achieve a combined score of 10+ (Tackling + d
 If the defender succeeds, the Attacker does not exceed his pace and play continues with Any other Scenario
 If the defender fails, the attacker can continue moving through the defender’s Zone of Influence, but no more ‘steal’ attempts are made by that defender.
 
-Remember that a **roll of 1 when attempting a steal** is a foul, so refer to the Fouls section for more info.
+La phase de mouvement suit une séquence « 4 – 5 – 2 » : 
+1. L’équipe en attaque déplace 4 joueurs (dont le gardien, si nécessaire)
+2. L’équipe en défense déplace 5 joueurs (idem)
+3. L’équipe en attaque déplace 2 autres joueurs de 2 cases maximum (idem).  
+
+Pendant la phase de mouvement, si un joueur en possession du ballon passe par une case voisine d’un joueur adverse, celui-ci DOIT essayer d’intercepter le ballon. Pour récupérer le ballon, le joueur en défense doit obtenir un 6 au dé, ou un score combiné (tacle + dé) supérieur ou égal à 10. S’il y parvient, le joueur en attaque cesse immédiatement son déplacement et le jeu continue par "Tout autre scénario" (Any other scenario). En cas d’échec de l’interception, le porteur de balle peut continuer son mouvement dans la zone d’influence du joueur concerné sans que celui-ci puisse tenter à nouveau l’interception.
+
+Si le joueur en défense qui tente l’interception fait 1 au dé, il commet une faute (voir plus bas).
 
 **Actions during the Movement Phase**
 
