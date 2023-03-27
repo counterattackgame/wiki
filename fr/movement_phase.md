@@ -144,4 +144,4 @@ Le n°10 bleu veut jouer la sécurité et éviter toutes les possibilités d’i
 
 ![Movement 3](../docs/movement_3.png)
 
-[Back to Home Page](https://counterattackgame.github.io/wiki/fr/index)
+[Retour à la page d’accueil](https://counterattackgame.github.io/wiki/fr/index)
