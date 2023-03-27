@@ -6,17 +6,6 @@
 Une phase de mouvement correspond aux déplacements simultanés des joueurs sur le terrain. L’équipe en attaque peut démarrer une phase de mouvement après n’importe quelle action, sauf une passe haute. Plusieurs phases de mouvement peuvent se succéder.
 Chaque joueur a une caractéristique de vitesse (Pace) qui détermine la distance qu’il peut parcourir en une phase de mouvement. Par exemple, un joueur ayant une vitesse de 6 pourra se déplacer de 6 cases pendant une phase de mouvement. Les joueurs ne peuvent pas traverser de cases occupées par d’autres joueurs (sauf un petit pont - voir plus bas).
 
-During a Movement Phase, follow the 4-5-2 sequence:
-
-1. Attacking manager moves 4 players (Can include the GK)
-2. Defending manager moves 5 players (Can include the GK)
-3. Attacking manager moves 2 new players, up to a maximum of 2 hexes each (Can include the GK)
-
-During the Movement Phase, if the player in possession of the ball moves the ball within 1 hex of an opponent, the defender MUST try to steal the ball.
-All they have to do is roll a 6 OR achieve a combined score of 10+ (Tackling + dice roll)
-If the defender succeeds, the Attacker does not exceed his pace and play continues with Any other Scenario
-If the defender fails, the attacker can continue moving through the defender’s Zone of Influence, but no more ‘steal’ attempts are made by that defender.
-
 La phase de mouvement suit une séquence « 4 – 5 – 2 » : 
 1. L’équipe en attaque déplace 4 joueurs (dont le gardien, si nécessaire)
 2. L’équipe en défense déplace 5 joueurs (idem)
@@ -26,22 +15,24 @@ Pendant la phase de mouvement, si un joueur en possession du ballon passe par un
 
 Si le joueur en défense qui tente l’interception fait 1 au dé, il commet une faute (voir plus bas).
 
-**Actions during the Movement Phase**
+**Actions possibles pendant la phase de mouvement**
 
-- You cannot make a [pass](https://counterattackgame.github.io/wiki/fr/passing) until the Movement Phase has ended. However, you can take a [Shoot](https://counterattackgame.github.io/wiki/fr/shooting) during a Movement Phase if your player has the ball in the box.
-- If a defender moves a player within 1 hex of the attacker in possession, a tackle can be attempted. Pause the sand timer while making the tackle.
-- If a player is successfully tackled during the Movement Phase, possession of the ball changes hands and the current Movement Phase immediately comes to an end.
+- Il n’est pas possible de faire une [passe](https://counterattackgame.github.io/wiki/fr/passing) avant la fin de la phase de mouvement. Néanmoins, il est possible de tirer durant la phase de mouvement si le porteur de balle entre dans la surface de réparation (tir instantané - [Snapshot](https://counterattackgame.github.io/wiki/fr/shooting).
+- Si un défenseur se déplace sur une case voisine du porteur de balle, il peut tenter un tacle. Mettez en pause le sablier le temps du tacle.
+- Lorsqu’un tacle est réussi pendant la phase de mouvement, la possession du ballon change et la phase de mouvement en cours prend fin immédiatement..
 
 
-## Tackling vs Dribbling
+## Tacle et dribble
 
-Tackling is a duel between the defender and the attacker. A tackle can be attempted if a defender moves within 1 hex of the player with the ball during a Movement Phase
+Un tacle est un duel entre le joueur en défense et le porteur de balle. Un tacle peut être tenté si le joueur de l’équipe en défense se déplace sur une case voisine du porteur de balle pendant la phase de mouvement. Lancez le dé et additionnez les résultats respectifs à la caractéristique dribble du porteur de balle et tacle du joueur de l’équipe en défense
 
-In the event of a tie, follow the [Loose Ball](https://counterattackgame.github.io/wiki/fr/loose_ball) instructions. (if ball hits defender or no-one: Any other scenario. 
-- If the ball hits an attacker, continue the current movement)
-- If the defender rolls a 1, the attacker can play on or claim a foul.
-- If the attacker’s score is higher, the tackle was unsuccessful. The attacking player may now be repositioned in any hex surrounding the defender.
-- If the defender’s score is higher, the tackle was successful and ball possession changes. The defender’s manager may reposition their player into any hex surrounding the player they just tackled. The Movement Phase comes to an end and play resumes.
+S’il y a égalité, il faut suivre la règle du  [ballon libre](https://counterattackgame.github.io/wiki/fr/loose_ball). 
+- si le ballon touche un joueur de l’équipe en attaque alors la phase de mouvement continue 
+- si le ballon touche un joueur de l’équipe en défense ou est récupéré par un déplacement d’un joueur en défense, suivre “Tout autre scénario”
+- si le joueur en défense fait 1 au dé, l’équipe en attaque peut jouer l’avantage ou demander la faute
+- si le score combiné du porteur de balle est supérieur alors le tacle est raté. Le porteur de balle peut alors être repositionné sur n’importe quelle case autour du joueur en défense
+- si le score combiné du joueur en défense est supérieur, le tacle est réussi et la possession change. Le joueur ayant réalisé le tacle peut être repositionné sur n’importe quelle case autour du joueur taclé.  La phase de mouvement s’arrête et l’équipe qui récupère le ballon choisit l’action suivante.
+
 
 ## Foul
 
