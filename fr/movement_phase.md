@@ -93,29 +93,28 @@ C’est un mouvement difficile à effectuer mais qui vaut le coup en cas de réu
 5. Le joueur en défense ne peut pas esquiver la tentative de petit pont et DOIT défendre
 
 
-### What happens if the nutmeg is successful:
+### En cas de réussite :
 
-- The attacker moves to any hex on the other side of the defender. The defender is **stunned** and cannot move during the Movement Phase. 
-- The attacker can move to one of the three hexes on the other side of the defender, and continue his move if he has any Pace remaining.
+- Le joueur attaquant se déplace sur l’une des 3 cases situées de l’autre côté du défenseur et peut continuer son déplacement s’il lui reste des cases.
+- Le défenseur est **mystifié** et ne peut plus participer à la phase de mouvement en cours.
 
-### What happens if the nutmeg is unsuccessful:
+### En cas d’échec:
 
-The defender wins the tackle and play continues in the usual manner, by repositioning around the attacker, who does not go through the defender.
+Le joueur en défense gagne le duel (considéré comme un tacle) et le jeu se déroule de manière habituelle, en se repositionnant autour du joueur en attaque (qui ne passe donc pas au travers de son adversaire).
 
-If it’s a tie, refer to the [Loose Ball](https://counterattackgame.github.io/wiki/fr/loose_ball) instructions, but the attacker who initiated nutmeg cannot move - regardless of how much pace he has already used.
+En cas d’égalité il faudra suivre les règles de ballon libre, mais l’attaquant qui a tenté le petit pont ne peut plus bouger même s’il lui restait des cases à parcourir.
 
-# Extra Notes
-- Defender does not get to choose whether to Steal during the attacker's dribble, they DO have to roll, with the risk of unintentionally fouling.
-- Same goes with the Nutmeg, the defender cannot just accept that it was successful, and its consequences, instead of taking part in a duel.
-- Defending a steal or a nutmeg is NOT a choice. You have to defend.
-- The attacker must call the attempt for a nutmeg when approaching the defender, so that the targeted defender does not get a steal attempt. Other closeby defenders get their chance for a steal, including the defenders whose ZOI the attacker lands after the successful nutmeg.
-- When attempting a nutmeg you are using 2 Pace which needs to be available (one for the Defender's Hex and one for the Hex around them)
-- A player or the ball can be placed on any hex visible (fully or partly) on the pitch. All those hexes are considered WITHIN bounds, so in order to have a throw-in, goal-kick and of course a goal, the ball has to move to a theoretical (non visible) adjacent hex towards the outer side of the board.
-- When picking up a ball that was [loose](https://counterattackgame.github.io/wiki/fr/loose_ball), the movement ends immediately and resume with any other scenario. If you pick it up with the [Goalkeeper](https://counterattackgame.github.io/wiki/fr/goalkeeper) within the penalty box using your hands, and continue play as if you Saved and Held a shot.
-- As soon as the attacker steps into the box with the ball, the GK has to move the allowed 1 hex. The attacker then continues their move, if pace allows.
-- If an attacker with the ball enters, leaves and reenters the penalty box in one Movement Phase, the GK gets a free move every time that attacker enters the box.
-- When trying to collect an unclaimed ball, there is a ZOI of defenders. If the ball is not in possession, if a defender goes within one Hex to it (even the Goalkeeper), he can roll as if he was trying a steal.
-- This can only be done by the defence, and if successful, player attracts the ball, Movement Phase ends immediately and play continues as a successful steal: “Any other Scenario”
+
+# Remarques
+- Le joueur en défense est obligé de tenter une interception pendant le dribble de l’attaquant. Il DOIT donc lancer le dé et risquer de commettre une faute non intentionnelle.
+- Il en est de même pour le petit pont, le joueur en défense ne peut pas juste se laisser faire et accepter d’être bloqué. Il DOIT défendre.
+- L’équipe en attaque doit annoncer à l’avance la tentative de petit pont, de sorte que le joueur ciblé ne peut pas tenter l’interception avant le duel. Les autres défenseurs à proximité peuvent tenter de subtiliser le ballon comme d’habitude, y compris les défenseurs dont la zone d'influence se trouve à l'arrivée du petit pont.
+- Lorsque vous tentez un petit pont, il doit rester a minima 2 cases à parcourir au porteur de balle (une pour la case occupée par le défenseur, et une pour la case d'arrivée).
+- Les joueurs et le ballon ne peuvent être placés que sur les cases visibles du terrain (y compris les cases incomplètes). Toutes ces cases sont à l’intérieur du terrain. Pour obtenir une touche, une sortie de but/corner ou bien entendu un but, le ballon devra donc atteindre une case théorique (non visible) située en dehors de celui-ci.
+- Lorsqu’un joueur en défense récupère un ballon libre, la phase de mouvement en cours s’arrête et le jeu continue par “Tout autre scénario”. Si c’est avec le gardien de but avec ses mains dans la surface de réparation, alors le jeu continue comme s’il avait capté un tir.
+- Dès que le porteur de balle entre dans la surface de réparation adverse, le gardien de but est autorisé à se déplacer d’une case. L’attaquant peut ensuite poursuivre son déplacement s’il lui reste des cases à parcourir.
+- Si l'attaquant porteur de balle pénètre dans la surface, puis ressort avant d'y entrer à nouveau, le gardien bénéficie de sa case de déplacement à chaque fois que l'attaquant entre dans la surface.
+- Il existe une zone d’influence des joueurs en défense lorsqu’on tente de récupérer un ballon libre. Ainsi un joueur en défense (gardien compris) peut tenter de récupérer le ballon lorsqu’il se trouve sur une case adjacente à ce dernier (6 ou score combiné tacle + dé supérieur ou égal à 10). Ceci ne peut être réalisé que par l’équipe en défense. En cas de succès, le joueur attire le ballon à lui, la phase de mouvement s’arrête immédiatement et le jeu reprend par “Tout autre scénario”.  
 
 
 # Graphical Examples
