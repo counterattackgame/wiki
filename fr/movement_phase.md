@@ -34,63 +34,64 @@ S’il y a égalité, il faut suivre la règle du  [ballon libre](https://counte
 - si le score combiné du joueur en défense est supérieur, le tacle est réussi et la possession change. Le joueur ayant réalisé le tacle peut être repositionné sur n’importe quelle case autour du joueur taclé.  La phase de mouvement s’arrête et l’équipe qui récupère le ballon choisit l’action suivante.
 
 
-## Foul
+## Fautes
 
-If your opponent rolls a 1 when making a tackle or a steal then a foul has been committed. Roll the dice to check for an injury (see below). You now have two choices: take the free kick/penalty or continue play.
+Si votre adversaire fait 1 sur une tentative de tacle ou d'interception dans les pieds, il commet une faute. Lancez le dé pour vérifier si votre joueur est blessé (voir ci-dessous). Vous avez deux possibilités : jouer le coup-franc ou le penalty, ou continuer à jouer (avantage).
 
-Even if you choose to continue play, you still have to roll the dice to determine whether your player has been injured, and your opponent still has to roll the dice to check if the defender is booked. If you decide to stop play for a free kick/penalty, refer to Set Pieces.
+Même si vous choisissez de continuer à jouer, vous devez lancer les dés pour déterminer si le joueur est blessé et si le joueur adverse est averti par l’arbitre. Si vous décidez de stopper le jeu pour tirer un coup-franc/pénalty, alors référez-vous à la partie « coups de pied arrêtés ».
 
-## To check for an injury
 
-Roll a dice. If the dice roll is equal to or higher than your player’s Resilience attribute then they are injured. Place an injury token on that player’s card.
+## Blessures
 
-An injured player’s attributes are ALL reduced by 1 for the remainder of the match. You can always substitute the player if you wish when play stops (an excellent opportunity for that is to take the foul instead of playing on.)
+L’équipe en attaque lance le dé. Le joueur est blessé si le résultat obtenu est supérieur ou égal à sa caractéristique Résilience. Placez alors un jeton blessure sur sa carte.
+Un joueur blessé voit TOUTES ses caractéristiques réduites de 1 jusqu’à la fin du match. Vous avez la possibilité de le remplacer lors d’un arrêt de jeu (une bonne solution pour cela est de ne pas laisser l’avantage).
+Les blessures ont **un effet immédiat**. Exemple : vous avancez d’une case, vous entrez dans la zone d’influence d’un joueur adverse, il commet une faute en tentant l’interception et blesse votre joueur. Si vous décidez de jouer l’avantage, le joueur est déjà blessé et pourra donc parcourir une case de moins.
+Un joueur blessé pour la seconde fois dans le même match doit être immédiatement remplacé. L’attaquant sera donc obligé de stopper le jeu, remplacer son joueur et jouer un coup de pied arrêté.
 
-Injuries have **immediate** effect. This means that if you spend 1 Pace, and get in a Defender's ZOI, he rolls for a steal and fouls, if you pick up an injury, and decide to play on, you now have one pace less to run as you are already injured.
+## Carton jaune
 
-A player that is injured for the second time in the same match, must be substituted, so the attackers must stop play to take the free kick and take the injured player out.
+L’équipe en défense lance le dé. Si le résultat est égal ou supérieur à la tolérance (Leniency) de l’arbitre, alors le joueur fautif reçoit un carton jaune. Un joueur qui reçoit un deuxième carton jaune est immédiatement exclu du terrain. Le jeu doit s’arrêter pour tirer un coup-franc ou un pénalty si un joueur reçoit un carton rouge.
 
-## To check for a booking
+## Tacle par derrière
 
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, the player who made the foul receives a yellow card. Any player who receives a second yellow card is then shown a red card and has to leave the pitch immediately. Play must stop for a free kick or penalty if a player receives a red card.
+Un résultat de 1 ou 2 au dé est considéré comme une faute si un défenseur tente un tacle par derrière. Un tacle est considéré par derrière s’il est tenté sur l'une des deux cases pour lesquelles le repositionnement du porteur de balle ne l'approcherait pas du but.
 
-## Tackles from Behind
+Un tacle par derrière est considéré comme dangereux et le joueur en défense qui le tente court le risque d’obtenir un carton rouge direct. S’il fait faute, lancez le dé.  
 
-If a defender attempts a tackle from behind, a dice roll of 1 or 2 is considered to be a foul. A tackle is considered from behind if it is attempted on either of the two hexes that a reposition of the attacker does not bring him closer to the Goal.
+- Si le résultat est strictement inférieur à la tolérance (Leniency) de l’arbitre est obtenu alors le joueur reçoit un carton jaune
+- Si le résultat est supérieur ou égal à la tolérance de l’arbitre, le joueur reçoit un carton rouge.
 
-A tackle from behind is considered dangerous so the player who makes it runs the risk of receiving a straight red card! If the foul has been committed, run a leniency check with the referee.
 
-- If you pass you will be shown a yellow card.
-- If you fail you will be given a red card.
+## Annihiler une occasion de but manifeste (“dernier défenseur”)
 
-## Professional (Last Man) Fouls
+Si votre adversaire fait faute sur vous et annihile une occasion de but manifeste, il peut recevoir un carton rouge direct!
 
-If your opponent has fouled you and stopped a clear goalscoring opportunity, then they could be shown a straight red card!
+Si aucun autre défenseur ne peut s’interposer ou s’aligner dans la même phase de mouvement alors le défenseur ayant tenté le tacle sera considéré comme “dernier défenseur”.
 
-If no other defender can get in line with/past the tackle hex in the same movement phase then the defender attempting the tackle is considered a last man.
+Lancez le dé. Si le résultat du dé est supérieur ou égal à la tolérance de l'arbitre, votre joueur reçoit un carton rouge direct, sinon il ne reçoit qu'un carton jaune.
 
-Roll a dice. If the dice roll is equal to or higher than the referee’s Leniency attribute, then your player receives a straight red card. Otherwise your player receives a yellow card.
 
-## Reckless Tackle
+## Tacle assassin (Reckless tackle)
 
-Sometimes you just want to foul your opponent! If you want to try this, you must say ‘RECKLESS TACKLE’ before rolling the dice. In this scenario, only the defender rolls the dice.
+Parfois vous n'avez qu'une envie, découper votre adversaire ! Si vous souhaitez le faire, vous devez annoncer “TACLE ASSASSIN” (Reckless tackle) avant de lancer le dé. Dans ce cas, seule l’équipe en défense lance le dé.
 
-- If you roll a 1 or 2, the reckless foul fails and the attacker avoids your challenge. Play continues, but your defender is given a yellow card for attempting a reckless tackle.
-- If you roll a 3 or higher, the attacker is cynically fouled. Run a leniency check with the referee. If you pass you will be shown a yellow card. If you fail you will be given a red card.
+- Si vous faites 1 ou 2, alors la tentative échoue et l’attaquant évite le tacle. Le jeu continue mais le défenseur reçoit un carton jaune pour avoir tenté un tacle assassin.
+- Si vous faites 3 ou plus, votre adversaire est méchamment fauché ! Vérifiez la tolérance de l'arbitre. Si le résultat du dé est inférieur, vous recevez un carton jaune. S'il est supérieur, alors c'est un carton rouge bien mérité.
+- 
+Il n’est possible de tenter un tacle assassin que si le joueur ciblé est à 3 cases au maximum du ballon.
 
-You can only make a reckless tackle on a player maximum 3 hexes of the ball.
+## Petit pont (Nutmeg)
 
-## Nutmeg a defender
+Lorsque vous avez la balle et que vous souhaitez fixer un défenseur, vous pouvez tenter un petit pont.
 
-When you have the ball and want to take on a defender you can attempt to nutmeg them.
+C’est un mouvement difficile à effectuer mais qui vaut le coup en cas de réussite. Voici comment faire : 
 
-This is a difficult move to execute but it’s worth it if you manage it! Here’s how it’s done:
+1. Approchez-vous d’un joueur en défense pendant la phase de mouvement
+2. Assurez-vous d’avoir assez de vitesse pour passer au travers du joueur adverse.
+3. Vous lancez le dé comme pour un duel Dribble/Tacle classique
+4. La caractéristique de tacle du joueur en défense est augmentée de 1
+5. Le joueur en défense ne peut pas esquiver la tentative de petit pont et DOIT défendre
 
-1. Approach a defender during a movement phase.
-2. Make sure you have enough pace to travel through the defender.
-3. You and the defender run through the usual test for a tackle.
-4. The defender’s tackling attribute is increased by 1 in this challenge.
-5. The defender MUST challenge
 
 ### What happens if the nutmeg is successful:
 
