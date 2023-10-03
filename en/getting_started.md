@@ -13,6 +13,8 @@ Place the goalkeeper cards face down and pick 1 goalkeeper each.
 
 Official Online games: Flip the GK deck so that all cards are face down, shuffle the deck at will, Take 4 cards, Roll the dice to see who picks first and pick two each. Many people chose to lay all the cards down to the pitch, (by selecting take 14 -all of them) then the two managers have all the cards in their view so select from there.
 
+Any stat that is not on a player card is considered to be 0. This means that if a Goalkeeper was to take a Shot or to Head the ball etc. their stat would be 0.
+
 ## Outfield Players
 
 Shuffle the cards and place 4 of them face up. You choose 1 of these cards, your opponent chooses next. You then pick 1 of the remaining cards and your opponent takes the final card. Repeat this process with the rest of the player cards, taking turns with who picks first. Keep going until you both have 15 outfield players.
@@ -20,6 +22,8 @@ Shuffle the cards and place 4 of them face up. You choose 1 of these cards, your
 Now it’s time to decide which 11 players will make up your starting team, and which will be your 5 substitutes. Allocate a squad number 1-11 to each starting player and place them in their corresponding spaces at the sides of the pitch.
 
 Official Online games: Roll dice for who picks first, flip the outfield players deck, so that all cards are facing down, shuffle the deck at will, "Take" 4 cards, place those cards face-up for both players to see and pick one card each until all 4 cards are taken. Repeat process until each player has 14 outfield players,  taking turns on who picks first. The winner of the initial rolls should get 4 first picks and the other manager gets 3 first picks. (7 turns in total, each player gets 2 players in each turn, totals 14 outfield players)
+
+Any stat that is not on a player card is considered to be 0. If an Outfield player is playing in the net they would have 0 Saving, 0 Handling, etc.
 
 ## Referee
 
