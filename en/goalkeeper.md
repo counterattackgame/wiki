@@ -98,5 +98,8 @@ Attack cannot place a player on a Hex that is in the 6-yard-box AND touching the
 
 A goal keeper committing a foul will only subject to No booking/Yellow leniency checks, even if their challenge was "from behind" or "professional".  Goalkeepers can be sent off with a second yellow, after the process of a Reckless tackle 
 
+## Goalkeeper as an outfield player
+
+Any attribute that is not listed on the GK card will be considered a zero.  E.g. if a keeper wants to attempt a shot, their shooting stat will be zero. 
 
 [Back to Home Page](https://counterattackgame.github.io/wiki/en/index)
