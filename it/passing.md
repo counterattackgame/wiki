@@ -102,7 +102,7 @@ Il giocatore in possesso di palla è il Red 4 (R4).
 
 - Un passaggio a R5 non può essere effettuato perché la passa passerebbe direttamente nell'esagono di White 7 (W7).
 - Un passaggio a R10 può essere effettuato, ma W7 potrebbe lanciare il dado per intercettarlo perché il pallone passa nella sua ZOI.
-- Un passaggio a R7 può essere effettuato e nessuno può intercettarlo. La palla entra nella ZOI di W5, ma l'esagono è occupato da R7, dunque l'interecetto non è possibile.
+- Un passaggio a R7 può essere effettuato e nessuno può intercettarlo. La palla entra nella ZOI di W5, ma l'esagono è occupato da R7, dunque l'intercetto non è possibile.
 
 ![Standard 1](../docs/pass_1.png)
 
@@ -112,6 +112,13 @@ Inoltre:
 
 - Se questo fosse un tentativo di Standard Pass tra i giocatori Rossi, entrambi i Blu potrebbero provare a intercettare il passaggio.
 - Se questo fosse un tentativo di Standard Pass tra i giocatori Blue, NESSUNO dei Rossi potrebbe provare a intercettare il passaggio.
+
+![Pass Interceptions](../docs/interceptions.png)
+
+- R2 (con il pallone) effettua un uno standard pass a R3, R8, (ovunque sulla diagonale) fino a R11 e nessun intercetto è possibile per nessuno dei difensori gialli.
+- La logica è che un attaccante che occupa un esagono è più forte di un difensore che applica la sua ZOI (nel caso di Yellow 3)
+- I tre difensori gialli dietro R11 sono posizionati in modo da dimostrare che se il pallone viene direttamente dalla diagonale che connette i giocatori rossi, tutti e tre sono considerati essere alle spalle di R11 e dunque non possono intercettare il passaggio.
+- Tutto il discorso non cambia in caso di passaggio di prima, se consideriamo che l'immagine mostra la situazione dopo che entrambi gli allenatori hanno effettuato il loro movimento di 1 esagono
 
 ## High Pass
 
@@ -134,7 +141,7 @@ Un First Time Pass viene provato nella direzione della freccia lunga.
 
 Mentre la palla sta viaggiando, R10 si muove di un esagono in alto per ricevere il passaggio e W7 si muove di un esagono a sinistra per provare a intercettarlo.
 
-Visto che W7 si muove nella traiettoria del pallone, W7 può intercettarlo lanciando un 5 o un 6.
+Visto che W7 si muove nella traiettoria del pallone, W7 può intercettarlo lanciando un 5 o un 6 o con un risultato combinato di 10+ (Tackling).
 
 Se W7 non dovesse riuscirci, R10 riceve il pallone nell; esagono in cui si è mosso. W5 non può intercettare il passaggio perché R10 sta occupando l'esagono dove è finito il pallone.
 
